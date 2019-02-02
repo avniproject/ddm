@@ -1,0 +1,18 @@
+{
+  "name": "ddm-config",
+  "version": "0.0.1",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenCHS/ddm.git"
+  },
+  "license": "AGPL-3.0",
+  "scripts": {},
+  "dependencies": {
+    "webpack": "^4.12.0"
+  },
+  "devDependencies": {
+    "rules-config": "github:openchs/rules-config#30bc80c",
+    "amazon-cognito-identity-js": "1.28.0"
+  }
+}

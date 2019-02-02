@@ -1,0 +1,12 @@
+{
+  "organisationUUID": "750cf4e0-1909-47f0-8952-836ae4111c9b",
+  "operationalSubjectTypes": [
+    {
+      "uuid": "59be8d8b-fe5e-48f0-addb-6ff27e9a993a",
+      "name": "Waterbody",
+      "subjectType": {
+        "uuid": "8a9b0ef8-325b-4f75-8453-daeaf59df29d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "a7bb7fab-3fbd-4818-9273-f8437bbe51e3",
+    "name": "ddm-dev",
+    "password": "password",
+    "email": "openchssupport+ddm+test+1@samanvayfoundation.org",
+    "phoneNumber": "+919999999999",
+    "organisationUUID": "750cf4e0-1909-47f0-8952-836ae4111c9b",
+    "catchmentUUID": "dd69e752-eed7-4976-97ee-4fb2d0bda4c9",
+    "operatingIndividualScope": "ByCatchment",
+    "admin": false,
+    "orgAdmin": false
+  }
+]

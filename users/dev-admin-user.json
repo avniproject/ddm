@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "b696288c-24da-4ea4-b033-388c07cbb66a",
+    "name": "ddm-admin",
+    "password": "password",
+    "email": "openchssupport+ddm+admin@samanvayfoundation.org",
+    "phoneNumber": "+919999999999",
+    "organisationUUID": "750cf4e0-1909-47f0-8952-836ae4111c9b",
+    "operatingIndividualScope": "None",
+    "admin": false,
+    "orgAdmin": true
+  }
+]

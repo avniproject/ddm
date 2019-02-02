@@ -1,0 +1,13 @@
+{
+  "organisationName": "Dam Desilting Mission",
+  "operationalPrograms": [
+    {
+      "uuid": "1f961272-faf4-4f99-ba0d-331d15622092",
+      "name": "Desilting 2019",
+      "program": {
+        "name": "Desilting 2019",
+        "uuid": "082180d6-c4ef-4695-a137-f14c3b651736"
+      }
+    }
+  ]
+}

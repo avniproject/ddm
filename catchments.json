@@ -1,0 +1,16 @@
+{
+  "organisation": "Dam Desilting Mission",
+  "catchments": [
+    {
+      "name": "Amravati",
+      "uuid": "dd69e752-eed7-4976-97ee-4fb2d0bda4c9",
+      "type": "Village",
+      "locations": [
+        {
+          "uuid": "793eeb29-668f-4af2-a3be-8988688a1a4f",
+          "name": "Amravati"
+        }
+      ]
+    }
+  ]
+}
