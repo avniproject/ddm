@@ -1,0 +1,27 @@
+{
+  "name": "Dam Registration",
+  "uuid": "8d1f4548-e327-4416-be33-46b027cc4b59",
+  "formType": "IndividualProfile",
+  "formElementGroups": [
+    {
+      "uuid": "27e60c6e-1cca-4a08-9418-930778956dad",
+      "name": "Details",
+      "display": "Details",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Type of waterbody",
+          "uuid": "c2e7af21-40cb-4005-aef8-45f9a9e5773f",
+          "keyValues": [],
+          "type": "SingleSelect",
+          "concept": {
+            "name": "Type of waterbody",
+            "uuid": "c744731d-f60f-4858-9b5d-9fca0b166ce1"
+          },
+          "displayOrder": 1,
+          "mandatory": true
+        }
+      ]
+    }
+  ]
+}

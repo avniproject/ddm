@@ -1,0 +1,33 @@
+[
+  {
+    "uuid": "7fd49a74-1a06-47f0-b592-e0c2f372eee9",
+    "name": "Dam"
+  },
+  {
+    "uuid": "5ad4e034-d48a-4bd3-bb17-fa8d39065ac0",
+    "name": "Naala"
+  },
+  {
+    "uuid": "cd1e97db-0931-4821-86cd-a8a86af55e3c",
+    "name": "Water cup"
+  },
+  {
+    "name": "Type of waterbody",
+    "uuid": "c744731d-f60f-4858-9b5d-9fca0b166ce1",
+    "dataType": "Coded",
+    "answers": [
+      {
+        "uuid": "7fd49a74-1a06-47f0-b592-e0c2f372eee9",
+        "name": "Dam"
+      },
+      {
+        "uuid": "5ad4e034-d48a-4bd3-bb17-fa8d39065ac0",
+        "name": "Naala"
+      },
+      {
+        "uuid": "cd1e97db-0931-4821-86cd-a8a86af55e3c",
+        "name": "Water cup"
+      }
+    ]
+  }
+]

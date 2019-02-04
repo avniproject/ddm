@@ -1,5 +1,12 @@
 {
   "organisationName": "Dam Desilting Mission",
   "operationalEncounterTypes": [
+    {
+      "uuid": "7e908caf-6d34-4087-843e-d98cc498eca2",
+      "name": "Record desilting data",
+      "encounterType": {
+        "uuid": "92f1696f-6a7e-4256-a2bf-9780888bbe80"
+      }
+    }
   ]
 }

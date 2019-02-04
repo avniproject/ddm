@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Original silt quantity",
+    "uuid": "4dd9914e-e39a-4ca3-8180-b939d6b5e1fa",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
+  },
+  {
+    "name": "Image 1",
+    "uuid": "b38cd08c-de01-434d-9704-6a4c830e6d3e",
+    "dataType": "Image"
+  },
+  {
+    "name": "Image 2",
+    "uuid": "3bfb1fb4-710d-4cf1-93bb-3ec1aec66d53",
+    "dataType": "Image"
+  },
+  {
+      "name": "Video",
+      "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512",
+      "dataType": "Video"
+  }
+]
