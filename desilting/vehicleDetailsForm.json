@@ -1,0 +1,49 @@
+{
+  "name": "Vehicle details",
+  "uuid": "63a064fa-8efe-4ad4-978c-4b973f90afe5",
+  "formType": "ProgramEncounter",
+  "formElementGroups": [
+    {
+      "uuid": "aa616e48-54b1-4e99-bb6e-5947eb504bd7",
+      "name": "Details",
+      "display": "Details",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Registration number",
+          "uuid": "ee648c68-233d-43dc-ae88-bf7703535c68",
+          "keyValues": [],
+          "concept": {
+            "name": "Registration number",
+            "uuid": "3acb5cd4-c25e-41f7-b558-90fd41103e05"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Working hours",
+          "uuid": "34f7cda3-48c1-4706-b9b5-793b6d3de98e",
+          "keyValues": [],
+          "concept": {
+            "name": "Working hours",
+            "uuid": "de002f36-a76f-4ca7-ba5f-91fa84946125"
+          },
+          "displayOrder": 2,
+          "mandatory": false
+        },
+        {
+          "name": "Diesel input quantity",
+          "uuid": "5ddcd6f9-ad66-4bb8-995e-474974916960",
+          "keyValues": [],
+          "concept": {
+            "name": "Diesel input quantity",
+            "uuid": "42acf4ee-33bd-4628-b961-d3b6e5c457cc"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        }
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Record desilting data",
+  "uuid": "8cd7f4c4-dc56-4e64-89d3-7327900f51f1",
+  "formType": "ProgramEncounter",
+  "formElementGroups": [
+    {
+      "uuid": "dc266e01-89de-4c10-9d80-403b9d96869f",
+      "name": "Work done",
+      "display": "Work done",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Number of tractor trips",
+          "uuid": "4e4b782b-4432-4c02-a675-2ee93b550e47",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of tractor trips",
+            "uuid": "faf5b0b2-64ef-4954-999a-b034dbe98390"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Number of hywa trips",
+          "uuid": "e24dcde6-9e89-4d95-bf2a-f4be31d11f29",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of hywa trips",
+            "uuid": "61f4edbc-d486-4d32-a714-b144c2fe527a"
+          },
+          "displayOrder": 2,
+          "mandatory": false
+        },
+        {
+          "name": "Amount of work done",
+          "uuid": "3df5669c-127c-4de5-adc9-26d145adaa9a",
+          "keyValues": [],
+          "concept": {
+            "name": "Amount of work done",
+            "uuid": "26770597-963b-4870-862b-3479d27aadb5"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        },
+        {
+          "name": "Quantity of silt removed",
+          "uuid": "1e9c8308-240a-4948-8296-58408f344aff",
+          "keyValues": [],
+          "concept": {
+            "name": "Quantity of silt removed",
+            "uuid": "44a48cdc-4e79-4f61-acb1-f131ed07fc2c"
+          },
+          "displayOrder": 4,
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "uuid": "5c5ea21f-397e-42ea-a185-395215f9a2c9",
+      "name": "Issues",
+      "display": "Issues",
+      "displayOrder": 2,
+      "formElements": [
+        {
+          "name": "Any issues faced",
+          "uuid": "2abae698-c5f5-48c2-a417-ce6a2663d7b3",
+          "keyValues": [],
+          "type": "SingleSelect",
+          "concept": {
+            "name": "Any issues faced",
+            "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Other issue details",
+          "uuid": "0da2ecc8-b5b4-402d-906c-725e0894985e",
+          "keyValues": [],
+          "concept": {
+            "uuid": "51780dd0-524c-4d3d-924f-1ba3b5cf5a19",
+            "name": "Other issue details"
+          },
+          "displayOrder": 2,
+          "mandatory": false
+        },
+        {
+          "name": "Issue photograph",
+          "uuid": "b15ac286-6060-43b9-b1d4-66984a8a2c21",
+          "keyValues": [],
+          "concept": {
+            "uuid": "4a681a0e-831b-48e8-9334-6c7bdf8334cc",
+            "name": "Issue photograph"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        }
+      ]
+    }
+  ]
+}

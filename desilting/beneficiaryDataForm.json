@@ -1,0 +1,122 @@
+{
+  "name": "Beneficiary data form",
+  "uuid": "45b4fd50-0b2d-4aba-8a88-a746d917c1fe",
+  "formType": "ProgramEncounter",
+  "formElementGroups": [
+    {
+      "uuid": "89a9d981-0140-40b4-b8ae-a55f00494055",
+      "name": "Beneficiary details",
+      "display": "Beneficiary details",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Village",
+          "uuid": "5bb38751-9bdb-40ea-8040-8f58f5bf745e",
+          "keyValues": [],
+          "concept": {
+            "name": "Village",
+            "uuid": "45b4dfb9-2a8f-46cc-9b78-33560c81a16e"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Name",
+          "uuid": "8cd5016a-6963-4ead-9110-d3ced9f5c5dc",
+          "keyValues": [],
+          "concept": {
+            "name": "Beneficiary name",
+            "uuid": "d690cffb-cfc9-44f3-ae7e-e658198c17e2"
+          },
+          "displayOrder": 2,
+          "mandatory": false
+        },
+        {
+          "name": "Mobile number",
+          "uuid": "eed4408d-c940-4f9d-8b54-d1ccf1940e50",
+          "keyValues": [],
+          "concept": {
+            "name": "Mobile number",
+            "uuid": "1e4f068d-24c0-4fd3-918e-743cd084c0c8"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        },
+        {
+          "name": "Aadhaar ID",
+          "uuid": "80948c09-5ed9-468d-8c70-2581a980431f",
+          "keyValues": [],
+          "concept": {
+            "name": "Aadhaar ID",
+            "uuid": "43c4860f-fccf-48c9-818a-191bc0f8d0cf"
+          },
+          "displayOrder": 4,
+          "mandatory": false
+        },
+        {
+          "name": "Landholding according to 8A",
+          "uuid": "226bbcb4-4323-43d4-be82-dd84cc3d984e",
+          "keyValues": [],
+          "concept": {
+            "name": "Landholding according to 8A in acres",
+            "uuid": "d9ad08ab-63a2-40ae-85f7-a638aa0c780d"
+          },
+          "displayOrder": 5,
+          "mandatory": false
+        }
+      ]
+    },
+    {
+      "uuid": "a023d598-c789-4716-871a-f39163f151ad",
+      "name": "Benefit details",
+      "display": "Benefit details",
+      "displayOrder": 2,
+      "formElements": [
+        {
+          "name": "Area covered by silt in acres",
+          "uuid": "e21f5520-c5b9-4671-b37c-43b34cbcd262",
+          "keyValues": [],
+          "concept": {
+            "name": "Area covered by silt in acres",
+            "uuid": "9ce0e6e0-b67d-49ed-9e9d-442fc666167e"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Farm distance from the dam in km",
+          "uuid": "4e4dd4ab-d202-4b1f-ab34-465837032674",
+          "keyValues": [],
+          "concept": {
+            "name": "Farm distance from the dam in km",
+            "uuid": "fa95dfd7-5bd9-4a4f-83f7-7066975ea371"
+          },
+          "displayOrder": 2,
+          "mandatory": false
+        },
+        {
+          "name": "Number of trollies of silt",
+          "uuid": "759dfa5c-63ec-4779-a0a2-3a9c8ceb98f6",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of trollies of silt",
+            "uuid": "dc58b01a-51e7-4d00-95c9-309dec27a96c"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        },
+        {
+          "name": "Number of hywa",
+          "uuid": "e7c55e13-002a-48dc-9205-551e3409c193",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of hywa",
+            "uuid": "587bd99d-099e-4574-803f-49d432ab5a84"
+          },
+          "displayOrder": 4,
+          "mandatory": false
+        }
+      ]
+    }
+  ]
+}

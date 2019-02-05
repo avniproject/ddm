@@ -19,5 +19,142 @@
       "name": "Video",
       "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512",
       "dataType": "Video"
+  },
+  {
+    "name": "Registration number",
+    "uuid": "3acb5cd4-c25e-41f7-b558-90fd41103e05",
+    "dataType": "Text"
+  },
+  {
+    "name": "Working hours",
+    "uuid": "de002f36-a76f-4ca7-ba5f-91fa84946125",
+    "dataType": "Numeric",
+    "unit": "hours"
+  },
+  {
+    "name": "Diesel input quantity",
+    "uuid": "42acf4ee-33bd-4628-b961-d3b6e5c457cc",
+    "dataType": "Numeric",
+    "unit": "Litre"
+  },
+  {
+    "name": "Number of tractor trips",
+    "uuid": "faf5b0b2-64ef-4954-999a-b034dbe98390",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Number of hywa trips",
+    "uuid": "61f4edbc-d486-4d32-a714-b144c2fe527a",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Amount of work done",
+    "uuid": "26770597-963b-4870-862b-3479d27aadb5",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
+  },
+  {
+    "name": "Quantity of silt removed",
+    "uuid": "44a48cdc-4e79-4f61-acb1-f131ed07fc2c",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
+  },
+  {
+    "uuid": "cca038cf-0ed0-4a65-ae5c-ae017fa44ceb",
+    "name": "Demand of silt reduced from farmers"
+  },
+  {
+    "uuid": "96d5acfe-f06c-475d-883e-82e549aad9fc",
+    "name": "Diesel not supplied at the site"
+  },
+  {
+    "uuid": "9a6b91b8-0b68-4d7a-8288-0605bb225bab",
+    "name": "Operator not available for the JCB/Poclain"
+  },
+  {
+    "uuid": "4f03d958-5bcc-433f-a016-978ed6287258",
+    "name": "JCB/Poclain machine breakdown"
+  },
+  {
+    "uuid": "05ea583c-51d2-412d-ad00-06c432ffe538",
+    "abnormal": false
+  },
+  {
+    "name": "Any issues faced",
+    "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb",
+    "dataType": "Coded",
+    "answers": [
+      {
+        "uuid": "cca038cf-0ed0-4a65-ae5c-ae017fa44ceb",
+        "name": "Demand of silt reduced from farmers"
+      },
+      {
+        "uuid": "96d5acfe-f06c-475d-883e-82e549aad9fc",
+        "name": "Diesel not supplied at the site"
+      },
+      {
+        "uuid": "9a6b91b8-0b68-4d7a-8288-0605bb225bab",
+        "name": "Operator not available for the JCB/Poclain"
+      },
+      {
+        "uuid": "4f03d958-5bcc-433f-a016-978ed6287258",
+        "name": "JCB/Poclain machine breakdown"
+      },
+      {
+        "uuid": "05ea583c-51d2-412d-ad00-06c432ffe538",
+        "abnormal": false
+      }
+    ]
+  },
+  {
+    "uuid": "51780dd0-524c-4d3d-924f-1ba3b5cf5a19",
+    "name": "Other issue details",
+    "dataType": "Text"
+  },
+  {
+    "uuid": "4a681a0e-831b-48e8-9334-6c7bdf8334cc",
+    "name": "Issue photograph",
+    "dataType": "Image"
+  },
+  {
+    "name": "Village",
+    "uuid": "45b4dfb9-2a8f-46cc-9b78-33560c81a16e",
+    "dataType": "Text"
+  },
+  {
+    "name": "Beneficiary name",
+    "uuid": "d690cffb-cfc9-44f3-ae7e-e658198c17e2",
+    "dataType": "Text"
+  },
+  {
+    "name": "Landholding according to 8A in acres",
+    "uuid": "d9ad08ab-63a2-40ae-85f7-a638aa0c780d",
+    "dataType": "Numeric",
+    "unit": "Acre"
+  },
+  {
+    "name": "Area covered by silt in acres",
+    "uuid": "9ce0e6e0-b67d-49ed-9e9d-442fc666167e",
+    "dataType": "Numeric",
+    "unit": "Acre"
+  },
+  {
+    "name": "Farm distance from the dam in km",
+    "uuid": "fa95dfd7-5bd9-4a4f-83f7-7066975ea371",
+    "dataType": "Numeric",
+    "unit": "km"
+  },
+  {
+    "name": "Number of trollies of silt",
+    "uuid": "dc58b01a-51e7-4d00-95c9-309dec27a96c",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Number of hywa",
+    "uuid": "587bd99d-099e-4574-803f-49d432ab5a84",
+    "dataType": "Numeric"
   }
+
+  
+
 ]

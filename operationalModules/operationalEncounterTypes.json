@@ -7,6 +7,27 @@
       "encounterType": {
         "uuid": "92f1696f-6a7e-4256-a2bf-9780888bbe80"
       }
+    },
+    {
+      "uuid": "b92e9835-7b31-4f99-a438-a5564f1ef109",
+      "name": "Record JCB details",
+      "encounterType": {
+        "uuid": "a8ed0b01-4acc-41c6-8a51-c8c16f2cade7"
+      }
+    },
+    {
+      "uuid": "4c95ddd1-f59f-4b9b-be36-854031117176",
+      "name": "Record poclain details",
+      "encounterType": {
+        "uuid": "b7c306d7-b252-4562-8f6e-321643955117"
+      }
+    },
+    {
+      "uuid": "abf25941-872b-468d-b347-e2abf3877789",
+      "name": "Add beneficiary data",
+      "encounterType": {
+        "uuid": "f6a89f2f-4aec-44c1-a33e-305f50855e96"
+      }
     }
   ]
 }

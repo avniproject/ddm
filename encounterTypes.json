@@ -2,5 +2,17 @@
   {
     "uuid": "92f1696f-6a7e-4256-a2bf-9780888bbe80",
     "name": "Record desilting data"
+  },
+  {
+    "uuid": "a8ed0b01-4acc-41c6-8a51-c8c16f2cade7",
+    "name": "Record JCB details"
+  },
+  {
+    "uuid": "b7c306d7-b252-4562-8f6e-321643955117",
+    "name": "Record poclain details"
+  },
+  {
+    "uuid": "f6a89f2f-4aec-44c1-a33e-305f50855e96",
+    "name": "Record beneficiary data"
   }
 ]

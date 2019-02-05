@@ -87,6 +87,9 @@ _deploy_refdata:
 	$(call _curl,POST,operationalPrograms,@operationalModules/operationalPrograms.json)
 	$(call _curl,POST,concepts,@desilting/desiltingConcepts.json)
 	$(call _curl,POST,forms,@desilting/enrolmentForm.json)
+	$(call _curl,POST,forms,@desilting/recordDesiltingDataForm.json)
+	$(call _curl,POST,forms,@desilting/vehicleDetailsForm.json)
+	$(call _curl,POST,forms,@desilting/beneficiaryDataForm.json)
 	$(call _curl,POST,formMappings,@formMappings.json)
 
 deploy_subjects:

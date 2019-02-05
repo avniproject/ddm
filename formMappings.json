@@ -5,5 +5,33 @@
     "encounterTypeUUID": null,
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
     "comment": "Desilting 2019 enrolment"
+  },
+  {
+    "uuid": "059f7227-30ea-4b0c-be75-4086af3dd133",
+    "formUUID": "8cd7f4c4-dc56-4e64-89d3-7327900f51f1",
+    "encounterTypeUUID": "92f1696f-6a7e-4256-a2bf-9780888bbe80",
+    "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "comment": "Record desilting data form"
+  },
+  {
+    "uuid": "b672513d-015e-49ca-b4d5-2e258b46a5c4",
+    "formUUID": "63a064fa-8efe-4ad4-978c-4b973f90afe5",
+    "encounterTypeUUID": "a8ed0b01-4acc-41c6-8a51-c8c16f2cade7",
+    "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "comment": "Desilting JCB details form"
+  },
+  {
+    "uuid": "dac084bc-0704-42bf-8cd9-e3f5021bcfd9",
+    "formUUID": "63a064fa-8efe-4ad4-978c-4b973f90afe5",
+    "encounterTypeUUID": "b7c306d7-b252-4562-8f6e-321643955117",
+    "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "comment": "Desilting poclain details form"
+  },
+  {
+    "uuid": "20dccc0e-2f1e-4373-b9c1-b42e1bf08b99",
+    "formUUID": "45b4fd50-0b2d-4aba-8a88-a746d917c1fe",
+    "encounterTypeUUID": "f6a89f2f-4aec-44c1-a33e-305f50855e96",
+    "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "comment": "Record Beneficiary data"
   }
 ]
