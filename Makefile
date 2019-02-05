@@ -104,7 +104,7 @@ deploy_rules_live:
 
 deploy_refdata: deploy_org_data _deploy_refdata
 
-deploy: create_admin_user_dev deploy_refdata create_users_dev##
+deploy: create_admin_user_dev deploy_refdata deploy_rules create_users_dev##
 
 _deploy_prod: deploy_refdata deploy_checklists deploy_rules
 

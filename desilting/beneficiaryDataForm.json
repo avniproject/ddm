@@ -18,7 +18,7 @@
             "uuid": "45b4dfb9-2a8f-46cc-9b78-33560c81a16e"
           },
           "displayOrder": 1,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Name",
@@ -29,7 +29,7 @@
             "uuid": "d690cffb-cfc9-44f3-ae7e-e658198c17e2"
           },
           "displayOrder": 2,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Mobile number",
@@ -40,7 +40,7 @@
             "uuid": "1e4f068d-24c0-4fd3-918e-743cd084c0c8"
           },
           "displayOrder": 3,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Aadhaar ID",
@@ -103,7 +103,7 @@
             "uuid": "dc58b01a-51e7-4d00-95c9-309dec27a96c"
           },
           "displayOrder": 3,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Number of hywa",
@@ -114,7 +114,7 @@
             "uuid": "587bd99d-099e-4574-803f-49d432ab5a84"
           },
           "displayOrder": 4,
-          "mandatory": false
+          "mandatory": true
         }
       ]
     }

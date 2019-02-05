@@ -18,7 +18,7 @@
             "uuid": "3acb5cd4-c25e-41f7-b558-90fd41103e05"
           },
           "displayOrder": 1,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Working hours",
@@ -29,7 +29,7 @@
             "uuid": "de002f36-a76f-4ca7-ba5f-91fa84946125"
           },
           "displayOrder": 2,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Diesel input quantity",
@@ -40,7 +40,7 @@
             "uuid": "42acf4ee-33bd-4628-b961-d3b6e5c457cc"
           },
           "displayOrder": 3,
-          "mandatory": false
+          "mandatory": true
         }
       ]
     }

@@ -18,7 +18,7 @@
             "uuid": "faf5b0b2-64ef-4954-999a-b034dbe98390"
           },
           "displayOrder": 1,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Number of hywa trips",
@@ -29,7 +29,7 @@
             "uuid": "61f4edbc-d486-4d32-a714-b144c2fe527a"
           },
           "displayOrder": 2,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Amount of work done",
@@ -40,7 +40,7 @@
             "uuid": "26770597-963b-4870-862b-3479d27aadb5"
           },
           "displayOrder": 3,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Quantity of silt removed",
@@ -51,7 +51,7 @@
             "uuid": "44a48cdc-4e79-4f61-acb1-f131ed07fc2c"
           },
           "displayOrder": 4,
-          "mandatory": false
+          "mandatory": true
         }
       ]
     },
@@ -67,7 +67,7 @@
           "keyValues": [],
           "type": "SingleSelect",
           "concept": {
-            "name": "Any issues faced",
+            "name": "Issues faced during desilting",
             "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb"
           },
           "displayOrder": 1,
@@ -82,7 +82,7 @@
             "name": "Other issue details"
           },
           "displayOrder": 2,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Issue photograph",
