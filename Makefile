@@ -67,7 +67,7 @@ deploy_org_data: deploy_locations
 	$(call _curl,POST,catchments,@catchments.json)
 
 create_admin_user:
-	$(call _curl_as_openchs,POST,users,@admin-user.json)
+	$(call _curl_as_openchs,POST,users,@staging-users.json)
 
 create_admin_user_dev:
 	$(call _curl_as_openchs,POST,users,@users/dev-admin-user.json)
@@ -78,7 +78,7 @@ create_users_dev:
 deploy_org_data_live:
 	make auth deploy_org_data poolId=$(STAGING_USER_POOL_ID) clientId=$(STAGING_APP_CLIENT_ID) username=ddm-admin password=$(STAGING_ADMIN_USER_PASSWORD)
 
-_deploy_refdata:
+_deploy_refdata: deploy_subjects
 	$(call _curl,POST,concepts,@registration/registrationConcepts.json)
 	$(call _curl,POST,forms,@registration/registrationForm.json)
 	$(call _curl,POST,programs,@programs.json)
@@ -134,7 +134,7 @@ create_admin_user_staging:
 	make auth create_admin_user poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin password=$(password)
 
 _create_users_staging:
-	$(call _curl,POST,users,@users/staging-users.json)
+	$(call _curl,POST,users,@staging-users.json)
 
 create_users_staging:
 	make auth _create_users_staging poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
