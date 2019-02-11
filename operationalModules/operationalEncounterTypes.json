@@ -28,6 +28,13 @@
       "encounterType": {
         "uuid": "f6a89f2f-4aec-44c1-a33e-305f50855e96"
       }
+    },
+    {
+      "uuid": "415bb1f6-12b4-44df-b85d-373728f9e42d",
+      "name": "Endline survey",
+      "encounterType": {
+        "uuid": "647522f5-a872-44c0-aa51-e82c47a006ee"
+      }
     }
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "name": "Desilting endline survey",
+  "uuid": "4f4539ab-3fe7-44cc-850f-92deac61b767",
+  "formType": "ProgramEncounter",
+  "formElementGroups": [
+    {
+      "uuid": "1b2ce54c-d298-44c6-a0da-623dab1f668b",
+      "name": "Endline",
+      "display": "Endline",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Image 1",
+          "uuid": "3fba2c44-6864-4aa5-8e4b-9f499783ba1a",
+          "keyValues": [],
+          "concept": {
+            "name": "Image 1",
+            "uuid": "b38cd08c-de01-434d-9704-6a4c830e6d3e"
+          },
+          "displayOrder": 2,
+          "mandatory": true
+        },
+        {
+          "name": "Image 2",
+          "uuid": "07fd52d6-b05a-4775-bab5-add442561f9e",
+          "keyValues": [],
+          "concept": {
+            "name": "Image 2",
+            "uuid": "3bfb1fb4-710d-4cf1-93bb-3ec1aec66d53"
+          },
+          "displayOrder": 3,
+          "mandatory": true
+        },
+        {
+          "name": "Video (10 sec)",
+          "uuid": "680dac31-a3f2-4063-8d8a-8c4db4a97bd7",
+          "keyValues": [],
+          "concept": {
+            "name": "Video",
+            "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512"
+          },
+          "displayOrder": 4,
+          "mandatory": true
+        },
+        {
+          "name": "Whether MB recording done",
+          "uuid": "1478c816-40da-46a7-bdc2-fccbb4312479",
+          "type": "SingleSelect",
+          "concept": {
+            "name": "Whether MB recording done",
+            "uuid": "ad675a1c-ec17-403c-8e7f-3ace80de790e"
+          },
+          "displayOrder": 5,
+          "mandatory": true
+        },
+        {
+          "name": "Approved silt quantity as per MB",
+          "uuid": "0c224a73-b140-4589-af96-4bdd0dfd51c9",
+          "keyValues": [],
+          "concept": {
+            "name": "Approved silt quantity as per MB",
+            "uuid": "74c949f9-9a60-407e-9c72-64eefb0f0c0b"
+          },
+          "displayOrder": 6,
+          "mandatory": true
+        }
+      ]
+    }
+  ]
+}

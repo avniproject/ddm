@@ -153,7 +153,26 @@
     "name": "Number of hywa",
     "uuid": "587bd99d-099e-4574-803f-49d432ab5a84",
     "dataType": "Numeric"
+  },
+  {
+    "name": "Whether MB recording done",
+    "uuid": "ad675a1c-ec17-403c-8e7f-3ace80de790e",
+    "dataType": "Coded",
+    "answers": [
+      {
+        "uuid": "04bb1773-c353-44a1-a68c-9b448e07ff70"
+      },
+      {
+        "uuid": "e7b50c78-3d90-484d-a224-9887887780dc"
+      }
+    ]
+  },
+  {
+    "name": "Approved silt quantity as per MB",
+    "uuid": "74c949f9-9a60-407e-9c72-64eefb0f0c0b",
+    "dataType": "Numeric"
   }
+
 
   
 

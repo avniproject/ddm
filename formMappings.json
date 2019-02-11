@@ -33,5 +33,12 @@
     "encounterTypeUUID": "f6a89f2f-4aec-44c1-a33e-305f50855e96",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
     "comment": "Record Beneficiary data"
+  },
+  {
+    "uuid": "d8bf8e51-7f12-4194-a4f1-04cf4f4f12cb",
+    "formUUID": "4f4539ab-3fe7-44cc-850f-92deac61b767",
+    "encounterTypeUUID": "647522f5-a872-44c0-aa51-e82c47a006ee",
+    "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "comment": "Desilting endline survey"
   }
 ]

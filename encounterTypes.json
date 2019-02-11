@@ -14,5 +14,9 @@
   {
     "uuid": "f6a89f2f-4aec-44c1-a33e-305f50855e96",
     "name": "Record beneficiary data"
+  },
+  {
+    "uuid": "647522f5-a872-44c0-aa51-e82c47a006ee",
+    "name": "Endline survey"
   }
 ]
