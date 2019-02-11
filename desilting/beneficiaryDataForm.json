@@ -39,6 +39,10 @@
             "name": "Mobile number",
             "uuid": "1e4f068d-24c0-4fd3-918e-743cd084c0c8"
           },
+          "validFormat": {
+            "regex": "^[0-9]{10}$",
+            "descriptionKey": "Required10Digits"
+          },
           "displayOrder": 3,
           "mandatory": true
         },

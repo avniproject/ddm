@@ -22,7 +22,6 @@ class EndlineSurveyViewFilterHandlerDDM {
 
     @WithStatusBuilder
     approvedSiltQuantityAsPerMb([], statusBuilder) {
-        console.log('came to approvedSiltQuantityAsPerMb');
         statusBuilder.show().when.valueInEncounter("Whether MB recording done").containsAnswerConceptName("Yes");
     }
 }

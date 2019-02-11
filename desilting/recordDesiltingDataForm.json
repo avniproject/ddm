@@ -17,6 +17,10 @@
             "name": "Number of tractor trips",
             "uuid": "faf5b0b2-64ef-4954-999a-b034dbe98390"
           },
+          "validFormat": {
+            "regex": "^\\d+$",
+            "descriptionKey": "RequiredNonNegativeInteger"
+          },
           "displayOrder": 1,
           "mandatory": true
         },
@@ -27,6 +31,10 @@
           "concept": {
             "name": "Number of hywa trips",
             "uuid": "61f4edbc-d486-4d32-a714-b144c2fe527a"
+          },
+          "validFormat": {
+            "regex": "^\\d+$",
+            "descriptionKey": "Required10Digits"
           },
           "displayOrder": 2,
           "mandatory": true
@@ -65,7 +73,7 @@
           "name": "Any issues faced",
           "uuid": "2abae698-c5f5-48c2-a417-ce6a2663d7b3",
           "keyValues": [],
-          "type": "SingleSelect",
+          "type": "MultiSelect",
           "concept": {
             "name": "Issues faced during desilting",
             "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb"
