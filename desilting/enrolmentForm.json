@@ -10,7 +10,7 @@
       "displayOrder": 1,
       "formElements": [
         {
-          "name": "Silt estimation as per technical sanction",
+          "name": "Silt Estimation as per work plan",
           "uuid": "3a79932e-f617-4cf9-84f4-80c661901de9",
           "keyValues": [
             {
@@ -19,8 +19,8 @@
             }
           ],
           "concept": {
-            "name": "Silt estimation as per technical sanction",
-            "uuid": "4dd9914e-e39a-4ca3-8180-b939d6b5e1fa"
+            "name": "Silt Estimation as per work plan",
+            "uuid": "17e2fbe7-2d36-4ddc-8a12-c5f405d6c398"
           },
           "displayOrder": 1,
           "mandatory": false
