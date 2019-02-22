@@ -24,7 +24,7 @@
     },
     {
       "uuid": "abf25941-872b-468d-b347-e2abf3877789",
-      "name": "Add beneficiary data",
+      "name": "Record beneficiary data",
       "encounterType": {
         "uuid": "f6a89f2f-4aec-44c1-a33e-305f50855e96"
       }

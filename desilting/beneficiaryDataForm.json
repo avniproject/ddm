@@ -99,11 +99,11 @@
           "mandatory": false
         },
         {
-          "name": "Number of trollies of silt",
+          "name": "Number of trolleys of silt",
           "uuid": "759dfa5c-63ec-4779-a0a2-3a9c8ceb98f6",
           "keyValues": [],
           "concept": {
-            "name": "Number of trollies of silt",
+            "name": "Number of trolleys of silt",
             "uuid": "dc58b01a-51e7-4d00-95c9-309dec27a96c"
           },
           "displayOrder": 3,

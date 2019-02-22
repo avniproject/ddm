@@ -151,7 +151,7 @@
     "unit": "km"
   },
   {
-    "name": "Number of trollies of silt",
+    "name": "Number of trolleys of silt",
     "uuid": "dc58b01a-51e7-4d00-95c9-309dec27a96c",
     "dataType": "Numeric"
   },
@@ -177,9 +177,31 @@
     "name": "Approved silt quantity as per MB",
     "uuid": "74c949f9-9a60-407e-9c72-64eefb0f0c0b",
     "dataType": "Numeric"
+  },
+  {
+    "name": "Total silt removed",
+    "uuid": "0653cee5-5cb0-471a-b563-d794b982fe83",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
+  },
+  {
+    "name": "Number of beneficiaries",
+    "uuid": "734ad1db-74cf-443e-9714-01002abc35ad",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Hours of operation of JCB",
+    "uuid": "e3de75b7-f499-4157-acc4-b32ecb694c99",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Hours of operation of Poclain",
+    "uuid": "f3be5394-7621-4817-9f8c-572a1089ba72",
+    "dataType": "Numeric"
+  },
+  {
+    "name": "Quantity of diesel consumed",
+    "uuid": "8ebda9dd-8bc7-44d5-803c-1acac12ed76d",
+    "dataType": "Numeric"
   }
-
-
-  
-
 ]
