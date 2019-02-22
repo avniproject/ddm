@@ -99,6 +99,7 @@ _deploy_refdata: deploy_subjects
 	$(call _curl,POST,forms,@desilting/recordDesiltingDataForm.json)
 	$(call _curl,POST,forms,@desilting/vehicleDetailsForm.json)
 	$(call _curl,POST,forms,@desilting/beneficiaryDataForm.json)
+	$(call _curl,POST,forms,@desilting/baselineSurveyForm.json)
 	$(call _curl,POST,forms,@desilting/endlineSurveyForm.json)
 	$(call _curl,POST,formMappings,@formMappings.json)
 

@@ -18,15 +18,41 @@ class DesiltingDataViewFilterHandlerDDM {
         return FormElementsStatusHelper
             .getFormElementsStatusesWithoutDefaults(new DesiltingDataViewFilterHandlerDDM(), programEncounter, formElementGroup, today);
     }
+    
+    @WithStatusBuilder
+    numberOfTractorTrips([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
+    }
+    
+    @WithStatusBuilder
+    numberOfHywaTrips([], statusBuilder) {
+        statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
+    }
 
     @WithStatusBuilder
     amountOfWorkDone([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Naala", "Water cup");
     }
 
-    @WithStatusBuilder
-    quantityOfSiltRemoved([], statusBuilder) {
+
+    quantityOfSiltRemoved(programEncounter, formElement) {
+        console.log("came to quantityOfSiltRemoved");
+        const statusBuilder = new FormElementStatusBuilder({
+            programEncounter: programEncounter,
+            formElement: formElement
+        });
         statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
+        let formElementStatus = statusBuilder.build();
+        console.log(formElementStatus);
+        const numberOfTractorTrips = programEncounter.getObservationValue("Number of tractor trips");
+        console.log(numberOfTractorTrips);
+        const numberOfHywaTrips = programEncounter.getObservationValue("Number of hywa trips");
+        console.log(numberOfHywaTrips);
+        if(!_.isNil(numberOfHywaTrips) && !_.isNil(numberOfTractorTrips)) {
+            formElementStatus.value = (numberOfTractorTrips * 2.97)+(numberOfHywaTrips*16);
+        }
+        console.log(formElementStatus);
+        return formElementStatus;
     }
 
     issues(programEncounter, formElementGroup) {

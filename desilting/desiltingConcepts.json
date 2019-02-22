@@ -1,7 +1,13 @@
 [
   {
-    "name": "Original silt quantity",
+    "name": "Silt estimation as per technical sanction",
     "uuid": "4dd9914e-e39a-4ca3-8180-b939d6b5e1fa",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
+  },
+  {
+    "name": "Silt Estimation as per work plan",
+    "uuid": "17e2fbe7-2d36-4ddc-8a12-c5f405d6c398",
     "dataType": "Numeric",
     "unit": "cubic metre"
   },

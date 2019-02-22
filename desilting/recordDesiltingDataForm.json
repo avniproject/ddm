@@ -53,11 +53,17 @@
         {
           "name": "Quantity of silt removed",
           "uuid": "1e9c8308-240a-4948-8296-58408f344aff",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "editable",
+              "value": false
+            }
+          ],
           "concept": {
             "name": "Quantity of silt removed",
             "uuid": "44a48cdc-4e79-4f61-acb1-f131ed07fc2c"
           },
+
           "displayOrder": 4,
           "mandatory": true
         }

@@ -35,6 +35,13 @@
       "encounterType": {
         "uuid": "647522f5-a872-44c0-aa51-e82c47a006ee"
       }
+    },
+    {
+      "uuid": "b8352fb5-02be-405e-b178-b94c1581a8f7",
+      "name": "Baseline survey",
+      "encounterType": {
+        "uuid": "7082bfff-59a4-4c2b-ad28-ca4abe7480c8"
+      }
     }
   ]
 }

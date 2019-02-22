@@ -1,59 +1,31 @@
 {
-  "name": "Desilting 2019 Enrolment",
-  "uuid": "ac7158bb-1ca9-4a75-b003-f10816830fb0",
+  "name": "GDGS 2019 Enrolment",
+  "uuid": "b768992d-2d6b-48e3-830a-e3029fb08f8e",
   "formType": "ProgramEnrolment",
   "formElementGroups": [
     {
-      "uuid": "8efff927-9a38-45c3-9b59-3e4df9c6cf20",
-      "name": "Baseline",
-      "display": "Baseline",
+      "uuid": "e549dcbb-2676-496b-ab92-420f39e77823",
+      "name": "Initial",
+      "display": "Initial",
       "displayOrder": 1,
       "formElements": [
         {
-          "name": "Original silt quantity",
-          "uuid": "5c6abf50-f1ce-4a39-b519-8cdc90d78390",
-          "keyValues": [],
+          "name": "Silt estimation as per technical sanction",
+          "uuid": "3a79932e-f617-4cf9-84f4-80c661901de9",
+          "keyValues": [
+            {
+              "key": "editable",
+              "value": false
+            }
+          ],
           "concept": {
-            "name": "Original silt quantity",
+            "name": "Silt estimation as per technical sanction",
             "uuid": "4dd9914e-e39a-4ca3-8180-b939d6b5e1fa"
           },
           "displayOrder": 1,
-          "mandatory": true
-        },
-        {
-          "name": "Image 1",
-          "uuid": "92b2b6ee-598b-4f4f-bed8-71ce8e035e1e",
-          "keyValues": [],
-          "concept": {
-            "name": "Image 1",
-            "uuid": "b38cd08c-de01-434d-9704-6a4c830e6d3e"
-          },
-          "displayOrder": 2,
-          "mandatory": true
-        },
-        {
-          "name": "Image 2",
-          "uuid": "e3464e22-169a-429b-bee5-9b1c807d6204",
-          "keyValues": [],
-          "concept": {
-            "name": "Image 2",
-            "uuid": "3bfb1fb4-710d-4cf1-93bb-3ec1aec66d53"
-
-          },
-          "displayOrder": 3,
-          "mandatory": true
-        },
-        {
-          "name": "Video (10 sec)",
-          "uuid": "66581e72-4cb9-406b-8901-61456154ba4e",
-          "keyValues": [],
-          "concept": {
-            "name": "Video",
-            "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512"
-          },
-          "displayOrder": 4,
-          "mandatory": true
+          "mandatory": false
         }
+
       ]
     }
   ]
