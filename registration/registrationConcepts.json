@@ -29,5 +29,10 @@
         "name": "Water cup"
       }
     ]
+  },
+  {
+    "name": "Concerned Govt. Dept.",
+    "uuid": "7af5dfdd-bf91-4c5d-8847-150d853cbebe",
+    "dataType": "Text"
   }
 ]
