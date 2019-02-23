@@ -1,0 +1,4690 @@
+[
+  {
+    "name": "Yavatmal",
+    "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66",
+    "level": 4,
+    "type": "District",
+    "parents": [],
+    "path": "Yavatmal"
+  },
+  {
+    "name": "Yavatmal",
+    "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal"
+  },
+  {
+    "name": "Kalamb",
+    "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Kalamb"
+  },
+  {
+    "name": "Ralegaon",
+    "uuid": "28002719-7779-491f-b928-6fdb3172eabe",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon"
+  },
+  {
+    "name": "Ghatanji",
+    "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji"
+  },
+  {
+    "name": "Darwa",
+    "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Darwa"
+  },
+  {
+    "name": "Babulgaon",
+    "uuid": "e078b672-f8cc-43b0-bd96-1a4fad60218d",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon"
+  },
+  {
+    "name": "Arni",
+    "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Arni"
+  },
+  {
+    "name": "Ner",
+    "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Ner"
+  },
+  {
+    "name": "Pusad",
+    "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Pusad"
+  },
+  {
+    "name": "Mahagaon",
+    "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon"
+  },
+  {
+    "name": "Digras",
+    "uuid": "22919abc-5813-4121-840b-940348f764d8",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Digras"
+  },
+  {
+    "name": "Umerkhed",
+    "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed"
+  },
+  {
+    "name": "Wani",
+    "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Wani"
+  },
+  {
+    "name": "Maregaon",
+    "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Maregaon"
+  },
+  {
+    "name": "Kelapur",
+    "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Kelapur"
+  },
+  {
+    "name": "Zari",
+    "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "7dd44f9f-5265-4a48-86ed-e8e0a0e2da66"
+      }
+    ],
+    "path": "Yavatmal.Zari"
+  },
+  {
+    "name": "Bechkhed",
+    "uuid": "da209404-7b27-4eeb-96b5-6a7caac1e40c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Bechkhed"
+  },
+  {
+    "name": "Parwa",
+    "uuid": "7197b6c2-5331-4202-a348-5d8e09016cb4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Parwa"
+  },
+  {
+    "name": "Karali 1",
+    "uuid": "23f7993b-cf10-45ab-9359-d164014f7e1e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Karali 1"
+  },
+  {
+    "name": "Chichghat",
+    "uuid": "ba03a7de-9536-4398-b34f-98ad5bdb32af",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Chichghat"
+  },
+  {
+    "name": "Waghapur ( Lasina)",
+    "uuid": "b5911205-d9c7-49e7-9a0d-9db413a9ca37",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Waghapur ( Lasina)"
+  },
+  {
+    "name": "Warjai 1",
+    "uuid": "39b461d3-3e06-4fdd-a225-503d1df30755",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Warjai 1"
+  },
+  {
+    "name": "Moha",
+    "uuid": "16b54f47-db38-4cae-9563-676186ecc8d5",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Moha"
+  },
+  {
+    "name": "Malmasola",
+    "uuid": "31721fcf-1345-4601-b3d5-f61cd481a9fc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Malmasola"
+  },
+  {
+    "name": "Warjai 2",
+    "uuid": "abe447c1-f0a1-4654-8e21-1a39a38443a4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Warjai 2"
+  },
+  {
+    "name": "Bothbodan",
+    "uuid": "ad86154b-3692-4227-8b2d-1599c3e6aa89",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Bothbodan"
+  },
+  {
+    "name": "Murzadi Lad",
+    "uuid": "02be70fd-854a-4aca-9e10-0f7f9019880d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Murzadi Lad"
+  },
+  {
+    "name": "Borgaon",
+    "uuid": "f0f008f7-cbe9-453d-a6ea-0e68d897b889",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Borgaon"
+  },
+  {
+    "name": "Arjuna",
+    "uuid": "8cbe1325-9352-41a9-bc18-54355343127a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Arjuna"
+  },
+  {
+    "name": "Kharad",
+    "uuid": "a68159bf-00f6-4e24-8ba1-64ac7b5e0ccd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Kharad"
+  },
+  {
+    "name": "Ghatana",
+    "uuid": "72e38e90-e7be-4ad1-af80-f4306f91d333",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Ghatana"
+  },
+  {
+    "name": "Waghadi",
+    "uuid": "528ec4fd-6620-48d2-a30a-a3a9a6fdee76",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Waghadi"
+  },
+  {
+    "name": "Dudhana",
+    "uuid": "e4fc9896-dad9-467f-bd40-5361ff234418",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Dudhana"
+  },
+  {
+    "name": "Takali",
+    "uuid": "3f9c3d24-41c1-45bd-a7a0-302a9920a196",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Takali"
+  },
+  {
+    "name": "Kapra",
+    "uuid": "2f36826a-bdb1-4692-bf42-85fada30030c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Kapra"
+  },
+  {
+    "name": "Jamwadi",
+    "uuid": "e614dd49-7c6e-4414-af6e-427f34ff4b74",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Jamwadi"
+  },
+  {
+    "name": "Pipari ( Hatgaon)",
+    "uuid": "908fd195-f0a2-4e4d-a0c5-b26a246be40a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Pipari ( Hatgaon)"
+  },
+  {
+    "name": "Barbada",
+    "uuid": "a9e2c0c5-f1c9-49cd-a722-e343686c4ede",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Barbada"
+  },
+  {
+    "name": "Chapdoha",
+    "uuid": "504b0350-33dd-4e0d-9160-b6027c7d10f5",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Yavatmal",
+        "uuid": "80340d16-025a-4e1c-bf5f-67a1499062a6"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Chapdoha"
+  },
+  {
+    "name": "Chaparda",
+    "uuid": "ad0eeb19-bd19-4895-9157-228a436e093d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Chaparda"
+  },
+  {
+    "name": "Pimpalshenda",
+    "uuid": "428c5ec2-7b98-47ca-b84c-02d8d19f51d2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pimpalshenda"
+  },
+  {
+    "name": "Belona",
+    "uuid": "c429e6c5-8744-4fdd-805e-5d21a097f3ca",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Belona"
+  },
+  {
+    "name": "Mendhala 2",
+    "uuid": "bada65dd-1e31-44c8-8b38-9b17143d692e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Mendhala 2"
+  },
+  {
+    "name": "Sarpadhari",
+    "uuid": "3fb5186c-bf9a-4116-915b-502729d77815",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Sarpadhari"
+  },
+  {
+    "name": "Antargaon",
+    "uuid": "8172fa1c-99dc-41aa-87af-ad18a4fc2620",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Antargaon"
+  },
+  {
+    "name": "Ghoti 2",
+    "uuid": "401d141e-7557-4b49-9a63-26a9b6970914",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Ghoti 2"
+  },
+  {
+    "name": "Khairi",
+    "uuid": "6279114d-eab7-4dc4-a0b6-ddc869976d1d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Khairi"
+  },
+  {
+    "name": "Pangadi",
+    "uuid": "ff4fb69a-cd47-4847-81b5-0baa501c502c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pangadi"
+  },
+  {
+    "name": "Nanza",
+    "uuid": "f5c07543-fab3-4a85-a2d7-257d10f5867d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Nanza"
+  },
+  {
+    "name": "Durug",
+    "uuid": "4be05006-450a-4101-a882-73686efa93d1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Durug"
+  },
+  {
+    "name": "Ghoti",
+    "uuid": "37b5ef2e-2947-41c6-b11a-18614587fd59",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Ghoti"
+  },
+  {
+    "name": "Dattapur",
+    "uuid": "5ea526b6-411d-4476-b0e4-35f489c391da",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Dattapur"
+  },
+  {
+    "name": "Rajur",
+    "uuid": "b0accda9-61ce-40db-bf57-85ec7c33ef32",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Rajur"
+  },
+  {
+    "name": "Pahur Ijara",
+    "uuid": "c6ff9aed-6afc-4ccc-b93c-c88910e17462",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pahur Ijara"
+  },
+  {
+    "name": "Khateshwar",
+    "uuid": "35d109e1-347a-4f24-b993-f54a01768171",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Khateshwar"
+  },
+  {
+    "name": "Maragaon",
+    "uuid": "b191af1a-cfcb-46ad-a4a6-3f9f6bf253fe",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Maragaon"
+  },
+  {
+    "name": "Dhotra",
+    "uuid": "6db13996-fe24-487e-94d2-00cb6d972282",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kalamb",
+        "uuid": "28bc0666-6f11-45c8-b63c-69afa0e7b636"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Dhotra"
+  },
+  {
+    "name": "Zargad",
+    "uuid": "8a5b00e2-ef20-4af2-b017-7f80a86fbcc9",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Zargad"
+  },
+  {
+    "name": "Anji",
+    "uuid": "e2418c77-008c-4dd5-805e-1446d1ea6947",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Anji"
+  },
+  {
+    "name": "Tejani 1",
+    "uuid": "6320b36f-fa20-444b-916b-d6abfcf9bf9c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Tejani 1"
+  },
+  {
+    "name": "Soit Savitri",
+    "uuid": "f60b5a36-5a4a-492b-b6b2-df8c4b3fc9e7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Soit Savitri"
+  },
+  {
+    "name": "Sawarkheda",
+    "uuid": "efd4c740-7f7e-410b-8e27-67d115c084e7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Sawarkheda"
+  },
+  {
+    "name": "Pimpalkhuti",
+    "uuid": "a1c4352b-f55f-4061-800b-b713d339655e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Pimpalkhuti"
+  },
+  {
+    "name": "Eklara",
+    "uuid": "6019d442-9ad5-4691-bdd9-6ddbc54fee21",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Eklara"
+  },
+  {
+    "name": "Bhulgad",
+    "uuid": "5e068e94-34b0-45c9-9288-b6e3970e2534",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Bhulgad"
+  },
+  {
+    "name": "Varna",
+    "uuid": "060fc30b-3999-4442-af38-67689062f471",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Varna"
+  },
+  {
+    "name": "Vihirgaon",
+    "uuid": "29ca9ae3-62e7-406a-bef7-2a8507b01109",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Vihirgaon"
+  },
+  {
+    "name": "Zontigadhar",
+    "uuid": "5d343879-77ea-42ae-9ecc-c8a39db354d0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ralegaon",
+        "uuid": "28002719-7779-491f-b928-6fdb3172eabe"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Zontigadhar"
+  },
+  {
+    "name": "Ambezari",
+    "uuid": "36ddf780-489e-452c-8c37-80d46c3069d0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ambezari"
+  },
+  {
+    "name": "Ghatanji",
+    "uuid": "3c9e4a07-bc3f-4a0e-97e7-6e2bab37e94c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ghatanji"
+  },
+  {
+    "name": "Kinhi",
+    "uuid": "75b2041e-014d-4ac0-ba97-35b5a09fb022",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Kinhi"
+  },
+  {
+    "name": "Maregaon",
+    "uuid": "8bdfec14-4d23-40a2-bc98-1f5ff68b294c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Maregaon"
+  },
+  {
+    "name": "Shivni",
+    "uuid": "1fb96521-b8ad-4862-b3e3-1d46e1106f24",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Shivni"
+  },
+  {
+    "name": "Ghoti",
+    "uuid": "e70af278-41ef-48e4-bbd9-4317e54bfeb8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "31bf1e0c-b076-4a76-b721-1434081bec6a"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ghoti"
+  },
+  {
+    "name": "Nakhegaon",
+    "uuid": "fa9fb35f-c395-4230-968e-b43db43c04cd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Nakhegaon"
+  },
+  {
+    "name": "Mangkinhi",
+    "uuid": "4ba8caad-fa5a-4307-b3c2-c28c5f00b03b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Mangkinhi"
+  },
+  {
+    "name": "Telgvhan",
+    "uuid": "a3737575-2714-459f-b5c8-d20fc510901a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Telgvhan"
+  },
+  {
+    "name": "Kohla",
+    "uuid": "2558e0ff-8e28-4331-8c26-93c960b10235",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Kohla"
+  },
+  {
+    "name": "Chikani",
+    "uuid": "81d79d39-6d78-47a9-bc9a-3b234e5ff90a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Chikani"
+  },
+  {
+    "name": "Khumbarkinhi",
+    "uuid": "deb6a474-5203-48f0-934c-2d685c56c24c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Khumbarkinhi"
+  },
+  {
+    "name": "Hatola",
+    "uuid": "35d2d126-7abc-40af-862a-b4cd67974b7b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Hatola"
+  },
+  {
+    "name": "Lohi",
+    "uuid": "67df4d97-50ca-4f6a-8691-6470c88b2523",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Darwa",
+        "uuid": "09a0d56d-93f1-4cd2-bd41-6bf29c2c2047"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Lohi"
+  },
+  {
+    "name": "Sawar (Hatola)",
+    "uuid": "ea9bbb86-8cbc-4b04-9c3d-6acf33388e01",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Babulgaon",
+        "uuid": "e078b672-f8cc-43b0-bd96-1a4fad60218d"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Sawar (Hatola)"
+  },
+  {
+    "name": "Zola",
+    "uuid": "8c32c5e3-047d-4b15-87c9-7027b9bb534a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Babulgaon",
+        "uuid": "e078b672-f8cc-43b0-bd96-1a4fad60218d"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Zola"
+  },
+  {
+    "name": "Alegaon",
+    "uuid": "e9df6cc2-a5cc-4d50-b9a8-2defc978789a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Babulgaon",
+        "uuid": "e078b672-f8cc-43b0-bd96-1a4fad60218d"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Alegaon"
+  },
+  {
+    "name": "Umari Pathar",
+    "uuid": "83d8995e-6995-4f41-9cd0-f82928f4999a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Umari Pathar"
+  },
+  {
+    "name": "Pabal",
+    "uuid": "f4edb3c4-d0f4-462a-a1db-836ff0540c56",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Pabal"
+  },
+  {
+    "name": "Shirpur 1",
+    "uuid": "8fbd6a17-ab71-4ab1-8dbb-0e48b3cb7a60",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Shirpur 1"
+  },
+  {
+    "name": "Sukali",
+    "uuid": "bae4172b-b102-459d-bb75-47566830569f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Sukali"
+  },
+  {
+    "name": "Devgaon",
+    "uuid": "094356aa-90b5-473e-ae83-d7dd3eabea35",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Devgaon"
+  },
+  {
+    "name": "Kelzara",
+    "uuid": "6e3e64fe-c437-4ada-8c53-a3f0e708f0f0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Arni",
+        "uuid": "407a33cf-db4d-4f2c-a50e-d47344ee5a27"
+      }
+    ],
+    "path": "Yavatmal.Arni.Kelzara"
+  },
+  {
+    "name": "Uttar Vadhona",
+    "uuid": "596a0c42-30c4-46e3-969d-05c3d7ee652e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Uttar Vadhona"
+  },
+  {
+    "name": "Kapasi",
+    "uuid": "580464dd-1b32-4cba-b53b-3481b52517bc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kapasi"
+  },
+  {
+    "name": "Kolura",
+    "uuid": "0af344c3-c94d-4818-bd13-566fb7b869b1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kolura"
+  },
+  {
+    "name": "Pimpalgaon Duba 1",
+    "uuid": "e2047265-2669-415e-87bb-3f694538d90d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Pimpalgaon Duba 1"
+  },
+  {
+    "name": "Kamandev",
+    "uuid": "8cf97a99-2629-49a6-ac45-2eb4ce82b31f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kamandev"
+  },
+  {
+    "name": "Adegaon",
+    "uuid": "ee406ad5-841f-49e6-976b-74ac991a38c2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Adegaon"
+  },
+  {
+    "name": "Chikani Domga",
+    "uuid": "5b1b69d4-57d0-4da9-9a83-358a9d27a720",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Chikani Domga"
+  },
+  {
+    "name": "Singandoh",
+    "uuid": "70869107-f948-43e7-8c42-74c6298ab496",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Singandoh"
+  },
+  {
+    "name": "Lohatwadi",
+    "uuid": "a3ad9149-f95b-41b1-b204-6ee2a06462f3",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Lohatwadi"
+  },
+  {
+    "name": "Ner",
+    "uuid": "85858598-75b7-472d-ad12-076ce9b555d7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Ner"
+  },
+  {
+    "name": "Khandala",
+    "uuid": "189afdce-1f88-4c92-a2ca-448bd17b72dc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "28509500-d09d-4bf4-b85c-021918b7bf2b"
+      }
+    ],
+    "path": "Yavatmal.Ner.Khandala"
+  },
+  {
+    "name": "Satarmal",
+    "uuid": "dd4f2ae3-d3c6-4249-8459-258b851fe437",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Satarmal"
+  },
+  {
+    "name": "Inapur",
+    "uuid": "2d9dc1ba-b8e8-4cd5-9140-b8705e147636",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Inapur"
+  },
+  {
+    "name": "Nimbi",
+    "uuid": "d726d208-b49a-4911-ae67-5e72e595555d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Nimbi"
+  },
+  {
+    "name": "Kanherwadi",
+    "uuid": "f78e7326-9fb9-453c-bf4d-f249e14c3798",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Kanherwadi"
+  },
+  {
+    "name": "Mandwa",
+    "uuid": "0176f8ed-c058-4ed2-92e2-180cd5424ddd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Mandwa"
+  },
+  {
+    "name": "ManjarJaval Bu. 1",
+    "uuid": "a62f0205-7927-4a3b-84c6-5df41545406a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.ManjarJaval Bu. 1"
+  },
+  {
+    "name": "Bibi",
+    "uuid": "c59b3bd8-e6d3-498d-89c5-2682863b1b37",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Bibi"
+  },
+  {
+    "name": "Sawargaon Gore",
+    "uuid": "7494290e-e90b-4c05-936e-355341c3a16a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Sawargaon Gore"
+  },
+  {
+    "name": "Mal aasoli",
+    "uuid": "8a09c4ad-97a6-4696-aafc-f3d197ae91f4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Mal aasoli"
+  },
+  {
+    "name": "Vagjali",
+    "uuid": "edc23a7b-ae69-495c-980a-a5bb58dc6137",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Vagjali"
+  },
+  {
+    "name": "Sawargaon Bu. 1",
+    "uuid": "21b556ca-4403-491d-9975-4b6046c8ed0b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Sawargaon Bu. 1"
+  },
+  {
+    "name": "Londari",
+    "uuid": "fc0ede69-be8a-46e7-a168-88f86d61c7f2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Londari"
+  },
+  {
+    "name": "Chikhali",
+    "uuid": "05a96c2d-8bfa-403a-b69f-c79ef390c62b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Chikhali"
+  },
+  {
+    "name": "Gargoti",
+    "uuid": "808d6aaa-34dc-490c-ab92-d0b130f15aa1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Pusad",
+        "uuid": "e6d891be-b195-49a3-9eaa-717fd15cdd39"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Gargoti"
+  },
+  {
+    "name": "Bhamb",
+    "uuid": "8e7ded1f-df16-45ce-bf57-cb71e6356f9f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Bhamb"
+  },
+  {
+    "name": "Vadad (Bramhi) 3",
+    "uuid": "305119da-1df1-42af-94b8-872ebdd9b0da",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Vadad (Bramhi) 3"
+  },
+  {
+    "name": "Beldari",
+    "uuid": "d452af9c-4f2d-4e61-b7db-90b44b23592f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Beldari"
+  },
+  {
+    "name": "Pimpari Injara",
+    "uuid": "052da744-49b4-4adc-8f74-fdaf1776b312",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Pimpari Injara"
+  },
+  {
+    "name": "Wani",
+    "uuid": "dd16dcd1-250e-4a37-a79b-9f5a411d948e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Wani"
+  },
+  {
+    "name": "Pokhari",
+    "uuid": "6605b486-ff95-46a7-add9-85620c696b54",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Pokhari"
+  },
+  {
+    "name": "Senad",
+    "uuid": "fbbedb1a-4851-467d-a46e-2f7b0c2e14d0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Senad"
+  },
+  {
+    "name": "Mudana",
+    "uuid": "70dd22e6-d70d-418f-b3a1-6fb111c8b433",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Mudana"
+  },
+  {
+    "name": "Kasola",
+    "uuid": "20727999-6044-4076-9dee-419f65fe4104",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "411c9689-a96d-434b-b7ed-f2b56b5cf336"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Kasola"
+  },
+  {
+    "name": "Vitholi",
+    "uuid": "3d778fc4-ab5c-4d98-afed-a2dae537c3dd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vitholi"
+  },
+  {
+    "name": "Vailingi",
+    "uuid": "0efc4157-b32b-4991-9c15-770fc5b52e5a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vailingi"
+  },
+  {
+    "name": "Malhivra",
+    "uuid": "e17341c3-1cd2-4ac5-bd03-56f6eab96dc3",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Malhivra"
+  },
+  {
+    "name": "Jogaldari",
+    "uuid": "f80c3e00-6acd-4153-a36f-37edc944d103",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Jogaldari"
+  },
+  {
+    "name": "Rui",
+    "uuid": "7ae5c9e4-2c1f-4bf9-9cf2-9169211e031e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Rui"
+  },
+  {
+    "name": "Vithala",
+    "uuid": "cb92a4df-516e-451f-9d47-141f1711661e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Digras",
+        "uuid": "22919abc-5813-4121-840b-940348f764d8"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vithala"
+  },
+  {
+    "name": "Piraji",
+    "uuid": "f3d93145-749a-493a-8de9-40ade77f9084",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Piraji"
+  },
+  {
+    "name": "Kurali",
+    "uuid": "5a76bc2e-c3c3-41ba-a39b-b72891d2222f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Kurali"
+  },
+  {
+    "name": "Kharus Khurd",
+    "uuid": "d4f067fa-bf07-43b7-89e0-8628756153e1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Kharus Khurd"
+  },
+  {
+    "name": "Tebhurdara State",
+    "uuid": "0596a308-d3a2-450c-b775-5f2be505e1bd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Tebhurdara State"
+  },
+  {
+    "name": "Pahunmari",
+    "uuid": "5ff02480-d2d2-4807-b0e5-6ba16f2edbee",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Pahunmari"
+  },
+  {
+    "name": "Shankarvadi( Ningnur)",
+    "uuid": "e030a67a-72f1-420f-9e70-8dbdf0d56609",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Shankarvadi( Ningnur)"
+  },
+  {
+    "name": "Ambona",
+    "uuid": "19111242-e467-4167-a5ae-b9da9370b8d6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Ambona"
+  },
+  {
+    "name": "Piranji",
+    "uuid": "b20b4883-81bc-459b-8065-e0c2f0b5132f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Piranji"
+  },
+  {
+    "name": "Marsule",
+    "uuid": "720d5332-c53c-4e2c-ad4c-77e554c80bb6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Marsule"
+  },
+  {
+    "name": "Taroda",
+    "uuid": "4a80a7c4-1081-4dea-9e4d-daa72fa89c82",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Taroda"
+  },
+  {
+    "name": "Pophali",
+    "uuid": "c36cf022-2334-4950-a200-77a298057fe0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Pophali"
+  },
+  {
+    "name": "Nignure",
+    "uuid": "d6a5456f-bb42-4cb4-b1c0-f592d32766dc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Nignure"
+  },
+  {
+    "name": "Dhanaj",
+    "uuid": "25988b95-c46d-4c54-87a6-652ff94d61d4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Dhanaj"
+  },
+  {
+    "name": "Darati",
+    "uuid": "65851763-5966-42e3-a6d1-d79a51f75ca2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Umerkhed",
+        "uuid": "fbc5ef2f-00eb-4499-8fc8-077399ee4a34"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Darati"
+  },
+  {
+    "name": "Khumbharkhani",
+    "uuid": "5916eca3-60b2-4e7b-a2d5-615fbffe241d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Khumbharkhani"
+  },
+  {
+    "name": "Vadgaon tip 2 (Wanjari)",
+    "uuid": "f85c8a7b-6a18-442b-a832-4caf32104aef",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Vadgaon tip 2 (Wanjari)"
+  },
+  {
+    "name": "Velabai",
+    "uuid": "e5a8029b-e350-4d50-936a-4004f5b28a61",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Velabai"
+  },
+  {
+    "name": "Khandla",
+    "uuid": "c83a73d6-0548-4475-8f17-4a870856651d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Khandla"
+  },
+  {
+    "name": "Naygaon",
+    "uuid": "e7dd3107-d4e1-493b-9803-a55a887fb9b7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Naygaon"
+  },
+  {
+    "name": "Besa",
+    "uuid": "69a982ec-11d3-4d91-a11c-1d33e8dd255a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Besa"
+  },
+  {
+    "name": "Sawla",
+    "uuid": "26d0f0c1-91d7-4c9a-929b-3e74f815d5a1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Sawla"
+  },
+  {
+    "name": "Bramhani",
+    "uuid": "100f2973-5505-4267-9584-86de761bba76",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Bramhani"
+  },
+  {
+    "name": "Pimpari",
+    "uuid": "5a88f67e-5ada-4a69-bb90-a8f481a0489d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Pimpari"
+  },
+  {
+    "name": "Manki",
+    "uuid": "e2bab5fc-2b3f-445c-887d-440c65e56e6a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Manki"
+  },
+  {
+    "name": "Navargaon",
+    "uuid": "ef2d3bc2-2209-468d-b1f2-7e5255d61dcb",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Navargaon"
+  },
+  {
+    "name": "Korbi Maregaon",
+    "uuid": "50f55b3e-513a-405d-8c5e-ce547f345820",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Korbi Maregaon"
+  },
+  {
+    "name": "Yanak",
+    "uuid": "c16f33c0-4bd9-4f8a-aceb-eedee8301ba7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "41925585-c4b8-41b7-bf11-3d5ba7291692"
+      }
+    ],
+    "path": "Yavatmal.Wani.Yanak"
+  },
+  {
+    "name": "Khairgaon Bhedi",
+    "uuid": "29c4b74c-f34b-4803-b8c4-4367686b63f1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Khairgaon Bhedi"
+  },
+  {
+    "name": "Burada",
+    "uuid": "b9fa3d22-e8b9-4f45-bd69-e456229ffdc9",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Burada"
+  },
+  {
+    "name": "Dhamani 1",
+    "uuid": "45ab1279-0fea-4428-91b2-55f6e0d408b2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Dhamani 1"
+  },
+  {
+    "name": "Arjuni",
+    "uuid": "3d1460f1-2c14-4c3a-98fb-a008578ecf8b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Arjuni"
+  },
+  {
+    "name": "Ghoguldhara",
+    "uuid": "ad7f0228-2202-4f0f-9776-fdafe6581ca8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Ghoguldhara"
+  },
+  {
+    "name": "Hiwra Majra",
+    "uuid": "b3e231fc-ba9a-47eb-9bb1-eb5a95e32cfb",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Hiwra Majra"
+  },
+  {
+    "name": "Lakhapur",
+    "uuid": "af2d38dd-d2cd-4c2f-81ce-f0c64b836f14",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Lakhapur"
+  },
+  {
+    "name": "Rampur",
+    "uuid": "92bbce1e-c735-4dc6-97e1-03902e0d91cf",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Rampur"
+  },
+  {
+    "name": "Shivnala",
+    "uuid": "b1ee217b-95ba-4f05-ab04-ba6a2d1afd19",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Shivnala"
+  },
+  {
+    "name": "Khandani",
+    "uuid": "1aa40715-b13c-4819-9e7d-ee048523b630",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Khandani"
+  },
+  {
+    "name": "Mahagaon",
+    "uuid": "21112653-fb1e-4355-8487-3ac1c29e3146",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "7b5f2aef-567c-4021-9916-c0c312d4d203"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Mahagaon"
+  },
+  {
+    "name": "Sakhi",
+    "uuid": "1b686633-a6f0-46e1-be91-8ba9afdae547",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sakhi"
+  },
+  {
+    "name": "Sonurli",
+    "uuid": "56c60022-c426-4b67-bb31-aded100a959d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sonurli"
+  },
+  {
+    "name": "Sakhara Bu.",
+    "uuid": "ccb21179-8bad-4e22-adbe-f31e33cfb802",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sakhara Bu."
+  },
+  {
+    "name": "Munjala",
+    "uuid": "7da68d84-437a-4444-a760-3b0a72b187b7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Munjala"
+  },
+  {
+    "name": "Daheli",
+    "uuid": "de848f46-4f85-430b-8491-efdd1cbc3e16",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Daheli"
+  },
+  {
+    "name": "Sayekheda",
+    "uuid": "a17632f9-83eb-4b30-a6a8-b3534461ba5e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sayekheda"
+  },
+  {
+    "name": "Karanji",
+    "uuid": "4da257af-4a7e-41ff-8af2-b98ff12b7b5f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Karanji"
+  },
+  {
+    "name": "Gondwakadi",
+    "uuid": "e0779b7b-a678-404b-92d9-bfd88615bc49",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Gondwakadi"
+  },
+  {
+    "name": "Wadhona",
+    "uuid": "2bdc22cd-5e3e-4f17-ac58-5fd96abcdb39",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kelapur",
+        "uuid": "0180f504-0587-4ba0-91d0-ae93b5408f41"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Wadhona"
+  },
+  {
+    "name": "Tembhi",
+    "uuid": "72937913-6e52-49f7-b5f8-47652cd94f49",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Tembhi"
+  },
+  {
+    "name": "Mulgavhan",
+    "uuid": "3063ba03-17b2-439f-9b0a-59bcbe06a990",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Mulgavhan"
+  },
+  {
+    "name": "Ruikot",
+    "uuid": "7781c301-d964-48dc-a9db-534dab3a600d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Ruikot"
+  },
+  {
+    "name": "Kondpakhind",
+    "uuid": "0336f3c2-d246-473c-9ec8-131221ee2f77",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Kondpakhind"
+  },
+  {
+    "name": "Takali",
+    "uuid": "ab32013f-7088-4c0d-ab76-87c182d2c95c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Takali"
+  },
+  {
+    "name": "Chalbardi",
+    "uuid": "4be80252-5ca0-4328-85bb-1599ac8411b4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Chalbardi"
+  },
+  {
+    "name": "Borgaon",
+    "uuid": "ff2de6b9-b554-4fb2-9277-eba8deb43498",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Zari",
+        "uuid": "efe12bfc-f06c-427b-a5e1-60da3ec4ce61"
+      }
+    ],
+    "path": "Yavatmal.Zari.Borgaon"
+  },
+  {
+    "name": "Sinchan talav Bechkhed",
+    "uuid": "4a8d0185-fda1-4089-a98c-5e1c9366a752",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bechkhed",
+        "uuid": "da209404-7b27-4eeb-96b5-6a7caac1e40c"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Bechkhed.Sinchan talav Bechkhed"
+  },
+  {
+    "name": "Sinchan talav Parwa",
+    "uuid": "6bac7f1d-86b4-47b6-94f4-edcd7e835d87",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Parwa",
+        "uuid": "7197b6c2-5331-4202-a348-5d8e09016cb4"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Parwa.Sinchan talav Parwa"
+  },
+  {
+    "name": "Sinchan talav Karali 1",
+    "uuid": "9469413c-634d-4f60-a069-ef70eb3233f7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Karali 1",
+        "uuid": "23f7993b-cf10-45ab-9359-d164014f7e1e"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Karali 1.Sinchan talav Karali 1"
+  },
+  {
+    "name": "Sinchan Talav Chichghat",
+    "uuid": "866e5ed3-73d8-43f0-aa93-251a938344fa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chichghat",
+        "uuid": "ba03a7de-9536-4398-b34f-98ad5bdb32af"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Chichghat.Sinchan Talav Chichghat"
+  },
+  {
+    "name": "Pazar Talav Waghapur ( Lasina)",
+    "uuid": "ed63cd47-dce5-4588-b45e-90f7bc1c5e8b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Waghapur ( Lasina)",
+        "uuid": "b5911205-d9c7-49e7-9a0d-9db413a9ca37"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Waghapur ( Lasina).Pazar Talav Waghapur ( Lasina)"
+  },
+  {
+    "name": "Pazar Talav Warjai 1",
+    "uuid": "6e3325f5-5e05-4f08-bdeb-ea5116f5cc11",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Warjai 1",
+        "uuid": "39b461d3-3e06-4fdd-a225-503d1df30755"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Warjai 1.Pazar Talav Warjai 1"
+  },
+  {
+    "name": "Pazar Talav Moha",
+    "uuid": "f9a81916-0c12-4f89-bc3a-3a0dd9574ceb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Moha",
+        "uuid": "16b54f47-db38-4cae-9563-676186ecc8d5"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Moha.Pazar Talav Moha"
+  },
+  {
+    "name": "Pazar Talav Malmasola",
+    "uuid": "0508cdce-6ba8-432c-b777-d49561903083",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Malmasola",
+        "uuid": "31721fcf-1345-4601-b3d5-f61cd481a9fc"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Malmasola.Pazar Talav Malmasola"
+  },
+  {
+    "name": "Pazar Talav Warjai 2",
+    "uuid": "7e2339a3-3755-4c94-900e-3d95b89db2fe",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Warjai 2",
+        "uuid": "abe447c1-f0a1-4654-8e21-1a39a38443a4"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Warjai 2.Pazar Talav Warjai 2"
+  },
+  {
+    "name": "Pazar Talav Bothbodan",
+    "uuid": "b88fe8eb-5fb8-4bac-b96c-a3b014f5b8df",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bothbodan",
+        "uuid": "ad86154b-3692-4227-8b2d-1599c3e6aa89"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Bothbodan.Pazar Talav Bothbodan"
+  },
+  {
+    "name": "Pazar Talav Murzadi Lad",
+    "uuid": "e7abd5c8-299e-474d-b34d-296686753db7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Murzadi Lad",
+        "uuid": "02be70fd-854a-4aca-9e10-0f7f9019880d"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Murzadi Lad.Pazar Talav Murzadi Lad"
+  },
+  {
+    "name": "Borgaon Prakalp",
+    "uuid": "fa1cab7c-5552-4f22-87c6-a3161dcb8eaa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Borgaon",
+        "uuid": "f0f008f7-cbe9-453d-a6ea-0e68d897b889"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Borgaon.Borgaon Prakalp"
+  },
+  {
+    "name": "Arjuna  Prakalp",
+    "uuid": "69b3568d-1ce6-438e-a718-1d2ce8469b10",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Arjuna",
+        "uuid": "8cbe1325-9352-41a9-bc18-54355343127a"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Arjuna.Arjuna  Prakalp"
+  },
+  {
+    "name": "Kharad  Prakalp",
+    "uuid": "480f1fb9-101b-4545-874a-0fa00bc3f062",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kharad",
+        "uuid": "a68159bf-00f6-4e24-8ba1-64ac7b5e0ccd"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Kharad.Kharad  Prakalp"
+  },
+  {
+    "name": "Ghatana  Prakalp",
+    "uuid": "505bc5e8-5bb0-44f4-973e-efad80dcdea9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghatana",
+        "uuid": "72e38e90-e7be-4ad1-af80-f4306f91d333"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Ghatana.Ghatana  Prakalp"
+  },
+  {
+    "name": "Waghadi  Madham Prakalp",
+    "uuid": "57b5bca0-b240-4c79-bc7e-8b68544000a0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Waghadi",
+        "uuid": "528ec4fd-6620-48d2-a30a-a3a9a6fdee76"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Waghadi.Waghadi  Madham Prakalp"
+  },
+  {
+    "name": "Dudhana Prakalp",
+    "uuid": "adfb3818-59e4-4070-899c-28ec7bb28a2b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dudhana",
+        "uuid": "e4fc9896-dad9-467f-bd40-5361ff234418"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Dudhana.Dudhana Prakalp"
+  },
+  {
+    "name": "Takali Prakalp",
+    "uuid": "bee2237d-5e58-4eeb-9339-fd5bd3eb31b3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Takali",
+        "uuid": "3f9c3d24-41c1-45bd-a7a0-302a9920a196"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Takali.Takali Prakalp"
+  },
+  {
+    "name": "Kapara Prakalp",
+    "uuid": "b9f16aa9-5a9a-4b91-b5ff-3bf36acfcc12",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kapra",
+        "uuid": "2f36826a-bdb1-4692-bf42-85fada30030c"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Kapra.Kapara Prakalp"
+  },
+  {
+    "name": "Jamwadi Prakalp",
+    "uuid": "357a9dc2-f05c-4ec1-91dd-0d112e6502fd",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Jamwadi",
+        "uuid": "e614dd49-7c6e-4414-af6e-427f34ff4b74"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Jamwadi.Jamwadi Prakalp"
+  },
+  {
+    "name": "Sinchan talav Pipari ( Hatgaon)",
+    "uuid": "ad35c093-5205-4ffe-a6c0-6c6ffcf3b2aa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pipari ( Hatgaon)",
+        "uuid": "908fd195-f0a2-4e4d-a0c5-b26a246be40a"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Pipari ( Hatgaon).Sinchan talav Pipari ( Hatgaon)"
+  },
+  {
+    "name": "Nilona Damp",
+    "uuid": "a0aee38e-80ba-4974-80d7-68e47b137e23",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Barbada",
+        "uuid": "a9e2c0c5-f1c9-49cd-a722-e343686c4ede"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Barbada.Nilona Damp"
+  },
+  {
+    "name": "Chapdoha",
+    "uuid": "046a34fc-28df-45b4-b53a-40b23c750cb3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chapdoha",
+        "uuid": "504b0350-33dd-4e0d-9160-b6027c7d10f5"
+      }
+    ],
+    "path": "Yavatmal.Yavatmal.Chapdoha.Chapdoha"
+  },
+  {
+    "name": "Sinchan Talav Chaparda",
+    "uuid": "aded31ee-aded-4803-a896-b21e1e4b71fc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chaparda",
+        "uuid": "ad0eeb19-bd19-4895-9157-228a436e093d"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Chaparda.Sinchan Talav Chaparda"
+  },
+  {
+    "name": "Sinchan Talav Pimpalshenda",
+    "uuid": "43ca9ada-97d6-4383-8035-2325b2fb496a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pimpalshenda",
+        "uuid": "428c5ec2-7b98-47ca-b84c-02d8d19f51d2"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pimpalshenda.Sinchan Talav Pimpalshenda"
+  },
+  {
+    "name": "Sinchan Talav Belona",
+    "uuid": "4db1ed3c-8e9b-456e-8f73-65ed9babc8b6",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Belona",
+        "uuid": "c429e6c5-8744-4fdd-805e-5d21a097f3ca"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Belona.Sinchan Talav Belona"
+  },
+  {
+    "name": "Sinchan Talav Mendhala 2",
+    "uuid": "78671eb9-0ee0-4d26-92e9-90aa7bfbe764",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mendhala 2",
+        "uuid": "bada65dd-1e31-44c8-8b38-9b17143d692e"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Mendhala 2.Sinchan Talav Mendhala 2"
+  },
+  {
+    "name": "Sinchan Talav Sarpadhari",
+    "uuid": "a6ca0c87-e775-45a1-9b95-0dc2955bc95b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sarpadhari",
+        "uuid": "3fb5186c-bf9a-4116-915b-502729d77815"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Sarpadhari.Sinchan Talav Sarpadhari"
+  },
+  {
+    "name": "Pazar Talav Antargaon",
+    "uuid": "5403e81e-754f-4604-a785-f79a6ae712b9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Antargaon",
+        "uuid": "8172fa1c-99dc-41aa-87af-ad18a4fc2620"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Antargaon.Pazar Talav Antargaon"
+  },
+  {
+    "name": "Pazar Talav Ghoti 2",
+    "uuid": "8b603127-06cc-4b1a-97d1-660b4729be5a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghoti 2",
+        "uuid": "401d141e-7557-4b49-9a63-26a9b6970914"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Ghoti 2.Pazar Talav Ghoti 2"
+  },
+  {
+    "name": "Pazar Talav Khairi",
+    "uuid": "514df23a-a681-4ab7-9ede-0dabb837bc08",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khairi",
+        "uuid": "6279114d-eab7-4dc4-a0b6-ddc869976d1d"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Khairi.Pazar Talav Khairi"
+  },
+  {
+    "name": "Pazar Talav Pangadi",
+    "uuid": "4028a5df-7301-43bc-b73a-3a71da0c59fe",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pangadi",
+        "uuid": "ff4fb69a-cd47-4847-81b5-0baa501c502c"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pangadi.Pazar Talav Pangadi"
+  },
+  {
+    "name": "Maji Malgujari Taval Nanza",
+    "uuid": "05be9a66-7dae-426d-baa9-526149e485cb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nanza",
+        "uuid": "f5c07543-fab3-4a85-a2d7-257d10f5867d"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Nanza.Maji Malgujari Taval Nanza"
+  },
+  {
+    "name": "Durug Prakalp",
+    "uuid": "bfdc4c6f-2e6f-4477-8c52-3ce86693021d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Durug",
+        "uuid": "4be05006-450a-4101-a882-73686efa93d1"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Durug.Durug Prakalp"
+  },
+  {
+    "name": "Ghoti Prakalp",
+    "uuid": "e90bea8d-5cb5-4481-8381-857862dd54d2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghoti",
+        "uuid": "37b5ef2e-2947-41c6-b11a-18614587fd59"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Ghoti.Ghoti Prakalp"
+  },
+  {
+    "name": "Dattapur Prakalp",
+    "uuid": "6a3f4572-65e8-43d1-986e-5ee0cbf73659",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dattapur",
+        "uuid": "5ea526b6-411d-4476-b0e4-35f489c391da"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Dattapur.Dattapur Prakalp"
+  },
+  {
+    "name": "Rajur Prakalp",
+    "uuid": "c18a7c41-ef91-4429-a646-18097a40cf70",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Rajur",
+        "uuid": "b0accda9-61ce-40db-bf57-85ec7c33ef32"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Rajur.Rajur Prakalp"
+  },
+  {
+    "name": "Antargaon Prakalp",
+    "uuid": "db675920-470c-4fb4-84df-cd113adf7c2a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Antargaon",
+        "uuid": "8172fa1c-99dc-41aa-87af-ad18a4fc2620"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Antargaon.Antargaon Prakalp"
+  },
+  {
+    "name": "Pahur Ijara Prakalp",
+    "uuid": "faeb91c0-90b1-4c7f-9178-1b724307dc32",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pahur Ijara",
+        "uuid": "c6ff9aed-6afc-4ccc-b93c-c88910e17462"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Pahur Ijara.Pahur Ijara Prakalp"
+  },
+  {
+    "name": "Puratan talav Khateshwar",
+    "uuid": "002fffe4-ba65-4877-bac8-806508337e43",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khateshwar",
+        "uuid": "35d109e1-347a-4f24-b993-f54a01768171"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Khateshwar.Puratan talav Khateshwar"
+  },
+  {
+    "name": "Sinchan talav Maregaon",
+    "uuid": "b76b0ccd-9208-42a2-aab2-48c8b016855a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Maragaon",
+        "uuid": "b191af1a-cfcb-46ad-a4a6-3f9f6bf253fe"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Maragaon.Sinchan talav Maregaon"
+  },
+  {
+    "name": "Sinchan talav Dhotra",
+    "uuid": "247b1633-3e6d-43e2-8a99-e7c10b46b5cb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhotra",
+        "uuid": "6db13996-fe24-487e-94d2-00cb6d972282"
+      }
+    ],
+    "path": "Yavatmal.Kalamb.Dhotra.Sinchan talav Dhotra"
+  },
+  {
+    "name": "Pazar Talav Zargad",
+    "uuid": "1ca377ef-aae4-4bfd-80ce-3888b34f5ae1",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Zargad",
+        "uuid": "8a5b00e2-ef20-4af2-b017-7f80a86fbcc9"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Zargad.Pazar Talav Zargad"
+  },
+  {
+    "name": "Pazar Talav Anji",
+    "uuid": "f48d689b-2e71-4dfb-bc64-4cbcbc11d64e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Anji",
+        "uuid": "e2418c77-008c-4dd5-805e-1446d1ea6947"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Anji.Pazar Talav Anji"
+  },
+  {
+    "name": "Pazar Talav Tejani 1",
+    "uuid": "3842f69b-13ca-4d78-8022-948aa12ff1cd",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Tejani 1",
+        "uuid": "6320b36f-fa20-444b-916b-d6abfcf9bf9c"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Tejani 1.Pazar Talav Tejani 1"
+  },
+  {
+    "name": "Pazar Talav Soit Savitri",
+    "uuid": "706071a2-bf3f-4891-9180-a49e79052f36",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Soit Savitri",
+        "uuid": "f60b5a36-5a4a-492b-b6b2-df8c4b3fc9e7"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Soit Savitri.Pazar Talav Soit Savitri"
+  },
+  {
+    "name": "Gaon Talav Sawarkheda",
+    "uuid": "e0e9aeba-3ee7-41bf-bf39-a4fa0b18ff4d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sawarkheda",
+        "uuid": "efd4c740-7f7e-410b-8e27-67d115c084e7"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Sawarkheda.Gaon Talav Sawarkheda"
+  },
+  {
+    "name": "Pimpalkhuti Prakalp",
+    "uuid": "1cc2c3aa-9d19-4490-b60b-d84f334658bf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pimpalkhuti",
+        "uuid": "a1c4352b-f55f-4061-800b-b713d339655e"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Pimpalkhuti.Pimpalkhuti Prakalp"
+  },
+  {
+    "name": "Eklara Prakalp",
+    "uuid": "a01c48f9-6d7e-40e6-af55-2366937b69fc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Eklara",
+        "uuid": "6019d442-9ad5-4691-bdd9-6ddbc54fee21"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Eklara.Eklara Prakalp"
+  },
+  {
+    "name": "Anji Prakalp",
+    "uuid": "d3fc7f28-4f7e-4dad-b9b6-4182021433be",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Anji",
+        "uuid": "e2418c77-008c-4dd5-805e-1446d1ea6947"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Anji.Anji Prakalp"
+  },
+  {
+    "name": "Bhulgad Prakalp",
+    "uuid": "11a931f9-791b-4d10-b5cd-e210b1ee8b6c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bhulgad",
+        "uuid": "5e068e94-34b0-45c9-9288-b6e3970e2534"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Bhulgad.Bhulgad Prakalp"
+  },
+  {
+    "name": "Varna Prakalp",
+    "uuid": "73f4a32a-e229-4512-b651-e49ed8e1d6fc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Varna",
+        "uuid": "060fc30b-3999-4442-af38-67689062f471"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Varna.Varna Prakalp"
+  },
+  {
+    "name": "Vihirgaon Prakalp",
+    "uuid": "d963152e-3824-43fc-91f9-4c7cf43e4ad9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vihirgaon",
+        "uuid": "29ca9ae3-62e7-406a-bef7-2a8507b01109"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Vihirgaon.Vihirgaon Prakalp"
+  },
+  {
+    "name": "Zontigadhar Prakalp",
+    "uuid": "a6c2030a-f386-4c85-8d0e-f7775f6f2d3f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Zontigadhar",
+        "uuid": "5d343879-77ea-42ae-9ecc-c8a39db354d0"
+      }
+    ],
+    "path": "Yavatmal.Ralegaon.Zontigadhar.Zontigadhar Prakalp"
+  },
+  {
+    "name": "Sinchan Talav Ambezari",
+    "uuid": "fa6121a8-0408-4ad8-8d04-fa2355db3e07",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ambezari",
+        "uuid": "36ddf780-489e-452c-8c37-80d46c3069d0"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ambezari.Sinchan Talav Ambezari"
+  },
+  {
+    "name": "Zatala Prakalp",
+    "uuid": "a28954b8-7ae5-4189-803e-cf6d7da85e09",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "3c9e4a07-bc3f-4a0e-97e7-6e2bab37e94c"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ghatanji.Zatala Prakalp"
+  },
+  {
+    "name": "Chorekund Prakalp",
+    "uuid": "6da7a845-9c8a-43b9-8ad8-fe48f466be09",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghatanji",
+        "uuid": "3c9e4a07-bc3f-4a0e-97e7-6e2bab37e94c"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ghatanji.Chorekund Prakalp"
+  },
+  {
+    "name": "Kinhi Prakalp",
+    "uuid": "13297336-e1a8-4a67-b9f6-754bc9bf5338",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kinhi",
+        "uuid": "75b2041e-014d-4ac0-ba97-35b5a09fb022"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Kinhi.Kinhi Prakalp"
+  },
+  {
+    "name": "Maregaon Prakalp",
+    "uuid": "5d9d8b0e-9744-4a26-b84a-05997a49c601",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Maregaon",
+        "uuid": "8bdfec14-4d23-40a2-bc98-1f5ff68b294c"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Maregaon.Maregaon Prakalp"
+  },
+  {
+    "name": "Shivani Prakalp",
+    "uuid": "b2cf1dda-15d7-4cf5-b908-8aa6225f9224",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shivni",
+        "uuid": "1fb96521-b8ad-4862-b3e3-1d46e1106f24"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Shivni.Shivani Prakalp"
+  },
+  {
+    "name": "Sinchan talav Ghoti",
+    "uuid": "f13f2acb-b8e8-42aa-b41a-21b92ca45bdb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghoti",
+        "uuid": "e70af278-41ef-48e4-bbd9-4317e54bfeb8"
+      }
+    ],
+    "path": "Yavatmal.Ghatanji.Ghoti.Sinchan talav Ghoti"
+  },
+  {
+    "name": "Sinchan Talav Nakhegaon",
+    "uuid": "e903f248-1250-4285-ba41-349c1cce4c9a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nakhegaon",
+        "uuid": "fa9fb35f-c395-4230-968e-b43db43c04cd"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Nakhegaon.Sinchan Talav Nakhegaon"
+  },
+  {
+    "name": "Sinchan Talav Mangkinhi",
+    "uuid": "b0017b0b-ab79-4826-a1b0-c19fb9db87bd",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mangkinhi",
+        "uuid": "4ba8caad-fa5a-4307-b3c2-c28c5f00b03b"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Mangkinhi.Sinchan Talav Mangkinhi"
+  },
+  {
+    "name": "Sinchan Talav Telgvhan",
+    "uuid": "ec3895e4-81e8-45fb-91b4-08e7c1f1debb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Telgvhan",
+        "uuid": "a3737575-2714-459f-b5c8-d20fc510901a"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Telgvhan.Sinchan Talav Telgvhan"
+  },
+  {
+    "name": "Pazar Talav Kohla",
+    "uuid": "30bb2eef-8376-4e70-ad18-9f646f8eb6bf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kohla",
+        "uuid": "2558e0ff-8e28-4331-8c26-93c960b10235"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Kohla.Pazar Talav Kohla"
+  },
+  {
+    "name": "Pazar Talav Chikani",
+    "uuid": "75d10723-3a76-4191-be30-8467802b047a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chikani",
+        "uuid": "81d79d39-6d78-47a9-bc9a-3b234e5ff90a"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Chikani.Pazar Talav Chikani"
+  },
+  {
+    "name": "Khumbarkinhi Prakalp",
+    "uuid": "8c9dd9af-08a1-4f42-a00c-7b9a4aee9831",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khumbarkinhi",
+        "uuid": "deb6a474-5203-48f0-934c-2d685c56c24c"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Khumbarkinhi.Khumbarkinhi Prakalp"
+  },
+  {
+    "name": "Hatola Prakalp",
+    "uuid": "aeb039c7-9ed8-44a9-be0b-9c423743f3a7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Hatola",
+        "uuid": "35d2d126-7abc-40af-862a-b4cd67974b7b"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Hatola.Hatola Prakalp"
+  },
+  {
+    "name": "Sinchan talav Lohi",
+    "uuid": "419f53f9-a831-48dc-9d96-0bf704a7a70b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lohi",
+        "uuid": "67df4d97-50ca-4f6a-8691-6470c88b2523"
+      }
+    ],
+    "path": "Yavatmal.Darwa.Lohi.Sinchan talav Lohi"
+  },
+  {
+    "name": "Pazar Talav Sawar (Hatola)",
+    "uuid": "38037c9e-c326-4eb4-afee-690dee694140",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sawar (Hatola)",
+        "uuid": "ea9bbb86-8cbc-4b04-9c3d-6acf33388e01"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Sawar (Hatola).Pazar Talav Sawar (Hatola)"
+  },
+  {
+    "name": "Zola Prakalp",
+    "uuid": "f963988d-4301-46ef-bb78-474bdb0c8870",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Zola",
+        "uuid": "8c32c5e3-047d-4b15-87c9-7027b9bb534a"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Zola.Zola Prakalp"
+  },
+  {
+    "name": "Sinchan talav Alegaon",
+    "uuid": "319f5464-5619-49cd-b058-b978b8d4d5ba",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Alegaon",
+        "uuid": "e9df6cc2-a5cc-4d50-b9a8-2defc978789a"
+      }
+    ],
+    "path": "Yavatmal.Babulgaon.Alegaon.Sinchan talav Alegaon"
+  },
+  {
+    "name": "Sinchan Talav Umari Pathar",
+    "uuid": "22da27b7-46ee-4ce9-9ca5-07f429aac32c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Umari Pathar",
+        "uuid": "83d8995e-6995-4f41-9cd0-f82928f4999a"
+      }
+    ],
+    "path": "Yavatmal.Arni.Umari Pathar.Sinchan Talav Umari Pathar"
+  },
+  {
+    "name": "Pazar Talav Pabal",
+    "uuid": "33840409-5869-4fdd-9d7e-5ccf8cd23349",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pabal",
+        "uuid": "f4edb3c4-d0f4-462a-a1db-836ff0540c56"
+      }
+    ],
+    "path": "Yavatmal.Arni.Pabal.Pazar Talav Pabal"
+  },
+  {
+    "name": "Pazar Talav Shirpur 1",
+    "uuid": "a5282886-debb-4220-be88-cb6a678e9f6b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shirpur 1",
+        "uuid": "8fbd6a17-ab71-4ab1-8dbb-0e48b3cb7a60"
+      }
+    ],
+    "path": "Yavatmal.Arni.Shirpur 1.Pazar Talav Shirpur 1"
+  },
+  {
+    "name": "Pazar Talav Sukali",
+    "uuid": "9ba1a65e-eb0a-4d0d-874f-fb9531b54cb3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sukali",
+        "uuid": "bae4172b-b102-459d-bb75-47566830569f"
+      }
+    ],
+    "path": "Yavatmal.Arni.Sukali.Pazar Talav Sukali"
+  },
+  {
+    "name": "Pazar Talav Umari Pathar",
+    "uuid": "54ad81fa-ac82-4271-b922-d89b1061e59d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Umari Pathar",
+        "uuid": "83d8995e-6995-4f41-9cd0-f82928f4999a"
+      }
+    ],
+    "path": "Yavatmal.Arni.Umari Pathar.Pazar Talav Umari Pathar"
+  },
+  {
+    "name": "Devgaon Prakalp",
+    "uuid": "6524dd32-1c6c-45bd-bcd3-e77f6ce444a0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Devgaon",
+        "uuid": "094356aa-90b5-473e-ae83-d7dd3eabea35"
+      }
+    ],
+    "path": "Yavatmal.Arni.Devgaon.Devgaon Prakalp"
+  },
+  {
+    "name": "Sinchan talav Kelzara",
+    "uuid": "d5be0863-1283-4287-a765-3aa7ad14351e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kelzara",
+        "uuid": "6e3e64fe-c437-4ada-8c53-a3f0e708f0f0"
+      }
+    ],
+    "path": "Yavatmal.Arni.Kelzara.Sinchan talav Kelzara"
+  },
+  {
+    "name": "Sinchan Talav Uttar Vadhona",
+    "uuid": "db3ed0ba-2b04-465c-b831-32c691fc2661",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Uttar Vadhona",
+        "uuid": "596a0c42-30c4-46e3-969d-05c3d7ee652e"
+      }
+    ],
+    "path": "Yavatmal.Ner.Uttar Vadhona.Sinchan Talav Uttar Vadhona"
+  },
+  {
+    "name": "Pazar Talav Kapasi",
+    "uuid": "39619fd9-6992-4b97-8eea-8a1a7e4c0eaa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kapasi",
+        "uuid": "580464dd-1b32-4cba-b53b-3481b52517bc"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kapasi.Pazar Talav Kapasi"
+  },
+  {
+    "name": "Pazar Talav Kolura",
+    "uuid": "02459d03-19a6-454e-ae14-67f55f31851c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kolura",
+        "uuid": "0af344c3-c94d-4818-bd13-566fb7b869b1"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kolura.Pazar Talav Kolura"
+  },
+  {
+    "name": "Pazar Talav Pimpalgaon Duba 1",
+    "uuid": "c652ff86-9c71-42d7-9a51-66f79faa88e5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pimpalgaon Duba 1",
+        "uuid": "e2047265-2669-415e-87bb-3f694538d90d"
+      }
+    ],
+    "path": "Yavatmal.Ner.Pimpalgaon Duba 1.Pazar Talav Pimpalgaon Duba 1"
+  },
+  {
+    "name": "Pazar Talav Kamandev",
+    "uuid": "d50f83a1-cbdc-49e0-951e-0fe4f77d5e4f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kamandev",
+        "uuid": "8cf97a99-2629-49a6-ac45-2eb4ce82b31f"
+      }
+    ],
+    "path": "Yavatmal.Ner.Kamandev.Pazar Talav Kamandev"
+  },
+  {
+    "name": "Pazar Talav Adegaon",
+    "uuid": "65a05796-953b-46d9-aa4a-b992daa8e924",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Adegaon",
+        "uuid": "ee406ad5-841f-49e6-976b-74ac991a38c2"
+      }
+    ],
+    "path": "Yavatmal.Ner.Adegaon.Pazar Talav Adegaon"
+  },
+  {
+    "name": "Pazar Talav Chikani Domga",
+    "uuid": "741dca09-dfc5-4e02-ae6b-23372cb29849",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chikani Domga",
+        "uuid": "5b1b69d4-57d0-4da9-9a83-358a9d27a720"
+      }
+    ],
+    "path": "Yavatmal.Ner.Chikani Domga.Pazar Talav Chikani Domga"
+  },
+  {
+    "name": "Singandoh  Prakalp",
+    "uuid": "00112922-dd85-408c-b0b8-cb35e2888d1e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Singandoh",
+        "uuid": "70869107-f948-43e7-8c42-74c6298ab496"
+      }
+    ],
+    "path": "Yavatmal.Ner.Singandoh.Singandoh  Prakalp"
+  },
+  {
+    "name": "Lohatwadi Prakalp",
+    "uuid": "f1ca6ea9-8d50-43d2-b4f3-a031c9703b38",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lohatwadi",
+        "uuid": "a3ad9149-f95b-41b1-b204-6ee2a06462f3"
+      }
+    ],
+    "path": "Yavatmal.Ner.Lohatwadi.Lohatwadi Prakalp"
+  },
+  {
+    "name": "Ner Prakalp",
+    "uuid": "63bc0f5f-fa64-4557-bea9-05c740d0db53",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ner",
+        "uuid": "85858598-75b7-472d-ad12-076ce9b555d7"
+      }
+    ],
+    "path": "Yavatmal.Ner.Ner.Ner Prakalp"
+  },
+  {
+    "name": "Sinchan talav Khandala",
+    "uuid": "fdbc9da2-3809-4a61-91a6-c30b24c00599",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khandala",
+        "uuid": "189afdce-1f88-4c92-a2ca-448bd17b72dc"
+      }
+    ],
+    "path": "Yavatmal.Ner.Khandala.Sinchan talav Khandala"
+  },
+  {
+    "name": "Sinchan Talav Satarmal",
+    "uuid": "9c840226-53c8-418f-85c1-dd9633ab61b8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Satarmal",
+        "uuid": "dd4f2ae3-d3c6-4249-8459-258b851fe437"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Satarmal.Sinchan Talav Satarmal"
+  },
+  {
+    "name": "Pazar Talav Inapur",
+    "uuid": "973f855e-873e-4e70-ad36-e8ec140425b2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Inapur",
+        "uuid": "2d9dc1ba-b8e8-4cd5-9140-b8705e147636"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Inapur.Pazar Talav Inapur"
+  },
+  {
+    "name": "Pazar Talav Nimbi",
+    "uuid": "3d0f32b7-2d7a-42c0-ab8e-9a5cc16958c3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nimbi",
+        "uuid": "d726d208-b49a-4911-ae67-5e72e595555d"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Nimbi.Pazar Talav Nimbi"
+  },
+  {
+    "name": "Pazar Talav Kanherwadi",
+    "uuid": "63b5ba31-48f8-488b-8bdb-0175f06c35c3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kanherwadi",
+        "uuid": "f78e7326-9fb9-453c-bf4d-f249e14c3798"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Kanherwadi.Pazar Talav Kanherwadi"
+  },
+  {
+    "name": "Pazar Talav Mandwa",
+    "uuid": "969a5ae8-9aa2-4854-97f4-43ce80e4c57d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mandwa",
+        "uuid": "0176f8ed-c058-4ed2-92e2-180cd5424ddd"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Mandwa.Pazar Talav Mandwa"
+  },
+  {
+    "name": "Pazar Talav ManjarJaval Bu. 1",
+    "uuid": "6af31316-ee29-496a-98c2-95fb194da922",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "ManjarJaval Bu. 1",
+        "uuid": "a62f0205-7927-4a3b-84c6-5df41545406a"
+      }
+    ],
+    "path": "Yavatmal.Pusad.ManjarJaval Bu. 1.Pazar Talav ManjarJaval Bu. 1"
+  },
+  {
+    "name": "Pazar Talav Bibi",
+    "uuid": "7eeb27c1-00c1-4da2-b264-94a9d145a6f6",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bibi",
+        "uuid": "c59b3bd8-e6d3-498d-89c5-2682863b1b37"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Bibi.Pazar Talav Bibi"
+  },
+  {
+    "name": "Sathavan Talav Sawargaon Gore",
+    "uuid": "2c9fd235-380e-4ab3-8612-43960c223f8e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sawargaon Gore",
+        "uuid": "7494290e-e90b-4c05-936e-355341c3a16a"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Sawargaon Gore.Sathavan Talav Sawargaon Gore"
+  },
+  {
+    "name": "Sathavan Talav Mal aasoli",
+    "uuid": "075b7444-0776-4211-8642-d7cb9cdb2d5b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mal aasoli",
+        "uuid": "8a09c4ad-97a6-4696-aafc-f3d197ae91f4"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Mal aasoli.Sathavan Talav Mal aasoli"
+  },
+  {
+    "name": "Sathavan Talav Vagjali",
+    "uuid": "edd39e43-162b-4491-8cdc-c0d7e3fabdb7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vagjali",
+        "uuid": "edc23a7b-ae69-495c-980a-a5bb58dc6137"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Vagjali.Sathavan Talav Vagjali"
+  },
+  {
+    "name": "Gaon Talav Sawargaon Bu. 1",
+    "uuid": "d38dca1d-21de-4330-9c52-a2e70310fa6f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sawargaon Bu. 1",
+        "uuid": "21b556ca-4403-491d-9975-4b6046c8ed0b"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Sawargaon Bu. 1.Gaon Talav Sawargaon Bu. 1"
+  },
+  {
+    "name": "Gaon Talav Londari",
+    "uuid": "8dbfd7ad-f093-4722-b741-187554b95ef7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Londari",
+        "uuid": "fc0ede69-be8a-46e7-a168-88f86d61c7f2"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Londari.Gaon Talav Londari"
+  },
+  {
+    "name": "Puse Mota Prakalp",
+    "uuid": "f62fe351-396b-4ed3-8f91-0b58558a25cd",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chikhali",
+        "uuid": "05a96c2d-8bfa-403a-b69f-c79ef390c62b"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Chikhali.Puse Mota Prakalp"
+  },
+  {
+    "name": "Gargoti 1 Prakalp",
+    "uuid": "1526f859-e53e-4cc7-a18a-6f8c47185d80",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Gargoti",
+        "uuid": "808d6aaa-34dc-490c-ab92-d0b130f15aa1"
+      }
+    ],
+    "path": "Yavatmal.Pusad.Gargoti.Gargoti 1 Prakalp"
+  },
+  {
+    "name": "Sinchan Talav Bhamb",
+    "uuid": "54b763fb-42d6-434d-8f25-396c02649b20",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bhamb",
+        "uuid": "8e7ded1f-df16-45ce-bf57-cb71e6356f9f"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Bhamb.Sinchan Talav Bhamb"
+  },
+  {
+    "name": "Sinchan Talav Vadad (Bramhi) 3",
+    "uuid": "163a4236-87a2-40dd-b60f-b433108f93ef",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vadad (Bramhi) 3",
+        "uuid": "305119da-1df1-42af-94b8-872ebdd9b0da"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Vadad (Bramhi) 3.Sinchan Talav Vadad (Bramhi) 3"
+  },
+  {
+    "name": "Sinchan Talav Beldari",
+    "uuid": "fe42ab5e-6dab-4b1c-b2df-cd37ab70833f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Beldari",
+        "uuid": "d452af9c-4f2d-4e61-b7db-90b44b23592f"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Beldari.Sinchan Talav Beldari"
+  },
+  {
+    "name": "Pazar Talav Pimpari Injara",
+    "uuid": "da42ddbd-195e-468e-9704-a38a724b104d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pimpari Injara",
+        "uuid": "052da744-49b4-4adc-8f74-fdaf1776b312"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Pimpari Injara.Pazar Talav Pimpari Injara"
+  },
+  {
+    "name": "Adharpus Madham Prakalp",
+    "uuid": "a4125010-7de7-45db-9881-8f0ceb3ae7bf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Wani",
+        "uuid": "dd16dcd1-250e-4a37-a79b-9f5a411d948e"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Wani.Adharpus Madham Prakalp"
+  },
+  {
+    "name": "Pokhari",
+    "uuid": "430aa408-2170-42db-a63a-def59a929439",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pokhari",
+        "uuid": "6605b486-ff95-46a7-add9-85620c696b54"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Pokhari.Pokhari"
+  },
+  {
+    "name": "Senad",
+    "uuid": "ccaea02e-b3c4-41e7-9506-d3f795bea400",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Senad",
+        "uuid": "fbbedb1a-4851-467d-a46e-2f7b0c2e14d0"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Senad.Senad"
+  },
+  {
+    "name": "Mudana Prakalp",
+    "uuid": "d3912b51-ce92-4de2-bec1-e218f916f48a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mudana",
+        "uuid": "70dd22e6-d70d-418f-b3a1-6fb111c8b433"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Mudana.Mudana Prakalp"
+  },
+  {
+    "name": "Sinchan talav Kasola",
+    "uuid": "79807191-471c-4e07-b8a5-b54e49d79977",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kasola",
+        "uuid": "20727999-6044-4076-9dee-419f65fe4104"
+      }
+    ],
+    "path": "Yavatmal.Mahagaon.Kasola.Sinchan talav Kasola"
+  },
+  {
+    "name": "Pazar Talav Vitholi",
+    "uuid": "3aad9659-f2b1-417b-ab9c-74af542a0163",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vitholi",
+        "uuid": "3d778fc4-ab5c-4d98-afed-a2dae537c3dd"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vitholi.Pazar Talav Vitholi"
+  },
+  {
+    "name": "Pazar Talav Vailingi",
+    "uuid": "fba83324-989b-4a39-8042-cc29a169edb9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vailingi",
+        "uuid": "0efc4157-b32b-4991-9c15-770fc5b52e5a"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vailingi.Pazar Talav Vailingi"
+  },
+  {
+    "name": "Pazar Talav Malhivra",
+    "uuid": "4af61303-8274-4632-8b7d-236ac29ac55c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Malhivra",
+        "uuid": "e17341c3-1cd2-4ac5-bd03-56f6eab96dc3"
+      }
+    ],
+    "path": "Yavatmal.Digras.Malhivra.Pazar Talav Malhivra"
+  },
+  {
+    "name": "Gaon Talav Jogaldari",
+    "uuid": "2dbf9721-bb80-44d4-8822-2af09be598c5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Jogaldari",
+        "uuid": "f80c3e00-6acd-4153-a36f-37edc944d103"
+      }
+    ],
+    "path": "Yavatmal.Digras.Jogaldari.Gaon Talav Jogaldari"
+  },
+  {
+    "name": "Rui Prakalp",
+    "uuid": "7a16b6a9-837d-4fe1-b25c-35482f20da29",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Rui",
+        "uuid": "7ae5c9e4-2c1f-4bf9-9cf2-9169211e031e"
+      }
+    ],
+    "path": "Yavatmal.Digras.Rui.Rui Prakalp"
+  },
+  {
+    "name": "Vithala Prakalp",
+    "uuid": "14f71241-a401-4e31-b615-8ff1c29c5cbe",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vithala",
+        "uuid": "cb92a4df-516e-451f-9d47-141f1711661e"
+      }
+    ],
+    "path": "Yavatmal.Digras.Vithala.Vithala Prakalp"
+  },
+  {
+    "name": "Sinchan Talav Piraji",
+    "uuid": "cfb34c60-16e2-4269-86fe-644f67c13ba2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Piraji",
+        "uuid": "f3d93145-749a-493a-8de9-40ade77f9084"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Piraji.Sinchan Talav Piraji"
+  },
+  {
+    "name": "Sinchan Talav Kurali",
+    "uuid": "a4ba4476-065d-4d05-8e7e-c992d21083a6",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kurali",
+        "uuid": "5a76bc2e-c3c3-41ba-a39b-b72891d2222f"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Kurali.Sinchan Talav Kurali"
+  },
+  {
+    "name": "Pazar Talav Kharus Khurd",
+    "uuid": "ebf59604-254b-4240-b8a9-82fc854b2362",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kharus Khurd",
+        "uuid": "d4f067fa-bf07-43b7-89e0-8628756153e1"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Kharus Khurd.Pazar Talav Kharus Khurd"
+  },
+  {
+    "name": "Pazar Talav Tebhurdara State",
+    "uuid": "54879546-f828-44da-a5d1-e5a022bedeaf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Tebhurdara State",
+        "uuid": "0596a308-d3a2-450c-b775-5f2be505e1bd"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Tebhurdara State.Pazar Talav Tebhurdara State"
+  },
+  {
+    "name": "Pazar Talav Pahunmari",
+    "uuid": "ceadd7af-2299-420b-9ea4-07b55b2d24d7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pahunmari",
+        "uuid": "5ff02480-d2d2-4807-b0e5-6ba16f2edbee"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Pahunmari.Pazar Talav Pahunmari"
+  },
+  {
+    "name": "Pazar Talav Shankarvadi( Ningnur)",
+    "uuid": "9e6ef28e-1cba-4f7d-b670-7029175837f4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shankarvadi( Ningnur)",
+        "uuid": "e030a67a-72f1-420f-9e70-8dbdf0d56609"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Shankarvadi( Ningnur).Pazar Talav Shankarvadi( Ningnur)"
+  },
+  {
+    "name": "Ambona Prakalp",
+    "uuid": "c27ac20a-6f17-4c68-803c-785a0f466114",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ambona",
+        "uuid": "19111242-e467-4167-a5ae-b9da9370b8d6"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Ambona.Ambona Prakalp"
+  },
+  {
+    "name": "Piranji Prakalp",
+    "uuid": "aaaee2a9-9f10-4e87-939e-624f102e5707",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Piranji",
+        "uuid": "b20b4883-81bc-459b-8065-e0c2f0b5132f"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Piranji.Piranji Prakalp"
+  },
+  {
+    "name": "Marsule Prakalp",
+    "uuid": "f0dce976-89e3-40d1-974f-f84d2b871e7e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Marsule",
+        "uuid": "720d5332-c53c-4e2c-ad4c-77e554c80bb6"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Marsule.Marsule Prakalp"
+  },
+  {
+    "name": "Taroda Prakalp",
+    "uuid": "0df2908d-1d6c-46f6-8d81-2dc3bd66074b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Taroda",
+        "uuid": "4a80a7c4-1081-4dea-9e4d-daa72fa89c82"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Taroda.Taroda Prakalp"
+  },
+  {
+    "name": "Pophali Prakalp",
+    "uuid": "7de6169c-3155-461f-8f7c-a955940bc442",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pophali",
+        "uuid": "c36cf022-2334-4950-a200-77a298057fe0"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Pophali.Pophali Prakalp"
+  },
+  {
+    "name": "Nignure Prakalp",
+    "uuid": "d4c4606b-895c-4701-b1bf-5943c2d68707",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nignure",
+        "uuid": "d6a5456f-bb42-4cb4-b1c0-f592d32766dc"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Nignure.Nignure Prakalp"
+  },
+  {
+    "name": "Dhanaj Prakalp",
+    "uuid": "d70d0fb4-3bae-486d-ad8b-25f0457b8218",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhanaj",
+        "uuid": "25988b95-c46d-4c54-87a6-652ff94d61d4"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Dhanaj.Dhanaj Prakalp"
+  },
+  {
+    "name": "Darati Prakalp",
+    "uuid": "f3608778-0046-4388-86a2-497393bd843e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Darati",
+        "uuid": "65851763-5966-42e3-a6d1-d79a51f75ca2"
+      }
+    ],
+    "path": "Yavatmal.Umerkhed.Darati.Darati Prakalp"
+  },
+  {
+    "name": "Pazar Talav Khumbharkhani",
+    "uuid": "811106b3-fbfe-45ee-911c-be2ac2fd7f93",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khumbharkhani",
+        "uuid": "5916eca3-60b2-4e7b-a2d5-615fbffe241d"
+      }
+    ],
+    "path": "Yavatmal.Wani.Khumbharkhani.Pazar Talav Khumbharkhani"
+  },
+  {
+    "name": "Pazar Talav Vadgaon tip 2 (Wanjari)",
+    "uuid": "572e9f41-0659-4759-bed8-caad7f29a018",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vadgaon tip 2 (Wanjari)",
+        "uuid": "f85c8a7b-6a18-442b-a832-4caf32104aef"
+      }
+    ],
+    "path": "Yavatmal.Wani.Vadgaon tip 2 (Wanjari).Pazar Talav Vadgaon tip 2 (Wanjari)"
+  },
+  {
+    "name": "Gaon Talav Velabai",
+    "uuid": "af627304-8c04-4b43-9c05-3e51c5362812",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Velabai",
+        "uuid": "e5a8029b-e350-4d50-936a-4004f5b28a61"
+      }
+    ],
+    "path": "Yavatmal.Wani.Velabai.Gaon Talav Velabai"
+  },
+  {
+    "name": "Maji Malgujari Talav Khandla",
+    "uuid": "1a6a3eac-590f-4734-a01e-472218bfd394",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khandla",
+        "uuid": "c83a73d6-0548-4475-8f17-4a870856651d"
+      }
+    ],
+    "path": "Yavatmal.Wani.Khandla.Maji Malgujari Talav Khandla"
+  },
+  {
+    "name": "Maji Malgujari Talav Naygaon",
+    "uuid": "17fd4dd8-5781-4096-994c-35c5eda85b85",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Naygaon",
+        "uuid": "e7dd3107-d4e1-493b-9803-a55a887fb9b7"
+      }
+    ],
+    "path": "Yavatmal.Wani.Naygaon.Maji Malgujari Talav Naygaon"
+  },
+  {
+    "name": "Maji Malgujari Talav Besa",
+    "uuid": "9f83ee7d-04f2-412d-a5f2-44fcd8a86fa1",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Besa",
+        "uuid": "69a982ec-11d3-4d91-a11c-1d33e8dd255a"
+      }
+    ],
+    "path": "Yavatmal.Wani.Besa.Maji Malgujari Talav Besa"
+  },
+  {
+    "name": "Maji Malgujari Talav Sawla",
+    "uuid": "b7a7d60b-620f-42b1-8bf3-1629bc15bf2f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sawla",
+        "uuid": "26d0f0c1-91d7-4c9a-929b-3e74f815d5a1"
+      }
+    ],
+    "path": "Yavatmal.Wani.Sawla.Maji Malgujari Talav Sawla"
+  },
+  {
+    "name": "Maji Malgujari Talav Bramhani",
+    "uuid": "0808a533-498e-4146-bec8-45d085109381",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bramhani",
+        "uuid": "100f2973-5505-4267-9584-86de761bba76"
+      }
+    ],
+    "path": "Yavatmal.Wani.Bramhani.Maji Malgujari Talav Bramhani"
+  },
+  {
+    "name": "Maji Malgujari Talav Pimpari",
+    "uuid": "e576fdcb-8e20-446b-b903-1ef957c0631f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pimpari",
+        "uuid": "5a88f67e-5ada-4a69-bb90-a8f481a0489d"
+      }
+    ],
+    "path": "Yavatmal.Wani.Pimpari.Maji Malgujari Talav Pimpari"
+  },
+  {
+    "name": "Maji Malgujari Talav Manki",
+    "uuid": "454c0a2f-bada-4d0a-a005-946ed4c3201d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Manki",
+        "uuid": "e2bab5fc-2b3f-445c-887d-440c65e56e6a"
+      }
+    ],
+    "path": "Yavatmal.Wani.Manki.Maji Malgujari Talav Manki"
+  },
+  {
+    "name": "Maji Malgujari Talav Navargaon",
+    "uuid": "e1d9e74b-129d-4081-84ac-577b0a396caa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Navargaon",
+        "uuid": "ef2d3bc2-2209-468d-b1f2-7e5255d61dcb"
+      }
+    ],
+    "path": "Yavatmal.Wani.Navargaon.Maji Malgujari Talav Navargaon"
+  },
+  {
+    "name": "Maji Malgujari Talav Korbi Maregaon",
+    "uuid": "50a90763-5f79-4a32-b100-06be0eab3e20",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Korbi Maregaon",
+        "uuid": "50f55b3e-513a-405d-8c5e-ce547f345820"
+      }
+    ],
+    "path": "Yavatmal.Wani.Korbi Maregaon.Maji Malgujari Talav Korbi Maregaon"
+  },
+  {
+    "name": "Maji Malgujari Talav Yanak",
+    "uuid": "dca38d51-5343-40b2-bf19-9187478bc98b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Yanak",
+        "uuid": "c16f33c0-4bd9-4f8a-aceb-eedee8301ba7"
+      }
+    ],
+    "path": "Yavatmal.Wani.Yanak.Maji Malgujari Talav Yanak"
+  },
+  {
+    "name": "Sinchan Talav Khairgaon Bhedi",
+    "uuid": "9fb325f5-123c-4301-9ebe-57cbd9165e94",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khairgaon Bhedi",
+        "uuid": "29c4b74c-f34b-4803-b8c4-4367686b63f1"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Khairgaon Bhedi.Sinchan Talav Khairgaon Bhedi"
+  },
+  {
+    "name": "Pazar Talav Burada",
+    "uuid": "013a285f-ed8d-4170-bf1a-9e18e76cc06a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Burada",
+        "uuid": "b9fa3d22-e8b9-4f45-bd69-e456229ffdc9"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Burada.Pazar Talav Burada"
+  },
+  {
+    "name": "Pazar Talav Dhamani 1",
+    "uuid": "feff991e-a448-4787-805a-29f8934baa40",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamani 1",
+        "uuid": "45ab1279-0fea-4428-91b2-55f6e0d408b2"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Dhamani 1.Pazar Talav Dhamani 1"
+  },
+  {
+    "name": "Pazar Talav Arjuni",
+    "uuid": "de65fb64-87f0-4350-ab86-b6ca02a6f5ca",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Arjuni",
+        "uuid": "3d1460f1-2c14-4c3a-98fb-a008578ecf8b"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Arjuni.Pazar Talav Arjuni"
+  },
+  {
+    "name": "Pazar Talav Ghoguldhara",
+    "uuid": "d1070874-5e9e-4399-ae4c-c53182ff2caf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghoguldhara",
+        "uuid": "ad7f0228-2202-4f0f-9776-fdafe6581ca8"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Ghoguldhara.Pazar Talav Ghoguldhara"
+  },
+  {
+    "name": "Gaon Talav Hiwra Majra",
+    "uuid": "209f1d85-da44-4e1c-8575-b368f53991f8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Hiwra Majra",
+        "uuid": "b3e231fc-ba9a-47eb-9bb1-eb5a95e32cfb"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Hiwra Majra.Gaon Talav Hiwra Majra"
+  },
+  {
+    "name": "Maji Malgujari Talav Lakhapur",
+    "uuid": "f3384855-aff4-46ec-8d1b-3a29f882b12a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lakhapur",
+        "uuid": "af2d38dd-d2cd-4c2f-81ce-f0c64b836f14"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Lakhapur.Maji Malgujari Talav Lakhapur"
+  },
+  {
+    "name": "Rampur Prakalp",
+    "uuid": "40488155-b7f9-4114-a919-328f653799d7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Rampur",
+        "uuid": "92bbce1e-c735-4dc6-97e1-03902e0d91cf"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Rampur.Rampur Prakalp"
+  },
+  {
+    "name": "Shivnala Prakalp",
+    "uuid": "533a1242-d8f0-497e-8fda-5a905792e5ae",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shivnala",
+        "uuid": "b1ee217b-95ba-4f05-ab04-ba6a2d1afd19"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Shivnala.Shivnala Prakalp"
+  },
+  {
+    "name": "Khandani Prakalp",
+    "uuid": "2a35d0c6-b777-4f22-9902-5c7b30ec6115",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khandani",
+        "uuid": "1aa40715-b13c-4819-9e7d-ee048523b630"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Khandani.Khandani Prakalp"
+  },
+  {
+    "name": "Sinchan talav Mahagaon",
+    "uuid": "27f8bf31-9c7f-4d17-aea6-ecc08ba767c3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mahagaon",
+        "uuid": "21112653-fb1e-4355-8487-3ac1c29e3146"
+      }
+    ],
+    "path": "Yavatmal.Maregaon.Mahagaon.Sinchan talav Mahagaon"
+  },
+  {
+    "name": "Pazar Talav Sakhi",
+    "uuid": "13ea5407-5fe0-4629-a548-5253ebe54205",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sakhi",
+        "uuid": "1b686633-a6f0-46e1-be91-8ba9afdae547"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sakhi.Pazar Talav Sakhi"
+  },
+  {
+    "name": "Pazar Talav Sonurli",
+    "uuid": "9cba506f-e965-4ae6-b468-fcf08a7f0b90",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sonurli",
+        "uuid": "56c60022-c426-4b67-bb31-aded100a959d"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sonurli.Pazar Talav Sonurli"
+  },
+  {
+    "name": "Pazar Talav Sakhara Bu.",
+    "uuid": "ea448525-a3db-4133-8e78-e0166a157c1e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sakhara Bu.",
+        "uuid": "ccb21179-8bad-4e22-adbe-f31e33cfb802"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sakhara Bu..Pazar Talav Sakhara Bu."
+  },
+  {
+    "name": "Pazar Talav Munjala",
+    "uuid": "9af8bde5-59ac-4f9e-8cb7-b271b324fada",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Munjala",
+        "uuid": "7da68d84-437a-4444-a760-3b0a72b187b7"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Munjala.Pazar Talav Munjala"
+  },
+  {
+    "name": "Pazar Talav Daheli",
+    "uuid": "51d6de1c-489f-456d-94a0-09ff38a0733e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Daheli",
+        "uuid": "de848f46-4f85-430b-8491-efdd1cbc3e16"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Daheli.Pazar Talav Daheli"
+  },
+  {
+    "name": "Sayekheda Madham Prakalp",
+    "uuid": "b1c6a937-4d81-4996-91bc-25de416e5082",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sayekheda",
+        "uuid": "a17632f9-83eb-4b30-a6a8-b3534461ba5e"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Sayekheda.Sayekheda Madham Prakalp"
+  },
+  {
+    "name": "Munzala Prakalp",
+    "uuid": "ca6d9904-8374-45ab-a3c5-7bebbf2cc4dc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Munjala",
+        "uuid": "7da68d84-437a-4444-a760-3b0a72b187b7"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Munjala.Munzala Prakalp"
+  },
+  {
+    "name": "Karanji Prakalp",
+    "uuid": "f902e53a-af81-4174-a41d-c146607ab943",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Karanji",
+        "uuid": "4da257af-4a7e-41ff-8af2-b98ff12b7b5f"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Karanji.Karanji Prakalp"
+  },
+  {
+    "name": "Sinchan talav Gondwakadi",
+    "uuid": "89806b85-d25c-4db3-9cab-7b6fbbbc85fb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Gondwakadi",
+        "uuid": "e0779b7b-a678-404b-92d9-bfd88615bc49"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Gondwakadi.Sinchan talav Gondwakadi"
+  },
+  {
+    "name": "Sinchan talav Wadhona",
+    "uuid": "7acef178-abb5-489b-bd54-c1f01cc2c5a4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Wadhona",
+        "uuid": "2bdc22cd-5e3e-4f17-ac58-5fd96abcdb39"
+      }
+    ],
+    "path": "Yavatmal.Kelapur.Wadhona.Sinchan talav Wadhona"
+  },
+  {
+    "name": "Sinchan Talav Tembhi",
+    "uuid": "f0d83aaa-47b0-428a-9820-8779261d0343",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Tembhi",
+        "uuid": "72937913-6e52-49f7-b5f8-47652cd94f49"
+      }
+    ],
+    "path": "Yavatmal.Zari.Tembhi.Sinchan Talav Tembhi"
+  },
+  {
+    "name": "Sinchan Talav Mulgavhan",
+    "uuid": "0b59b1f5-b80f-4c3c-8f05-cf6e21eff287",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mulgavhan",
+        "uuid": "3063ba03-17b2-439f-9b0a-59bcbe06a990"
+      }
+    ],
+    "path": "Yavatmal.Zari.Mulgavhan.Sinchan Talav Mulgavhan"
+  },
+  {
+    "name": "Pazar Talav Ruikot",
+    "uuid": "b49981ff-e122-47cc-8463-e278e79172f8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ruikot",
+        "uuid": "7781c301-d964-48dc-a9db-534dab3a600d"
+      }
+    ],
+    "path": "Yavatmal.Zari.Ruikot.Pazar Talav Ruikot"
+  },
+  {
+    "name": "Pazar Talav Kondpakhind",
+    "uuid": "ee5e6d3b-8eb1-4c27-bf06-759a99a3b99b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kondpakhind",
+        "uuid": "0336f3c2-d246-473c-9ec8-131221ee2f77"
+      }
+    ],
+    "path": "Yavatmal.Zari.Kondpakhind.Pazar Talav Kondpakhind"
+  },
+  {
+    "name": "Pazar Talav Takali",
+    "uuid": "e39befc4-9bf1-47a5-a0cd-9693a98af09c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Takali",
+        "uuid": "ab32013f-7088-4c0d-ab76-87c182d2c95c"
+      }
+    ],
+    "path": "Yavatmal.Zari.Takali.Pazar Talav Takali"
+  },
+  {
+    "name": "Pazar Talav Chalbardi",
+    "uuid": "6865d88c-8944-4ed0-af03-499f0235add2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chalbardi",
+        "uuid": "4be80252-5ca0-4328-85bb-1599ac8411b4"
+      }
+    ],
+    "path": "Yavatmal.Zari.Chalbardi.Pazar Talav Chalbardi"
+  },
+  {
+    "name": "Gaon Talav Kondpakhind",
+    "uuid": "9eb819bc-0632-4193-b382-ff74d5dd2364",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kondpakhind",
+        "uuid": "0336f3c2-d246-473c-9ec8-131221ee2f77"
+      }
+    ],
+    "path": "Yavatmal.Zari.Kondpakhind.Gaon Talav Kondpakhind"
+  },
+  {
+    "name": "Gaon Talav Katali Borgaon",
+    "uuid": "95aafa04-0d8f-467c-9778-6eae78f4e712",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Borgaon",
+        "uuid": "ff2de6b9-b554-4fb2-9277-eba8deb43498"
+      }
+    ],
+    "path": "Yavatmal.Zari.Borgaon.Gaon Talav Katali Borgaon"
+  }
+]

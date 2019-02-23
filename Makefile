@@ -71,6 +71,10 @@ deploy_checklists:
 # <deploy>
 deploy_locations: auth
 	$(call _curl,POST,locations,@address_level/village.json)
+	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
+	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
+	$(call _curl,POST,locations,@address_level/locations_beed.json)
+	$(call _curl,POST,locations,@address_level/locations_nashik.json)
 
 deploy_org_data: deploy_locations
 	$(call _curl,POST,catchments,@catchments.json)

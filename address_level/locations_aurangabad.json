@@ -1,0 +1,3936 @@
+[
+  {
+    "name": "Aurangabad",
+    "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a",
+    "level": 4,
+    "type": "District",
+    "parents": [],
+    "path": "Aurangabad"
+  },
+  {
+    "name": "Aurangabad",
+    "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad"
+  },
+  {
+    "name": "Fulambri",
+    "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Fulambri"
+  },
+  {
+    "name": "Gangapur",
+    "uuid": "af9b8adf-a019-4056-8548-807e7048eeba",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Gangapur"
+  },
+  {
+    "name": "Kannad",
+    "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Kannad"
+  },
+  {
+    "name": "Khultabad",
+    "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Khultabad"
+  },
+  {
+    "name": "Paithan",
+    "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Paithan"
+  },
+  {
+    "name": "Sillod",
+    "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Sillod"
+  },
+  {
+    "name": "Soygaon",
+    "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Soygaon"
+  },
+  {
+    "name": "Vaijapur",
+    "uuid": "390527f9-7935-4171-92d7-7d87e829256e",
+    "level": 3,
+    "type": "block",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "405d5750-54bd-44e4-85bd-e1838c402e7a"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur"
+  },
+  {
+    "name": "Chowka",
+    "uuid": "1aa4125b-1831-45b0-868f-f5f43cc3113d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Chowka"
+  },
+  {
+    "name": "Lingdari",
+    "uuid": "af5e1f7c-7a08-4f6e-87e4-881fd337aa5c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Lingdari"
+  },
+  {
+    "name": "Anjandoh",
+    "uuid": "558ad6c3-2692-46c9-8ffc-1c973fefad4e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Anjandoh"
+  },
+  {
+    "name": "Naigavhan",
+    "uuid": "852d8f32-dd1a-4e04-8faf-e43e81735339",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Naigavhan"
+  },
+  {
+    "name": "Lamkana",
+    "uuid": "2b5eb1fd-f9c4-4957-88b7-d622ea8c5e0c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Lamkana"
+  },
+  {
+    "name": "Bangaon",
+    "uuid": "3e082dea-e00a-47d5-ba18-c2bf50b3afff",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Bangaon"
+  },
+  {
+    "name": "Mangrul",
+    "uuid": "2516435d-01d3-4621-83e9-27b76e4cdd3f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Mangrul"
+  },
+  {
+    "name": "Kesapuri",
+    "uuid": "de81ee8c-550a-4415-997c-22c382440a70",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Kesapuri"
+  },
+  {
+    "name": "Gandheli",
+    "uuid": "4fc23d13-44cc-45d4-8910-fd5a903405bd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Aurangabad",
+        "uuid": "20c9c61f-f66c-4186-b614-1a02f30ef9e1"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Gandheli"
+  },
+  {
+    "name": "Naygaon",
+    "uuid": "8e139534-3b8f-49d9-bbfe-8d39d4d91675",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Naygaon"
+  },
+  {
+    "name": "Nidhona",
+    "uuid": "c95d9789-1c35-4dbb-be7f-f916039806a7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Nidhona"
+  },
+  {
+    "name": "Wavana",
+    "uuid": "3b2c8126-c416-4432-b4e0-1312939ba8ab",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Wavana"
+  },
+  {
+    "name": "Dongargaon Shiv",
+    "uuid": "ee0dc2ea-df90-467f-89da-92d9f0da5cdc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Dongargaon Shiv"
+  },
+  {
+    "name": "Shirodi Bu.",
+    "uuid": "5aefa82e-da7a-435f-9f22-67f363fd2ac2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Shirodi Bu."
+  },
+  {
+    "name": "Ganori",
+    "uuid": "304b1c4b-5254-4b10-9493-0095daeb7863",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Ganori"
+  },
+  {
+    "name": "Murshidabadwadi",
+    "uuid": "ed78b585-cbb5-4671-bba8-5fadea066124",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Murshidabadwadi"
+  },
+  {
+    "name": "Sanjul",
+    "uuid": "b7339bcf-1db5-453b-a1b0-a2f7747b1ddd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Sanjul"
+  },
+  {
+    "name": "Dhamanaon",
+    "uuid": "7b1b0391-5a54-41ff-8d56-7c50d2098033",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Dhamanaon"
+  },
+  {
+    "name": "Waghola",
+    "uuid": "2e9cc309-0677-4e2e-835b-e10ca4842c5b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Waghola"
+  },
+  {
+    "name": "Babhulgaon",
+    "uuid": "4a5aa3f2-3fdc-4df1-a2ce-d01fbeaea4bf",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Babhulgaon"
+  },
+  {
+    "name": "Marsavali",
+    "uuid": "467c1551-f416-44d1-be38-31545dbd3651",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Marsavali"
+  },
+  {
+    "name": "Fazalwadi",
+    "uuid": "6615b6b8-f460-4850-9ecb-fecb2022f865",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Fazalwadi"
+  },
+  {
+    "name": "Pirbavada",
+    "uuid": "524771c8-26a2-499b-af24-9a4a40eeee77",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Pirbavada"
+  },
+  {
+    "name": "Borgaon Arj",
+    "uuid": "0413fc90-6573-469c-a447-ee36ed0e19a8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Borgaon Arj"
+  },
+  {
+    "name": "Umravati",
+    "uuid": "ae2d6484-15e1-4ba9-a1ed-92a27d44d1aa",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Umravati"
+  },
+  {
+    "name": "Jatwa",
+    "uuid": "6d84b415-9e2c-42f8-b993-86c451a4afaa",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Jatwa"
+  },
+  {
+    "name": "Hivara",
+    "uuid": "0f39edae-c50b-42fa-8cb1-9dc467f33e66",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Hivara"
+  },
+  {
+    "name": "Pophala",
+    "uuid": "2e50262b-35e5-46e7-8276-881f28692489",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Pophala"
+  },
+  {
+    "name": "Satala Pimpri",
+    "uuid": "3f225d80-83f8-440c-ae75-e12d27be2dcc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Satala Pimpri"
+  },
+  {
+    "name": "Sultanpurwadi",
+    "uuid": "71546dc2-445b-425e-8747-f491d3d2541b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Fulambri",
+        "uuid": "6a54b32b-6ec2-4d2e-938e-c1d30da96942"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Sultanpurwadi"
+  },
+  {
+    "name": "AKOLIWADGAON",
+    "uuid": "b48a1518-0530-4ca9-8572-cb763fa36a31",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.AKOLIWADGAON"
+  },
+  {
+    "name": "KATEPIMPALGAON",
+    "uuid": "703016f8-f5e7-4d7e-9b0d-ec47a2069138",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.KATEPIMPALGAON"
+  },
+  {
+    "name": "Shingi",
+    "uuid": "64e1ea67-ff41-4037-86e7-6befa4600072",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Shingi"
+  },
+  {
+    "name": "Ekburji-Waghalgaon",
+    "uuid": "4164765a-673e-4bfb-87dd-c6f50c31fe90",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Ekburji-Waghalgaon"
+  },
+  {
+    "name": "Vairagad",
+    "uuid": "a14d5782-9900-4cdb-91ec-b919f4daae34",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Vairagad"
+  },
+  {
+    "name": "Butte-Wadgaon",
+    "uuid": "ccf138eb-16a7-47ab-8e24-60ba61b537dc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Butte-Wadgaon"
+  },
+  {
+    "name": "Maliwadgaon",
+    "uuid": "7276106d-348b-4610-b38a-1428156c9e11",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Maliwadgaon"
+  },
+  {
+    "name": "Dhamori",
+    "uuid": "60b1eeeb-8e59-4717-82de-50902cb5f1a7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dhamori"
+  },
+  {
+    "name": "Dongaon",
+    "uuid": "59f713f6-01bc-447c-8753-2f3dfdd4f8e5",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dongaon"
+  },
+  {
+    "name": "Shillegaon",
+    "uuid": "d3f9255d-be43-460e-844f-1f318e7e2584",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Shillegaon"
+  },
+  {
+    "name": "Guru-Dhanora",
+    "uuid": "0105ba84-a734-478d-8b86-2409b8fdb28e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Guru-Dhanora"
+  },
+  {
+    "name": "Guru-Dhanora(Mu.bad)",
+    "uuid": "713a1d11-6d24-4ce9-ae5d-8f89b1c02fc1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Guru-Dhanora(Mu.bad)"
+  },
+  {
+    "name": "Tembapuri",
+    "uuid": "0af0978f-1bdb-4928-8b3c-2348801931ed",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Tembapuri"
+  },
+  {
+    "name": "Kobapur",
+    "uuid": "c3b0ce8e-ad13-4e2b-a65c-dc7add8732d7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Kobapur"
+  },
+  {
+    "name": "Turkabad",
+    "uuid": "adb64676-ce46-4f23-b632-77253360639e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Turkabad"
+  },
+  {
+    "name": "Rajura/Shirodi",
+    "uuid": "18b30961-090d-4dd8-967a-990102b03bf5",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Gangapur",
+        "uuid": "af9b8adf-a019-4056-8548-807e7048eeba"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Rajura/Shirodi"
+  },
+  {
+    "name": "Dhamani",
+    "uuid": "da01e09c-f9bb-4d1f-8486-eccfb15ce576",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Dhamani"
+  },
+  {
+    "name": "Saygvhan Shivtanda",
+    "uuid": "cdd1435a-1ef0-4db0-9b08-e40a8add5a25",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Saygvhan Shivtanda"
+  },
+  {
+    "name": "Ramnagar palashi",
+    "uuid": "07114db6-1a07-4007-875d-60fff153edd8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Ramnagar palashi"
+  },
+  {
+    "name": "Kolambi",
+    "uuid": "f41f8b81-9f93-4222-86d8-9162c664cdf8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Kolambi"
+  },
+  {
+    "name": "devlana",
+    "uuid": "6365571f-456e-463b-b03f-1de78459baad",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.devlana"
+  },
+  {
+    "name": "jamadi",
+    "uuid": "53901582-a2c5-4833-bb6e-beec0cc71656",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.jamadi"
+  },
+  {
+    "name": "Bhildari saygvhan",
+    "uuid": "171d951d-d070-4f16-8165-92b297ff6a82",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Bhildari saygvhan"
+  },
+  {
+    "name": "pishor",
+    "uuid": "58ff735c-c07c-4a12-b41c-97f0e316b439",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.pishor"
+  },
+  {
+    "name": "Sasegon",
+    "uuid": "c0a4c3f9-592e-47e6-85d7-0fe93bc647b6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Sasegon"
+  },
+  {
+    "name": "Mohara",
+    "uuid": "1c3cd42f-8da5-4dad-a65e-aa246a29cfff",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Mohara"
+  },
+  {
+    "name": "jaitkheda",
+    "uuid": "17a2a5ce-df1c-4c97-a554-e5d8c0ae3136",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.jaitkheda"
+  },
+  {
+    "name": "wadod",
+    "uuid": "b7f884c9-9b65-4ac2-91a9-91ffb9ed9702",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.wadod"
+  },
+  {
+    "name": "Gaurpimpri",
+    "uuid": "a84e4c40-3c68-4247-8f58-41036940d548",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Gaurpimpri"
+  },
+  {
+    "name": "chikathan",
+    "uuid": "79f4db01-6750-48dc-922a-8c6ee00638e6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.chikathan"
+  },
+  {
+    "name": "bhokangaon",
+    "uuid": "37b9c626-43e5-4500-830a-d069539ed75c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.bhokangaon"
+  },
+  {
+    "name": "Palskheda",
+    "uuid": "0dec5e06-8dd7-45d1-8fe5-61b5e03c9897",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Palskheda"
+  },
+  {
+    "name": "Nimbhora",
+    "uuid": "306b2e5e-1b97-412b-ae91-56d2850a7e67",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Nimbhora"
+  },
+  {
+    "name": "Nevpur",
+    "uuid": "9d339b17-95db-4f4d-a43d-4a4aa8cb94e3",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Kannad",
+        "uuid": "3cbd373f-8de3-47a0-8397-b16a8933a8d2"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Nevpur"
+  },
+  {
+    "name": "Dhamangaon",
+    "uuid": "4aba72a0-8890-4c51-a9a9-3661305f8d9a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Dhamangaon"
+  },
+  {
+    "name": "Padli",
+    "uuid": "7f4a67a6-98c4-450d-b2ca-0b0ab00b95b3",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Padli"
+  },
+  {
+    "name": "Verul",
+    "uuid": "9c3f1e42-4ef7-41cb-a4a7-5f3fd536faae",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Verul"
+  },
+  {
+    "name": "Loni",
+    "uuid": "6696a984-01b8-4d9e-93ad-8cd73b4cb7fc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Loni"
+  },
+  {
+    "name": "Yesgaon",
+    "uuid": "359a7506-de4f-4067-9b2e-c2035de66b5c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Yesgaon"
+  },
+  {
+    "name": "Lamangaon",
+    "uuid": "ef1a44c9-13dd-4c8e-b087-8b76df79ee08",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Lamangaon"
+  },
+  {
+    "name": "Mhaismal",
+    "uuid": "615adad4-bb38-4175-82c6-03b47e9a26e4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Mhaismal"
+  },
+  {
+    "name": "Takli R.R.",
+    "uuid": "cfe9334e-3ea1-42a8-a23c-a8f8aa618623",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Takli R.R."
+  },
+  {
+    "name": "Khandipimpalgaon",
+    "uuid": "1e3c8673-561f-4e0b-b610-4ff1f7af7dfc",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Khultabad",
+        "uuid": "53cdefe3-4b5b-48d3-8237-0252e19adadf"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Khandipimpalgaon"
+  },
+  {
+    "name": "Nilajgaon",
+    "uuid": "057547b3-5be7-4f56-a4db-ab30a5b61826",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Nilajgaon"
+  },
+  {
+    "name": "Garegaon Pimpari",
+    "uuid": "49a5b568-a249-42a7-a73a-46a9715f611b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Garegaon Pimpari"
+  },
+  {
+    "name": "Waravandi",
+    "uuid": "945fc3bd-476d-4628-a8a7-a899bdcced19",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Waravandi"
+  },
+  {
+    "name": "Kherda",
+    "uuid": "33ee8cc5-2257-436a-9fc9-3f2005cbccbb",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Kherda"
+  },
+  {
+    "name": "Dawarwadi",
+    "uuid": "2d772791-4c97-4f2a-9b1c-97b63ec9ed02",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Dawarwadi"
+  },
+  {
+    "name": "Bokud jalgaon",
+    "uuid": "0a9f0076-428f-4b07-83d3-7546b81e463c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Paithan",
+        "uuid": "b969fe31-7e74-47b1-a8d5-abb1e01c5010"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Bokud jalgaon"
+  },
+  {
+    "name": "Mandana",
+    "uuid": "d86c936c-1990-4706-a5e5-89b26fa4d20d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Mandana"
+  },
+  {
+    "name": "Chandapur",
+    "uuid": "1575c7c6-412e-4d50-adec-f1fdc83e0437",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Chandapur"
+  },
+  {
+    "name": "Palod",
+    "uuid": "f057056e-32db-4293-a213-bc969cdf56f4",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Palod"
+  },
+  {
+    "name": "Chinchpur",
+    "uuid": "44999250-0ef1-4e8f-8dc1-a8441fdbece6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Chinchpur"
+  },
+  {
+    "name": "Rahimabad",
+    "uuid": "d348eae6-1e3b-4fbb-b14d-d6bccf3bc718",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Rahimabad"
+  },
+  {
+    "name": "Jambai",
+    "uuid": "6b5088ed-c7a6-4376-a599-2c19e89ded54",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Jambai"
+  },
+  {
+    "name": "Kaygaon",
+    "uuid": "88b4130a-4447-48a6-a26e-987294c80252",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Kaygaon"
+  },
+  {
+    "name": "Ajintha",
+    "uuid": "a4833687-3c29-4071-8bbf-7fe2e116bc68",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ajintha"
+  },
+  {
+    "name": "Palshi",
+    "uuid": "d39f0d93-2a2d-4727-91a1-b5343c7c807f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Palshi"
+  },
+  {
+    "name": "Wangi",
+    "uuid": "ab055208-d903-4783-b767-3f23a4f882ab",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Wangi"
+  },
+  {
+    "name": "Ghatnadra",
+    "uuid": "ae7ef9fa-d19e-45f8-bfff-529652f5f141",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ghatnadra"
+  },
+  {
+    "name": "Nillod",
+    "uuid": "3354bb0f-ca46-413d-8974-ff5a54da6439",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Nillod"
+  },
+  {
+    "name": "Talwada",
+    "uuid": "74374961-c692-4877-86d4-c06b89efb175",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Talwada"
+  },
+  {
+    "name": "Doifada",
+    "uuid": "d2c0e84d-8181-4e1e-9900-2dd5561cf9a8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Doifada"
+  },
+  {
+    "name": "Sirsala",
+    "uuid": "b2cde7a1-4748-401d-8f01-68188e91543c",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Sirsala"
+  },
+  {
+    "name": "Sirsala Tanda",
+    "uuid": "0fe5cd36-c2e7-4055-aa3e-8f59ba3b3f00",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Sirsala Tanda"
+  },
+  {
+    "name": "Ambhai",
+    "uuid": "e5f33d3e-60aa-4dad-bb5f-5844898f8b42",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ambhai"
+  },
+  {
+    "name": "Pendgao",
+    "uuid": "ad72d385-ee2f-4a69-86b6-c92d74bf388f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Pendgao"
+  },
+  {
+    "name": "Gevarai Semi",
+    "uuid": "d9b9a23c-974e-4da0-86c7-3fd578a59f12",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Sillod",
+        "uuid": "8b0ac7b4-df8d-48df-8974-808c099aa64a"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Gevarai Semi"
+  },
+  {
+    "name": "Nimbayati",
+    "uuid": "4cc3cc7f-732a-455c-9078-9a9b11c34dc8",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Nimbayati"
+  },
+  {
+    "name": "Fardapur",
+    "uuid": "0dde4d10-744d-41c0-8139-774e0f0174fe",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Fardapur"
+  },
+  {
+    "name": "Molkheda",
+    "uuid": "d0d67302-73c1-486d-b5fb-8b47eea4c3f9",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Molkheda"
+  },
+  {
+    "name": "Amkheda",
+    "uuid": "115eef5a-2787-40a7-ba32-1579d11e6d83",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Amkheda"
+  },
+  {
+    "name": "Malegaon  pimpri",
+    "uuid": "ac1f51ec-7b71-42eb-95d7-cc83bb4cc808",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Malegaon  pimpri"
+  },
+  {
+    "name": "Soygaon",
+    "uuid": "933cb5f2-68c0-4991-8915-7985d8ffb060",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Soygaon"
+  },
+  {
+    "name": "Krakarala",
+    "uuid": "7660bf50-fd88-49c0-a84b-72518695a11a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Krakarala"
+  },
+  {
+    "name": "Shindefal",
+    "uuid": "434e6aa8-1313-4f2e-b4fc-9697ac4f61b0",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "8027d25b-cf7e-4efe-946c-9437afc142e3"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Shindefal"
+  },
+  {
+    "name": "JANEPHAL",
+    "uuid": "1fc4eb25-a462-416d-8938-1697b7b10083",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JANEPHAL"
+  },
+  {
+    "name": "NARALA",
+    "uuid": "4b85d8d3-98b2-4e6b-80a1-29cf3b6d7444",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NARALA"
+  },
+  {
+    "name": "BILONI",
+    "uuid": "4375041d-4f05-4305-9c3c-e33daca4684d",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.BILONI"
+  },
+  {
+    "name": "NANDAGAON",
+    "uuid": "35bc26ee-fbea-4778-bc52-d92485d5b3ba",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NANDAGAON"
+  },
+  {
+    "name": "AGHUR",
+    "uuid": "efea68d2-d5da-4fc6-b7b8-0effc2231b54",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.AGHUR"
+  },
+  {
+    "name": "SAVANDGAON",
+    "uuid": "61942616-61fd-4817-b3fd-9a31c66c2ac5",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SAVANDGAON"
+  },
+  {
+    "name": "SUDAM VADI",
+    "uuid": "20dd4273-adef-45b6-ba55-8a42c084f84b",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SUDAM VADI"
+  },
+  {
+    "name": "BORSAR",
+    "uuid": "e837422f-5853-4969-af54-c78be63ab1c3",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.BORSAR"
+  },
+  {
+    "name": "SANJARPURWADI",
+    "uuid": "2e263b0d-588e-49be-ad45-67c931bccb8e",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SANJARPURWADI"
+  },
+  {
+    "name": "SIDHYAPURWADI",
+    "uuid": "143dc780-ad85-4afc-a306-5210ecf9986f",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SIDHYAPURWADI"
+  },
+  {
+    "name": "NALEGAON",
+    "uuid": "92ab3251-a28e-4674-8ee4-27545167a292",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NALEGAON"
+  },
+  {
+    "name": "DHONDALGAON",
+    "uuid": "449f0284-ae84-424c-95f8-21d92564cd83",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.DHONDALGAON"
+  },
+  {
+    "name": "GHAYGAON",
+    "uuid": "2ca90d21-9850-4a9f-b3d1-d62caa8b5bc2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.GHAYGAON"
+  },
+  {
+    "name": "AGARSAYGAON",
+    "uuid": "5dbcdaef-de9b-444f-87ae-0bd7892a0d28",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.AGARSAYGAON"
+  },
+  {
+    "name": "JAMBARGAON",
+    "uuid": "28adebb0-450c-4bbb-9d82-3d8cf61f81da",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JAMBARGAON"
+  },
+  {
+    "name": "CHINCHADGAON",
+    "uuid": "3343346c-73bf-4477-9815-8e700d0de92a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.CHINCHADGAON"
+  },
+  {
+    "name": "SIDDHAPURWADI",
+    "uuid": "f6c2025c-1abb-448e-a5fa-5bd5957228f6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SIDDHAPURWADI"
+  },
+  {
+    "name": "MHASKI",
+    "uuid": "08b6a201-e289-4891-8274-76b477d32674",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.MHASKI"
+  },
+  {
+    "name": "KOUTHGAON",
+    "uuid": "7729618c-040c-4b2d-9cf4-6461e261e3c1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.KOUTHGAON"
+  },
+  {
+    "name": "JATEGAON",
+    "uuid": "b0e1c048-e29c-4b8e-88ac-a451b572be4a",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JATEGAON"
+  },
+  {
+    "name": "CHORVAGHALGAON",
+    "uuid": "41c3abfb-333e-4022-a647-84cda09a7442",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.CHORVAGHALGAON"
+  },
+  {
+    "name": "Satana",
+    "uuid": "ec875733-4f19-48e2-9dfe-31c006870930",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Satana"
+  },
+  {
+    "name": "Kharj",
+    "uuid": "d2949e53-a19b-43da-8793-946b0d5f5de1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Kharj"
+  },
+  {
+    "name": "khandala",
+    "uuid": "cd243e31-09af-4443-9964-78a21757aef2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.khandala"
+  },
+  {
+    "name": "kolhi",
+    "uuid": "68d7674d-d75b-4428-b223-f61776aad2a9",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.kolhi"
+  },
+  {
+    "name": "Nalegaon",
+    "uuid": "8d00142c-b026-40cc-bad4-f7144d88a1c6",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Nalegaon"
+  },
+  {
+    "name": "Tittarkheda",
+    "uuid": "7f992f42-4d3c-40f6-962f-8da547340ba1",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Tittarkheda"
+  },
+  {
+    "name": "Shiur",
+    "uuid": "8dae370e-52c0-4c2f-921b-f18433e584d9",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Shiur"
+  },
+  {
+    "name": "Parala",
+    "uuid": "864a072d-595e-423c-9e8e-6339805c4021",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Parala"
+  },
+  {
+    "name": "Dheku",
+    "uuid": "4550c380-f86c-4153-b98f-8d346c98f2d7",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Dheku"
+  },
+  {
+    "name": "Dahegaon",
+    "uuid": "a01f23b8-e0fe-4672-b865-32c1e356d9df",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Dahegaon"
+  },
+  {
+    "name": "satana",
+    "uuid": "7ab35c08-c206-46e0-af3e-7eee30db0ddd",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.satana"
+  },
+  {
+    "name": "Hagipurwadi",
+    "uuid": "9d70ef2a-e09e-458e-a21c-83fe28f35560",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Hagipurwadi"
+  },
+  {
+    "name": "Narngi-Sarngi",
+    "uuid": "1b12f2ff-0427-4d89-a0ff-cda1315d6aa2",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Narngi-Sarngi"
+  },
+  {
+    "name": "Khirdi-Kannd",
+    "uuid": "709000aa-8d2f-42d6-9ff7-4dc571aaeeca",
+    "level": 1,
+    "type": "Village",
+    "parents": [
+      {
+        "comment": "Vaijapur",
+        "uuid": "390527f9-7935-4171-92d7-7d87e829256e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Khirdi-Kannd"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "7dc43652-3e13-4628-8aa9-d00f6d322bda",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chowka",
+        "uuid": "1aa4125b-1831-45b0-868f-f5f43cc3113d"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Chowka.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "8704a72e-5e8e-4bc0-a358-0b31831775ac",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lingdari",
+        "uuid": "af5e1f7c-7a08-4f6e-87e4-881fd337aa5c"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Lingdari.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "fc739899-f7ef-402e-9e78-5b68ade5a194",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Anjandoh",
+        "uuid": "558ad6c3-2692-46c9-8ffc-1c973fefad4e"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Anjandoh.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "31144e37-371a-425c-b29c-a4147e3fdb99",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Naigavhan",
+        "uuid": "852d8f32-dd1a-4e04-8faf-e43e81735339"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Naigavhan.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "03d8efd1-35cf-4799-b79c-117cf7ff8c42",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lamkana",
+        "uuid": "2b5eb1fd-f9c4-4957-88b7-d622ea8c5e0c"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Lamkana.Pazar Talav"
+  },
+  {
+    "name": "Lahuki Dharan",
+    "uuid": "fb440bac-2a78-4519-868c-24079c98727e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bangaon",
+        "uuid": "3e082dea-e00a-47d5-ba18-c2bf50b3afff"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Bangaon.Lahuki Dharan"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "789cfd3b-bddb-4691-98f5-2f8ff2852d57",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mangrul",
+        "uuid": "2516435d-01d3-4621-83e9-27b76e4cdd3f"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Mangrul.Pazar Talav"
+  },
+  {
+    "name": "Laghu Madhyam Prakalp",
+    "uuid": "999faeaa-68a9-4494-97d2-2eb6541902f8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kesapuri",
+        "uuid": "de81ee8c-550a-4415-997c-22c382440a70"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Kesapuri.Laghu Madhyam Prakalp"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "43549e14-a99a-4400-88c0-9a3ac63b0b1f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Gandheli",
+        "uuid": "4fc23d13-44cc-45d4-8910-fd5a903405bd"
+      }
+    ],
+    "path": "Aurangabad.Aurangabad.Gandheli.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "ebe5b1df-4921-432c-8ea2-247e302ffa2e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Naygaon",
+        "uuid": "8e139534-3b8f-49d9-bbfe-8d39d4d91675"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Naygaon.Pazar Talav"
+  },
+  {
+    "name": "Sinchan Talav",
+    "uuid": "1d5ea240-2258-40a2-b006-8b849e7317e2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nidhona",
+        "uuid": "c95d9789-1c35-4dbb-be7f-f916039806a7"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Nidhona.Sinchan Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "0795507d-59c4-4738-8a3f-6df328841e69",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Wavana",
+        "uuid": "3b2c8126-c416-4432-b4e0-1312939ba8ab"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Wavana.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "f2209ade-86cf-4f2c-96a9-f1d82f1cbf19",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dongargaon Shiv",
+        "uuid": "ee0dc2ea-df90-467f-89da-92d9f0da5cdc"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Dongargaon Shiv.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "6be25fe4-dd31-4585-87a5-911822c052a3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shirodi Bu.",
+        "uuid": "5aefa82e-da7a-435f-9f22-67f363fd2ac2"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Shirodi Bu..Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "9879a330-7e25-4c3a-84eb-73f26ba01b89",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ganori",
+        "uuid": "304b1c4b-5254-4b10-9493-0095daeb7863"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Ganori.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "558fe4c6-9e52-4be4-99d0-4b27d7ba7403",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Murshidabadwadi",
+        "uuid": "ed78b585-cbb5-4671-bba8-5fadea066124"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Murshidabadwadi.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "2afade40-215e-4f77-9527-390791f3aa9e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sanjul",
+        "uuid": "b7339bcf-1db5-453b-a1b0-a2f7747b1ddd"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Sanjul.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "19b46271-c5f9-4271-ae8b-ffbadc22382a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamanaon",
+        "uuid": "7b1b0391-5a54-41ff-8d56-7c50d2098033"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Dhamanaon.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "ad4bd2ce-c002-47ed-98d9-286b18eb3616",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Waghola",
+        "uuid": "2e9cc309-0677-4e2e-835b-e10ca4842c5b"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Waghola.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "ef85f285-7444-4ea6-b6c9-60ede70aea95",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Babhulgaon",
+        "uuid": "4a5aa3f2-3fdc-4df1-a2ce-d01fbeaea4bf"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Babhulgaon.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "c99f6aec-8b6c-48fb-90ea-a420238cf5f0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Marsavali",
+        "uuid": "467c1551-f416-44d1-be38-31545dbd3651"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Marsavali.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "807d909d-eeaf-458d-a18e-938ed5bc7ed2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Fazalwadi",
+        "uuid": "6615b6b8-f460-4850-9ecb-fecb2022f865"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Fazalwadi.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "17bae338-38de-46ea-93c8-b43d19953967",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pirbavada",
+        "uuid": "524771c8-26a2-499b-af24-9a4a40eeee77"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Pirbavada.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "6a3fb70f-7afe-4f7f-b56a-74efcb92b0f3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Borgaon Arj",
+        "uuid": "0413fc90-6573-469c-a447-ee36ed0e19a8"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Borgaon Arj.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "9c654ab1-1c36-452d-b0e6-16e069ed7a2f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Umravati",
+        "uuid": "ae2d6484-15e1-4ba9-a1ed-92a27d44d1aa"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Umravati.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "68835942-e35a-4018-ade3-68a72dbbebde",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Jatwa",
+        "uuid": "6d84b415-9e2c-42f8-b993-86c451a4afaa"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Jatwa.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "459c7220-ffb8-4ed3-9752-6a8dbddb86ed",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Hivara",
+        "uuid": "0f39edae-c50b-42fa-8cb1-9dc467f33e66"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Hivara.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "decab087-3c82-48b0-b78c-84628d49c3fc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pophala",
+        "uuid": "2e50262b-35e5-46e7-8276-881f28692489"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Pophala.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "6318a070-7448-4277-bdc1-c54516c771dc",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Satala Pimpri",
+        "uuid": "3f225d80-83f8-440c-ae75-e12d27be2dcc"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Satala Pimpri.Pazar Talav"
+  },
+  {
+    "name": "Pazar Talav",
+    "uuid": "8c98d219-3b45-4b7d-b00d-437c65fe66fa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sultanpurwadi",
+        "uuid": "71546dc2-445b-425e-8747-f491d3d2541b"
+      }
+    ],
+    "path": "Aurangabad.Fulambri.Sultanpurwadi.Pazar Talav"
+  },
+  {
+    "name": "AKOLIWADGAON",
+    "uuid": "98c465de-9324-46ad-9cf2-56bd71fe0237",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "AKOLIWADGAON",
+        "uuid": "b48a1518-0530-4ca9-8572-cb763fa36a31"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.AKOLIWADGAON.AKOLIWADGAON"
+  },
+  {
+    "name": "KATEPIMPALGAON",
+    "uuid": "d61a2875-bb9c-4e2e-81da-83df58957e01",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "KATEPIMPALGAON",
+        "uuid": "703016f8-f5e7-4d7e-9b0d-ec47a2069138"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.KATEPIMPALGAON.KATEPIMPALGAON"
+  },
+  {
+    "name": "Shindgi",
+    "uuid": "4f059cfd-bcfa-40ed-baf0-a904040be875",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shingi",
+        "uuid": "64e1ea67-ff41-4037-86e7-6befa4600072"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Shingi.Shindgi"
+  },
+  {
+    "name": "Jhadi Cha Talav",
+    "uuid": "6a73cf15-0230-4528-b6c7-a9bb951adbea",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ekburji-Waghalgaon",
+        "uuid": "4164765a-673e-4bfb-87dd-c6f50c31fe90"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Ekburji-Waghalgaon.Jhadi Cha Talav"
+  },
+  {
+    "name": "Vairagad P.T.",
+    "uuid": "7f050661-5f93-4ef0-a776-eb5d0c3713e9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Vairagad",
+        "uuid": "a14d5782-9900-4cdb-91ec-b919f4daae34"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Vairagad.Vairagad P.T."
+  },
+  {
+    "name": "Khoryatla Talav",
+    "uuid": "59948912-27e5-4197-9f26-c2e8660799a4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Butte-Wadgaon",
+        "uuid": "ccf138eb-16a7-47ab-8e24-60ba61b537dc"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Butte-Wadgaon.Khoryatla Talav"
+  },
+  {
+    "name": "Devkar Vasti",
+    "uuid": "6afb296a-bc6b-439f-b79b-765b43a9e9ee",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Maliwadgaon",
+        "uuid": "7276106d-348b-4610-b38a-1428156c9e11"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Maliwadgaon.Devkar Vasti"
+  },
+  {
+    "name": "Babulgaon Shivar",
+    "uuid": "8a6690a6-de5b-423a-9257-140668c8c891",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Maliwadgaon",
+        "uuid": "7276106d-348b-4610-b38a-1428156c9e11"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Maliwadgaon.Babulgaon Shivar"
+  },
+  {
+    "name": "Jhadi Cha Talav",
+    "uuid": "a62346fb-6ec2-4ae9-adc5-04b18137dee5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamori",
+        "uuid": "60b1eeeb-8e59-4717-82de-50902cb5f1a7"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dhamori.Jhadi Cha Talav"
+  },
+  {
+    "name": "Gairanatla Talav",
+    "uuid": "ff3f0ac9-df5f-49c5-a1ad-8ae10bee6dad",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamori",
+        "uuid": "60b1eeeb-8e59-4717-82de-50902cb5f1a7"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dhamori.Gairanatla Talav"
+  },
+  {
+    "name": "Dhamoritala Talav",
+    "uuid": "3c828d4c-84cc-4d9f-bbf5-62c8c4f72d76",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dongaon",
+        "uuid": "59f713f6-01bc-447c-8753-2f3dfdd4f8e5"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dongaon.Dhamoritala Talav"
+  },
+  {
+    "name": "Sapli Cha Talav",
+    "uuid": "facbe801-6dd1-44c0-a9b3-daa7d2cb5655",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dongaon",
+        "uuid": "59f713f6-01bc-447c-8753-2f3dfdd4f8e5"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dongaon.Sapli Cha Talav"
+  },
+  {
+    "name": "Wakle Cha Talav",
+    "uuid": "3174d2d6-39b3-47c3-870d-d3bba4dd21d9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dongaon",
+        "uuid": "59f713f6-01bc-447c-8753-2f3dfdd4f8e5"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dongaon.Wakle Cha Talav"
+  },
+  {
+    "name": "Parjune Cha Talav",
+    "uuid": "7bccd6ae-70ac-4572-adf7-2920accfcaf3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dongaon",
+        "uuid": "59f713f6-01bc-447c-8753-2f3dfdd4f8e5"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Dongaon.Parjune Cha Talav"
+  },
+  {
+    "name": "Jadhavancha Talav",
+    "uuid": "298adc3d-de70-4bd7-9177-753c9bf1d43b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shillegaon",
+        "uuid": "d3f9255d-be43-460e-844f-1f318e7e2584"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Shillegaon.Jadhavancha Talav"
+  },
+  {
+    "name": "Jhiryacha Talav",
+    "uuid": "c1b12cac-bd82-4e20-b91e-58093a4c7a67",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Guru-Dhanora",
+        "uuid": "0105ba84-a734-478d-8b86-2409b8fdb28e"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Guru-Dhanora.Jhiryacha Talav"
+  },
+  {
+    "name": "Murshidabad Talav",
+    "uuid": "b73f00bb-9547-45a1-b44e-88eb2c62cfb0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Guru-Dhanora(Mu.bad)",
+        "uuid": "713a1d11-6d24-4ce9-ae5d-8f89b1c02fc1"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Guru-Dhanora(Mu.bad).Murshidabad Talav"
+  },
+  {
+    "name": "Tembapuri Laghu Pra.",
+    "uuid": "95b6b00a-d5af-473f-b32c-e254af31abfa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Tembapuri",
+        "uuid": "0af0978f-1bdb-4928-8b3c-2348801931ed"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Tembapuri.Tembapuri Laghu Pra."
+  },
+  {
+    "name": "Kolhapuri Bandhara",
+    "uuid": "8e74dae1-3cbd-439b-80fd-c6f65def3f46",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kobapur",
+        "uuid": "c3b0ce8e-ad13-4e2b-a65c-dc7add8732d7"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Kobapur.Kolhapuri Bandhara"
+  },
+  {
+    "name": "Mirchi Cha Talav",
+    "uuid": "85b8ad40-3818-4a49-ae62-440620356f4e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Turkabad",
+        "uuid": "adb64676-ce46-4f23-b632-77253360639e"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Turkabad.Mirchi Cha Talav"
+  },
+  {
+    "name": "Sapli Cha Talav",
+    "uuid": "38249f18-3551-4b8e-a2aa-f15393370af7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Rajura/Shirodi",
+        "uuid": "18b30961-090d-4dd8-967a-990102b03bf5"
+      }
+    ],
+    "path": "Aurangabad.Gangapur.Rajura/Shirodi.Sapli Cha Talav"
+  },
+  {
+    "name": "Dhamani Pajhar Talav",
+    "uuid": "d7a95034-c5a5-4cfd-af15-e6457fab4930",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamani",
+        "uuid": "da01e09c-f9bb-4d1f-8486-eccfb15ce576"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Dhamani.Dhamani Pajhar Talav"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "5dffddf1-1c43-4137-8c91-1ccb1c981991",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Saygvhan Shivtanda",
+        "uuid": "cdd1435a-1ef0-4db0-9b08-e40a8add5a25"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Saygvhan Shivtanda.Pajhar Talav"
+  },
+  {
+    "name": "Nala",
+    "uuid": "9a29b5c9-1684-4a5d-ab9c-8609ac77314c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ramnagar palashi",
+        "uuid": "07114db6-1a07-4007-875d-60fff153edd8"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Ramnagar palashi.Nala"
+  },
+  {
+    "name": "Kolambi Pajhar Talav",
+    "uuid": "fb1f8d65-0d9e-441d-83c2-8e418e04f9ad",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kolambi",
+        "uuid": "f41f8b81-9f93-4222-86d8-9162c664cdf8"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Kolambi.Kolambi Pajhar Talav"
+  },
+  {
+    "name": "Laghu Sinchan Prakalp",
+    "uuid": "369a4569-7000-4083-90e7-58db6a353236",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "devlana",
+        "uuid": "6365571f-456e-463b-b03f-1de78459baad"
+      }
+    ],
+    "path": "Aurangabad.Kannad.devlana.Laghu Sinchan Prakalp"
+  },
+  {
+    "name": "Ganeshpur Prakalp",
+    "uuid": "ab2bb944-bd9b-47f8-8655-f6608e769c7a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "jamadi",
+        "uuid": "53901582-a2c5-4833-bb6e-beec0cc71656"
+      }
+    ],
+    "path": "Aurangabad.Kannad.jamadi.Ganeshpur Prakalp"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "a1320ffe-4fb5-488a-94e3-fd0b3ce632cf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bhildari saygvhan",
+        "uuid": "171d951d-d070-4f16-8165-92b297ff6a82"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Bhildari saygvhan.Pajhar Talav"
+  },
+  {
+    "name": "Anjana palashi prakalp",
+    "uuid": "fc0075de-47d4-44a5-8e47-51302c76886f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "pishor",
+        "uuid": "58ff735c-c07c-4a12-b41c-97f0e316b439"
+      }
+    ],
+    "path": "Aurangabad.Kannad.pishor.Anjana palashi prakalp"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "ad362d68-6935-42be-b0f6-531e93d561a8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sasegon",
+        "uuid": "c0a4c3f9-592e-47e6-85d7-0fe93bc647b6"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Sasegon.Pajhar Talav"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "804e768f-c2c1-44bd-9373-8f7d2adfb2ae",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mohara",
+        "uuid": "1c3cd42f-8da5-4dad-a65e-aa246a29cfff"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Mohara.Pajhar Talav"
+  },
+  {
+    "name": "Pajhar Talav v Nala",
+    "uuid": "d4fc4d92-880d-4304-a330-e91035b0628f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "jaitkheda",
+        "uuid": "17a2a5ce-df1c-4c97-a554-e5d8c0ae3136"
+      }
+    ],
+    "path": "Aurangabad.Kannad.jaitkheda.Pajhar Talav v Nala"
+  },
+  {
+    "name": "Wadod Madhyam Prakalp",
+    "uuid": "99bd08b6-b4ca-4533-92f7-705b93f63cd7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "wadod",
+        "uuid": "b7f884c9-9b65-4ac2-91a9-91ffb9ed9702"
+      }
+    ],
+    "path": "Aurangabad.Kannad.wadod.Wadod Madhyam Prakalp"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "3c9a0f25-0357-4fa7-b1d4-697c7ca81293",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Gaurpimpri",
+        "uuid": "a84e4c40-3c68-4247-8f58-41036940d548"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Gaurpimpri.Pajhar Talav"
+  },
+  {
+    "name": "Nala",
+    "uuid": "8bb3b91e-8f55-416f-8b3e-16eac295a879",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "chikathan",
+        "uuid": "79f4db01-6750-48dc-922a-8c6ee00638e6"
+      }
+    ],
+    "path": "Aurangabad.Kannad.chikathan.Nala"
+  },
+  {
+    "name": "Jilha parishad",
+    "uuid": "a7fc5d84-9e16-458c-a028-43663fd44d0e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "bhokangaon",
+        "uuid": "37b9c626-43e5-4500-830a-d069539ed75c"
+      }
+    ],
+    "path": "Aurangabad.Kannad.bhokangaon.Jilha parishad"
+  },
+  {
+    "name": "Palskhda Laghusinchan Prakalp",
+    "uuid": "27778fa3-34c9-4e54-b5f6-86de579f1ae4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Palskheda",
+        "uuid": "0dec5e06-8dd7-45d1-8fe5-61b5e03c9897"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Palskheda.Palskhda Laghusinchan Prakalp"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "450db86d-4122-4492-9e08-b4ef1f7a3f4a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nimbhora",
+        "uuid": "306b2e5e-1b97-412b-ae91-56d2850a7e67"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Nimbhora.Pajhar Talav"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "1baaf558-c2e2-46fb-b9a0-4d185560dfe7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nevpur",
+        "uuid": "9d339b17-95db-4f4d-a43d-4a4aa8cb94e3"
+      }
+    ],
+    "path": "Aurangabad.Kannad.Nevpur.Pajhar Talav"
+  },
+  {
+    "name": "Mhaska Cha Talav",
+    "uuid": "ab494459-20b2-4aa2-9717-d51880a55852",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamangaon",
+        "uuid": "4aba72a0-8890-4c51-a9a9-3661305f8d9a"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Dhamangaon.Mhaska Cha Talav"
+  },
+  {
+    "name": "Sutarkheda",
+    "uuid": "6b782dfb-45d0-443a-8555-48d436f308d5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamangaon",
+        "uuid": "4aba72a0-8890-4c51-a9a9-3661305f8d9a"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Dhamangaon.Sutarkheda"
+  },
+  {
+    "name": "Ghorya  talav",
+    "uuid": "8369735b-42ac-4b12-8c34-f8edd38932d4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dhamangaon",
+        "uuid": "4aba72a0-8890-4c51-a9a9-3661305f8d9a"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Dhamangaon.Ghorya  talav"
+  },
+  {
+    "name": "Laghu-pra.",
+    "uuid": "347aefaf-805d-4c27-bebc-9bc506e9c80e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Padli",
+        "uuid": "7f4a67a6-98c4-450d-b2ca-0b0ab00b95b3"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Padli.Laghu-pra."
+  },
+  {
+    "name": "Panj.Talav",
+    "uuid": "dbebf143-aa79-4a28-af58-45316e9a6d6b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Padli",
+        "uuid": "7f4a67a6-98c4-450d-b2ca-0b0ab00b95b3"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Padli.Panj.Talav"
+  },
+  {
+    "name": "Damdam Talav",
+    "uuid": "a0e3d3f1-b55f-42c2-a0fa-a492c6601791",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Verul",
+        "uuid": "9c3f1e42-4ef7-41cb-a4a7-5f3fd536faae"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Verul.Damdam Talav"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "0c044e07-bf77-445b-897f-064029c999e3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Loni",
+        "uuid": "6696a984-01b8-4d9e-93ad-8cd73b4cb7fc"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Loni.Pajhar Talav"
+  },
+  {
+    "name": "Girja Praklp",
+    "uuid": "76a5a230-97ea-4d7f-9bad-0338dc4ee984",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Yesgaon",
+        "uuid": "359a7506-de4f-4067-9b2e-c2035de66b5c"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Yesgaon.Girja Praklp"
+  },
+  {
+    "name": "Wadicha Talav",
+    "uuid": "0c9afafc-5273-42d1-803a-c0be82bcbe51",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Lamangaon",
+        "uuid": "ef1a44c9-13dd-4c8e-b087-8b76df79ee08"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Lamangaon.Wadicha Talav"
+  },
+  {
+    "name": "Girja Talav",
+    "uuid": "07b5b09b-a2f8-4bb2-9e67-e340ab88febb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mhaismal",
+        "uuid": "615adad4-bb38-4175-82c6-03b47e9a26e4"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Mhaismal.Girja Talav"
+  },
+  {
+    "name": "Chandari Dharan",
+    "uuid": "463ffb16-c4aa-4b41-86da-6c41662a1da0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Takli R.R.",
+        "uuid": "cfe9334e-3ea1-42a8-a23c-a8f8aa618623"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Takli R.R..Chandari Dharan"
+  },
+  {
+    "name": "Abdulpur Talav",
+    "uuid": "46dfc1ec-ed48-46aa-85b5-6072e11154e1",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Takli R.R.",
+        "uuid": "cfe9334e-3ea1-42a8-a23c-a8f8aa618623"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Takli R.R..Abdulpur Talav"
+  },
+  {
+    "name": "Zhira talav",
+    "uuid": "05ee17c3-7eff-4d12-9450-c307aeffac36",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khandipimpalgaon",
+        "uuid": "1e3c8673-561f-4e0b-b610-4ff1f7af7dfc"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Khandipimpalgaon.Zhira talav"
+  },
+  {
+    "name": "Tanda talav",
+    "uuid": "599e1f42-5945-4692-b27d-8e1e3691d450",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khandipimpalgaon",
+        "uuid": "1e3c8673-561f-4e0b-b610-4ff1f7af7dfc"
+      }
+    ],
+    "path": "Aurangabad.Khultabad.Khandipimpalgaon.Tanda talav"
+  },
+  {
+    "name": "Nilajgonn Talav",
+    "uuid": "f8dbde31-d12c-43e4-82d1-bc95a28c42b0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nilajgaon",
+        "uuid": "057547b3-5be7-4f56-a4db-ab30a5b61826"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Nilajgaon.Nilajgonn Talav"
+  },
+  {
+    "name": "Gharegaon Pazar Talav",
+    "uuid": "86ba1a70-7110-4282-9b03-8a6984a4a23d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Garegaon Pimpari",
+        "uuid": "49a5b568-a249-42a7-a73a-46a9715f611b"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Garegaon Pimpari.Gharegaon Pazar Talav"
+  },
+  {
+    "name": "Warvandi Talav",
+    "uuid": "2e7bebb4-29cf-4379-969a-7a7a62b62a4a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Waravandi",
+        "uuid": "945fc3bd-476d-4628-a8a7-a899bdcced19"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Waravandi.Warvandi Talav"
+  },
+  {
+    "name": "Kherda Talav",
+    "uuid": "f74b187c-af72-46f3-ac14-3e8e43c47296",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kherda",
+        "uuid": "33ee8cc5-2257-436a-9fc9-3f2005cbccbb"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Kherda.Kherda Talav"
+  },
+  {
+    "name": "Dawarwadi Talav",
+    "uuid": "a3c82a48-4bfc-47c4-8a99-7864d2e75d11",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dawarwadi",
+        "uuid": "2d772791-4c97-4f2a-9b1c-97b63ec9ed02"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Dawarwadi.Dawarwadi Talav"
+  },
+  {
+    "name": "Bokud Jalgaon Pazar Talav",
+    "uuid": "bf53130d-295f-4377-ad57-51f60cbb2651",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Bokud jalgaon",
+        "uuid": "0a9f0076-428f-4b07-83d3-7546b81e463c"
+      }
+    ],
+    "path": "Aurangabad.Paithan.Bokud jalgaon.Bokud Jalgaon Pazar Talav"
+  },
+  {
+    "name": "Mandana Prakalp",
+    "uuid": "522c6eeb-ac4e-4fe1-9687-b0c8246977d3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Mandana",
+        "uuid": "d86c936c-1990-4706-a5e5-89b26fa4d20d"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Mandana.Mandana Prakalp"
+  },
+  {
+    "name": "Mandana Prakalp",
+    "uuid": "a5ea7190-525a-4dec-916d-1d28282527e8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chandapur",
+        "uuid": "1575c7c6-412e-4d50-adec-f1fdc83e0437"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Chandapur.Mandana Prakalp"
+  },
+  {
+    "name": "Mandana Prakalp",
+    "uuid": "0862c2b6-6930-4326-b431-aa0b33eac132",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Palod",
+        "uuid": "f057056e-32db-4293-a213-bc969cdf56f4"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Palod.Mandana Prakalp"
+  },
+  {
+    "name": "Mandana Prakalp",
+    "uuid": "ad2a01bf-6046-4bdf-aac5-b03f377e9039",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Chinchpur",
+        "uuid": "44999250-0ef1-4e8f-8dc1-a8441fdbece6"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Chinchpur.Mandana Prakalp"
+  },
+  {
+    "name": "Rahimabad Talav",
+    "uuid": "05b7195e-4635-4c64-be7c-1edd833fb1d0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Rahimabad",
+        "uuid": "d348eae6-1e3b-4fbb-b14d-d6bccf3bc718"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Rahimabad.Rahimabad Talav"
+  },
+  {
+    "name": "Jambhai Talav",
+    "uuid": "12664970-b221-4a0e-9e52-09aaa243fec2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Jambai",
+        "uuid": "6b5088ed-c7a6-4376-a599-2c19e89ded54"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Jambai.Jambhai Talav"
+  },
+  {
+    "name": "Kaygoan Talav",
+    "uuid": "ec4e0bca-3d09-46b6-bc7b-b1b395502393",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kaygaon",
+        "uuid": "88b4130a-4447-48a6-a26e-987294c80252"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Kaygaon.Kaygoan Talav"
+  },
+  {
+    "name": "Ajintha prakalp",
+    "uuid": "e8e7cf2c-689d-499b-ad9c-e9929d4c2eaa",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ajintha",
+        "uuid": "a4833687-3c29-4071-8bbf-7fe2e116bc68"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ajintha.Ajintha prakalp"
+  },
+  {
+    "name": "Palshi Talav",
+    "uuid": "37de235e-4fe9-4e55-9737-952f6bf766ca",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Palshi",
+        "uuid": "d39f0d93-2a2d-4727-91a1-b5343c7c807f"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Palshi.Palshi Talav"
+  },
+  {
+    "name": "Wangi Talav",
+    "uuid": "77b14180-52ab-445f-924b-582decdeafce",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Wangi",
+        "uuid": "ab055208-d903-4783-b767-3f23a4f882ab"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Wangi.Wangi Talav"
+  },
+  {
+    "name": "Ghatnandra Prakalp",
+    "uuid": "0b771bc9-4799-46c0-95fa-99e38d4fd831",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ghatnadra",
+        "uuid": "ae7ef9fa-d19e-45f8-bfff-529652f5f141"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ghatnadra.Ghatnandra Prakalp"
+  },
+  {
+    "name": "Nillod Prakalp",
+    "uuid": "701f21be-d60d-45f4-bf47-c650e42daa11",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nillod",
+        "uuid": "3354bb0f-ca46-413d-8974-ff5a54da6439"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Nillod.Nillod Prakalp"
+  },
+  {
+    "name": "Nillod Pajhar Talav",
+    "uuid": "19cb0297-2196-486d-bcf9-9dc2d296a736",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nillod",
+        "uuid": "3354bb0f-ca46-413d-8974-ff5a54da6439"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Nillod.Nillod Pajhar Talav"
+  },
+  {
+    "name": "Talwada Pajhar Talav",
+    "uuid": "2b71932c-1a96-4868-88c6-2ec6b47a4af6",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Talwada",
+        "uuid": "74374961-c692-4877-86d4-c06b89efb175"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Talwada.Talwada Pajhar Talav"
+  },
+  {
+    "name": "Doifoda Pajhar Talav",
+    "uuid": "7a805d36-f4b9-467a-a6a8-c43b24776364",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Doifada",
+        "uuid": "d2c0e84d-8181-4e1e-9900-2dd5561cf9a8"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Doifada.Doifoda Pajhar Talav"
+  },
+  {
+    "name": "Sirsala Pajhar Talav",
+    "uuid": "94ff8352-8697-42df-8008-5bd89d898203",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sirsala",
+        "uuid": "b2cde7a1-4748-401d-8f01-68188e91543c"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Sirsala.Sirsala Pajhar Talav"
+  },
+  {
+    "name": "Sirsala Pajhar Talav",
+    "uuid": "e71f6cab-b509-4c76-b216-5d67d136b390",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Sirsala Tanda",
+        "uuid": "0fe5cd36-c2e7-4055-aa3e-8f59ba3b3f00"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Sirsala Tanda.Sirsala Pajhar Talav"
+  },
+  {
+    "name": "Ambhai Pajhar Talav",
+    "uuid": "d1638478-a49b-4e83-9b43-9ef47e2858c7",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Ambhai",
+        "uuid": "e5f33d3e-60aa-4dad-bb5f-5844898f8b42"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Ambhai.Ambhai Pajhar Talav"
+  },
+  {
+    "name": "Pendgoan Prakalp",
+    "uuid": "bc0d9941-4f17-4b83-9810-7586e67fc8f0",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Pendgao",
+        "uuid": "ad72d385-ee2f-4a69-86b6-c92d74bf388f"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Pendgao.Pendgoan Prakalp"
+  },
+  {
+    "name": "Pajhar Talav",
+    "uuid": "fcec0a4e-416a-4a93-b22b-0eef1742ba75",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Gevarai Semi",
+        "uuid": "d9b9a23c-974e-4da0-86c7-3fd578a59f12"
+      }
+    ],
+    "path": "Aurangabad.Sillod.Gevarai Semi.Pajhar Talav"
+  },
+  {
+    "name": "Nimbayati Pajhar Talav",
+    "uuid": "2a2a0639-2dd0-4b5a-bc76-42de1cdb598b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nimbayati",
+        "uuid": "4cc3cc7f-732a-455c-9078-9a9b11c34dc8"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Nimbayati.Nimbayati Pajhar Talav"
+  },
+  {
+    "name": "Fardapur Pajhar Talav",
+    "uuid": "0890626f-0b1f-43d3-b324-15d027684a80",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Fardapur",
+        "uuid": "0dde4d10-744d-41c0-8139-774e0f0174fe"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Fardapur.Fardapur Pajhar Talav"
+  },
+  {
+    "name": "Molkheda Pajhar Talav",
+    "uuid": "87671509-af3d-4042-a8be-9523cbfb5ceb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Molkheda",
+        "uuid": "d0d67302-73c1-486d-b5fb-8b47eea4c3f9"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Molkheda.Molkheda Pajhar Talav"
+  },
+  {
+    "name": "Amkheda Pajhar Talav",
+    "uuid": "39f4a458-dabe-4dc7-bd13-650c1f16120c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Amkheda",
+        "uuid": "115eef5a-2787-40a7-ba32-1579d11e6d83"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Amkheda.Amkheda Pajhar Talav"
+  },
+  {
+    "name": "Malegaon  pimpri Talav",
+    "uuid": "50525e0f-a000-4f96-93b4-42e667d41e6a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Malegaon  pimpri",
+        "uuid": "ac1f51ec-7b71-42eb-95d7-cc83bb4cc808"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Malegaon  pimpri.Malegaon  pimpri Talav"
+  },
+  {
+    "name": "Soygaon Pajhar Talav",
+    "uuid": "f2225141-6b78-442b-95c7-a7dacf30b4a9",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Soygaon",
+        "uuid": "933cb5f2-68c0-4991-8915-7985d8ffb060"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Soygaon.Soygaon Pajhar Talav"
+  },
+  {
+    "name": "Kankarala Pajhar Talav",
+    "uuid": "de82a793-d17a-44d9-a12e-991b813e5ef5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Krakarala",
+        "uuid": "7660bf50-fd88-49c0-a84b-72518695a11a"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Krakarala.Kankarala Pajhar Talav"
+  },
+  {
+    "name": "Shindefal Pajhar Talav",
+    "uuid": "55e659c5-41e6-4cc2-82fd-e2c6924ac46b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shindefal",
+        "uuid": "434e6aa8-1313-4f2e-b4fc-9697ac4f61b0"
+      }
+    ],
+    "path": "Aurangabad.Soygaon.Shindefal.Shindefal Pajhar Talav"
+  },
+  {
+    "name": "JANEPHAL",
+    "uuid": "d9aa04dc-3652-4068-bf18-a0f03889ac35",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "JANEPHAL",
+        "uuid": "1fc4eb25-a462-416d-8938-1697b7b10083"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JANEPHAL.JANEPHAL"
+  },
+  {
+    "name": "NARALA",
+    "uuid": "701d2d9e-2ed4-4431-b6ba-ef90085c3b8d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "NARALA",
+        "uuid": "4b85d8d3-98b2-4e6b-80a1-29cf3b6d7444"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NARALA.NARALA"
+  },
+  {
+    "name": "BILONI",
+    "uuid": "650e97fe-424b-4475-a4f5-377c2600fd0c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "BILONI",
+        "uuid": "4375041d-4f05-4305-9c3c-e33daca4684d"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.BILONI.BILONI"
+  },
+  {
+    "name": "NANDAGAON",
+    "uuid": "a2280eae-d8d8-4438-b300-d53230a81e27",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "NANDAGAON",
+        "uuid": "35bc26ee-fbea-4778-bc52-d92485d5b3ba"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NANDAGAON.NANDAGAON"
+  },
+  {
+    "name": "AGHUR",
+    "uuid": "05933b08-0b45-493e-b574-3e323c54c71d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "AGHUR",
+        "uuid": "efea68d2-d5da-4fc6-b7b8-0effc2231b54"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.AGHUR.AGHUR"
+  },
+  {
+    "name": "SAVANDGAON",
+    "uuid": "3a717293-3f67-4889-bee1-b6573dc13b5f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "SAVANDGAON",
+        "uuid": "61942616-61fd-4817-b3fd-9a31c66c2ac5"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SAVANDGAON.SAVANDGAON"
+  },
+  {
+    "name": "SUDAM VADI",
+    "uuid": "257716b8-dc73-40b9-83e4-10885ea7e075",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "SUDAM VADI",
+        "uuid": "20dd4273-adef-45b6-ba55-8a42c084f84b"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SUDAM VADI.SUDAM VADI"
+  },
+  {
+    "name": "BORSAR",
+    "uuid": "02983e3a-7c23-4aad-89e5-9d3f0dc737c1",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "BORSAR",
+        "uuid": "e837422f-5853-4969-af54-c78be63ab1c3"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.BORSAR.BORSAR"
+  },
+  {
+    "name": "SANJARPURWADI",
+    "uuid": "892bcf9b-6f8a-4d77-bbf5-aedb4b28d9bf",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "SANJARPURWADI",
+        "uuid": "2e263b0d-588e-49be-ad45-67c931bccb8e"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SANJARPURWADI.SANJARPURWADI"
+  },
+  {
+    "name": "SIDHYAPURWADI",
+    "uuid": "09bb76d0-5eaf-4a0a-9e35-958ebe861a3d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "SIDHYAPURWADI",
+        "uuid": "143dc780-ad85-4afc-a306-5210ecf9986f"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SIDHYAPURWADI.SIDHYAPURWADI"
+  },
+  {
+    "name": "NALEGAON",
+    "uuid": "35d79047-96f6-497b-8dbf-9cace177458d",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "NALEGAON",
+        "uuid": "92ab3251-a28e-4674-8ee4-27545167a292"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.NALEGAON.NALEGAON"
+  },
+  {
+    "name": "DHONDALGAON",
+    "uuid": "e8150a07-afad-42b8-8dc7-10ebed5c8f09",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "DHONDALGAON",
+        "uuid": "449f0284-ae84-424c-95f8-21d92564cd83"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.DHONDALGAON.DHONDALGAON"
+  },
+  {
+    "name": "GHAYGAON",
+    "uuid": "3387793f-2d43-4ff3-b58a-2f9a3f2f685b",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "GHAYGAON",
+        "uuid": "2ca90d21-9850-4a9f-b3d1-d62caa8b5bc2"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.GHAYGAON.GHAYGAON"
+  },
+  {
+    "name": "AGARSAYGAON",
+    "uuid": "67ba1e9b-c04f-498f-8814-7f2e44eb6a97",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "AGARSAYGAON",
+        "uuid": "5dbcdaef-de9b-444f-87ae-0bd7892a0d28"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.AGARSAYGAON.AGARSAYGAON"
+  },
+  {
+    "name": "JAMBARGAON",
+    "uuid": "da6ff34c-6f5a-463a-977b-9b01d7a190b2",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "JAMBARGAON",
+        "uuid": "28adebb0-450c-4bbb-9d82-3d8cf61f81da"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JAMBARGAON.JAMBARGAON"
+  },
+  {
+    "name": "CHINCHADGAON",
+    "uuid": "fd1d9a51-579e-4c2f-b1fd-0669b337a1a8",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "CHINCHADGAON",
+        "uuid": "3343346c-73bf-4477-9815-8e700d0de92a"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.CHINCHADGAON.CHINCHADGAON"
+  },
+  {
+    "name": "SIDDHAPURWADI",
+    "uuid": "1942bbda-301b-4eab-aaf0-7d43b3720476",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "SIDDHAPURWADI",
+        "uuid": "f6c2025c-1abb-448e-a5fa-5bd5957228f6"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.SIDDHAPURWADI.SIDDHAPURWADI"
+  },
+  {
+    "name": "MHASKI",
+    "uuid": "e11f759e-1282-4210-ba12-8efa3394c733",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "MHASKI",
+        "uuid": "08b6a201-e289-4891-8274-76b477d32674"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.MHASKI.MHASKI"
+  },
+  {
+    "name": "KOUTHGAON",
+    "uuid": "c06c88d2-2d83-4abe-86e7-411a209b7f8c",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "KOUTHGAON",
+        "uuid": "7729618c-040c-4b2d-9cf4-6461e261e3c1"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.KOUTHGAON.KOUTHGAON"
+  },
+  {
+    "name": "JATEGAON",
+    "uuid": "52c3af0b-b7c1-4a7a-98b9-bbe023858da4",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "JATEGAON",
+        "uuid": "b0e1c048-e29c-4b8e-88ac-a451b572be4a"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.JATEGAON.JATEGAON"
+  },
+  {
+    "name": "CHORVAGHALGAON",
+    "uuid": "a4081198-3bfb-4abb-bd85-61a83c024982",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "CHORVAGHALGAON",
+        "uuid": "41c3abfb-333e-4022-a647-84cda09a7442"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.CHORVAGHALGAON.CHORVAGHALGAON"
+  },
+  {
+    "name": "Satana",
+    "uuid": "23bd4dd3-49f0-49db-90f7-c10474d5b936",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Satana",
+        "uuid": "ec875733-4f19-48e2-9dfe-31c006870930"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Satana.Satana"
+  },
+  {
+    "name": "Kharj",
+    "uuid": "cdab545b-6fad-477e-ad85-4fc28ccbb84f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Kharj",
+        "uuid": "d2949e53-a19b-43da-8793-946b0d5f5de1"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Kharj.Kharj"
+  },
+  {
+    "name": "khandala",
+    "uuid": "88c93d0e-f41d-46f9-a010-1e616072aeb3",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "khandala",
+        "uuid": "cd243e31-09af-4443-9964-78a21757aef2"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.khandala.khandala"
+  },
+  {
+    "name": "kolhi",
+    "uuid": "2ba636b5-6def-487d-8e19-47736db9d223",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "kolhi",
+        "uuid": "68d7674d-d75b-4428-b223-f61776aad2a9"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.kolhi.kolhi"
+  },
+  {
+    "name": "Nalegaon",
+    "uuid": "600f560a-9dd1-463d-a825-6ec8901870bb",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Nalegaon",
+        "uuid": "8d00142c-b026-40cc-bad4-f7144d88a1c6"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Nalegaon.Nalegaon"
+  },
+  {
+    "name": "Tittarkheda",
+    "uuid": "351452a6-52c0-4be1-8b82-73d260cca4f1",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Tittarkheda",
+        "uuid": "7f992f42-4d3c-40f6-962f-8da547340ba1"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Tittarkheda.Tittarkheda"
+  },
+  {
+    "name": "Shiur",
+    "uuid": "5d41e061-7238-4048-9082-3d6741055e32",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Shiur",
+        "uuid": "8dae370e-52c0-4c2f-921b-f18433e584d9"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Shiur.Shiur"
+  },
+  {
+    "name": "Parala",
+    "uuid": "24397937-9cc1-4db3-b69a-6b8ede42cb7e",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Parala",
+        "uuid": "864a072d-595e-423c-9e8e-6339805c4021"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Parala.Parala"
+  },
+  {
+    "name": "Dheku",
+    "uuid": "c1eb02de-c1b3-4292-811d-cb1ca3cfa63f",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dheku",
+        "uuid": "4550c380-f86c-4153-b98f-8d346c98f2d7"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Dheku.Dheku"
+  },
+  {
+    "name": "Dahegaon",
+    "uuid": "7a0b1870-729b-4160-aedd-602b4512163a",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Dahegaon",
+        "uuid": "a01f23b8-e0fe-4672-b865-32c1e356d9df"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Dahegaon.Dahegaon"
+  },
+  {
+    "name": "satana",
+    "uuid": "ae9da17d-4558-444a-b8ff-7d785c18dfd5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "satana",
+        "uuid": "7ab35c08-c206-46e0-af3e-7eee30db0ddd"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.satana.satana"
+  },
+  {
+    "name": "Hagipurwadi",
+    "uuid": "813f06cf-af9e-4191-8c46-7e2b86cf7df5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Hagipurwadi",
+        "uuid": "9d70ef2a-e09e-458e-a21c-83fe28f35560"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Hagipurwadi.Hagipurwadi"
+  },
+  {
+    "name": "Narngi-Sarngi",
+    "uuid": "df838126-39b6-4fee-93c5-d14d50291781",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Narngi-Sarngi",
+        "uuid": "1b12f2ff-0427-4d89-a0ff-cda1315d6aa2"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Narngi-Sarngi.Narngi-Sarngi"
+  },
+  {
+    "name": "Khirdi-Kannd",
+    "uuid": "c2013615-ee68-4aec-93e8-36e5d1e8cef5",
+    "level": 0.2,
+    "type": "Site",
+    "parents": [
+      {
+        "comment": "Khirdi-Kannd",
+        "uuid": "709000aa-8d2f-42d6-9ff7-4dc571aaeeca"
+      }
+    ],
+    "path": "Aurangabad.Vaijapur.Khirdi-Kannd.Khirdi-Kannd"
+  }
+]
