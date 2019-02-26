@@ -1,5 +1,30 @@
 [
   {
+    "name": "Mobile number",
+    "uuid": "74863f01-cf77-4c84-b8e4-5322cc6602ef",
+    "dataType": "Text"
+  },
+  {
+    "uuid": "a367c2b6-21a3-49ac-8c10-0c11fe61744b",
+    "name": "Other",
+    "dataType": "NA"
+  },
+  {
+    "name": "Yes",
+    "uuid": "b674353d-bee0-434f-a7a0-34de8beeca5b",
+    "dataType": "NA"
+  },
+  {
+    "name": "No",
+    "uuid": "4f7a6244-b2fb-4b9e-9078-266f99494176",
+    "dataType": "NA"
+  },
+  {
+    "name": "Aadhaar ID",
+    "uuid": "5cbec7cb-93de-42f2-9fa5-d790adfe4b13",
+    "dataType": "Numeric"
+  },
+  {
     "name": "Silt estimation as per technical sanction",
     "uuid": "4dd9914e-e39a-4ca3-8180-b939d6b5e1fa",
     "dataType": "Numeric",
@@ -82,10 +107,6 @@
     "name": "JCB/Poclain machine breakdown"
   },
   {
-    "uuid": "05ea583c-51d2-412d-ad00-06c432ffe538",
-    "abnormal": false
-  },
-  {
     "name": "Issues faced during desilting",
     "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb",
     "dataType": "Coded",
@@ -107,7 +128,7 @@
         "name": "JCB/Poclain machine breakdown"
       },
       {
-        "uuid": "05ea583c-51d2-412d-ad00-06c432ffe538",
+        "uuid": "a367c2b6-21a3-49ac-8c10-0c11fe61744b",
         "abnormal": false
       }
     ]
@@ -166,10 +187,10 @@
     "dataType": "Coded",
     "answers": [
       {
-        "uuid": "04bb1773-c353-44a1-a68c-9b448e07ff70"
+        "uuid": "b674353d-bee0-434f-a7a0-34de8beeca5b"
       },
       {
-        "uuid": "e7b50c78-3d90-484d-a224-9887887780dc"
+        "uuid": "4f7a6244-b2fb-4b9e-9078-266f99494176"
       }
     ]
   },

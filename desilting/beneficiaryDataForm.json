@@ -37,7 +37,7 @@
           "keyValues": [],
           "concept": {
             "name": "Mobile number",
-            "uuid": "1e4f068d-24c0-4fd3-918e-743cd084c0c8"
+            "uuid": "74863f01-cf77-4c84-b8e4-5322cc6602ef"
           },
           "validFormat": {
             "regex": "^[0-9]{10}$",
@@ -52,7 +52,7 @@
           "keyValues": [],
           "concept": {
             "name": "Aadhaar ID",
-            "uuid": "43c4860f-fccf-48c9-818a-191bc0f8d0cf"
+            "uuid": "5cbec7cb-93de-42f2-9fa5-d790adfe4b13"
           },
           "displayOrder": 4,
           "mandatory": false
