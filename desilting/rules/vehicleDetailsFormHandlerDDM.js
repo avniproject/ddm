@@ -1,29 +1,29 @@
 const _ = require("lodash");
 import {
-    RuleFactory,
     FormElementsStatusHelper,
-    FormElementStatusBuilder,
-    StatusBuilderAnnotationFactory,
     FormElementStatus,
-    VisitScheduleBuilder,
-    RuleCondition
+    FormElementStatusBuilder,
+    RuleCondition,
+    RuleFactory,
+    StatusBuilderAnnotationFactory,
+    VisitScheduleBuilder
 } from 'rules-config/rules';
 
-const DesiltingDataViewFilter = RuleFactory("8cd7f4c4-dc56-4e64-89d3-7327900f51f1", "ViewFilter");
+const ViewFilter = RuleFactory("63a064fa-8efe-4ad4-978c-4b973f90afe5", "ViewFilter");
 const WithStatusBuilder = StatusBuilderAnnotationFactory('programEncounter', 'formElement');
 
-@DesiltingDataViewFilter("5b4f0ab3-14e8-4a02-8d18-925beaac94d1", "DDM Desilting Data View Filter", 100.0, {})
-class DesiltingDataViewFilterHandlerDDM {
+@ViewFilter("4d6241e3-a07c-4fad-a552-187e13b4e0c3", "VehicleDetailsFormHandlerDDM", 100.0, {})
+class VehicleDetailsFormHandlerDDM {
     static exec(programEncounter, formElementGroup, today) {
         return FormElementsStatusHelper
-            .getFormElementsStatusesWithoutDefaults(new DesiltingDataViewFilterHandlerDDM(), programEncounter, formElementGroup, today);
+            .getFormElementsStatusesWithoutDefaults(new VehicleDetailsFormHandlerDDM(), programEncounter, formElementGroup, today);
     }
-    
+
     @WithStatusBuilder
     numberOfTractorTrips([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
     }
-    
+
     @WithStatusBuilder
     numberOfHywaTrips([], statusBuilder) {
         statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
@@ -34,7 +34,6 @@ class DesiltingDataViewFilterHandlerDDM {
         statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Naala", "Water cup");
     }
 
-
     quantityOfSiltRemoved(programEncounter, formElement) {
         const statusBuilder = new FormElementStatusBuilder({
             programEncounter: programEncounter,
@@ -44,29 +43,13 @@ class DesiltingDataViewFilterHandlerDDM {
         let formElementStatus = statusBuilder.build();
         const numberOfTractorTrips = programEncounter.getObservationValue("Number of tractor trips");
         const numberOfHywaTrips = programEncounter.getObservationValue("Number of hywa trips");
-        if(!_.isNil(numberOfHywaTrips) && !_.isNil(numberOfTractorTrips)) {
-            formElementStatus.value = (numberOfTractorTrips * 2.97)+(numberOfHywaTrips*16);
+        if (!_.isNil(numberOfHywaTrips) && !_.isNil(numberOfTractorTrips)) {
+            formElementStatus.value = (numberOfTractorTrips * 2.97) + (numberOfHywaTrips * 16);
         }
         return formElementStatus;
     }
-
-    issues(programEncounter, formElementGroup) {
-        return formElementGroup.formElements.map(fe=>{
-            let statusBuilder = new FormElementStatusBuilder({programEncounter:programEncounter, formElement:fe});
-            statusBuilder.show().when.valueInRegistration("Type of waterbody").containsAnyAnswerConceptName("Dam");
-            return statusBuilder.build();
-        });
-    }
-
-    @WithStatusBuilder
-    otherIssueDetails([], statusBuilder) {
-        statusBuilder.show().when.valueInEncounter("Issues faced during desilting").containsAnyAnswerConceptName("Other");
-    }
-
-
-
-
 }
 
-module.exports = {DesiltingDataViewFilterHandlerDDM};
-
+export {
+    VehicleDetailsFormHandlerDDM
+}

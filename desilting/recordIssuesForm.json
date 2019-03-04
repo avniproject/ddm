@@ -1,0 +1,49 @@
+{
+  "name": "Record issues",
+  "uuid": "8cd7f4c4-dc56-4e64-89d3-7327900f51f1",
+  "formType": "ProgramEncounter",
+  "formElementGroups": [
+    {
+      "uuid": "5c5ea21f-397e-42ea-a185-395215f9a2c9",
+      "name": "Issues",
+      "display": "Issues",
+      "displayOrder": 1,
+      "formElements": [
+        {
+          "name": "Any issues faced",
+          "uuid": "2abae698-c5f5-48c2-a417-ce6a2663d7b3",
+          "keyValues": [],
+          "type": "MultiSelect",
+          "concept": {
+            "name": "Issues faced during desilting",
+            "uuid": "a086446f-fb15-478a-a7c4-12d4e40399eb"
+          },
+          "displayOrder": 1,
+          "mandatory": false
+        },
+        {
+          "name": "Other issue details",
+          "uuid": "0da2ecc8-b5b4-402d-906c-725e0894985e",
+          "keyValues": [],
+          "concept": {
+            "uuid": "51780dd0-524c-4d3d-924f-1ba3b5cf5a19",
+            "name": "Other issue details"
+          },
+          "displayOrder": 2,
+          "mandatory": true
+        },
+        {
+          "name": "Issue photograph",
+          "uuid": "b15ac286-6060-43b9-b1d4-66984a8a2c21",
+          "keyValues": [],
+          "concept": {
+            "uuid": "4a681a0e-831b-48e8-9334-6c7bdf8334cc",
+            "name": "Issue photograph"
+          },
+          "displayOrder": 3,
+          "mandatory": false
+        }
+      ]
+    }
+  ]
+}

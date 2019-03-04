@@ -41,9 +41,65 @@
           },
           "displayOrder": 3,
           "mandatory": true
+        },
+        {
+          "name": "Number of tractor trips",
+          "uuid": "a368d9ef-789d-4f86-8f63-3f91a3320664",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of tractor trips",
+            "uuid": "faf5b0b2-64ef-4954-999a-b034dbe98390"
+          },
+          "validFormat": {
+            "regex": "^\\d+$",
+            "descriptionKey": "RequiredNonNegativeInteger"
+          },
+          "displayOrder": 4,
+          "mandatory": true
+        },
+        {
+          "name": "Number of hywa trips",
+          "uuid": "44c4b1d3-8f24-4a1c-a142-bc12f0168ee7",
+          "keyValues": [],
+          "concept": {
+            "name": "Number of hywa trips",
+            "uuid": "61f4edbc-d486-4d32-a714-b144c2fe527a"
+          },
+          "validFormat": {
+            "regex": "^\\d+$",
+            "descriptionKey": "Required10Digits"
+          },
+          "displayOrder": 5,
+          "mandatory": true
+        },
+        {
+          "name": "Amount of work done",
+          "uuid": "7f9653c0-8b71-4c96-9ccc-765bf93cd9c0",
+          "keyValues": [],
+          "concept": {
+            "name": "Amount of work done",
+            "uuid": "26770597-963b-4870-862b-3479d27aadb5"
+          },
+          "displayOrder": 6,
+          "mandatory": true
+        },
+        {
+          "name": "Quantity of silt removed",
+          "uuid": "037f368f-1c06-4500-acf4-462b7f06735b",
+          "keyValues": [
+            {
+              "key": "editable",
+              "value": false
+            }
+          ],
+          "concept": {
+            "name": "Quantity of silt removed",
+            "uuid": "44a48cdc-4e79-4f61-acb1-f131ed07fc2c"
+          },
+          "displayOrder": 7,
+          "mandatory": true
         }
       ]
     }
-    
   ]
 }

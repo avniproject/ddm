@@ -24,7 +24,7 @@ class DesiltingProgramSummary {
     }
 
     static getTotalSiltRemoved(programEnrolment) {
-        return this.calculateSumOfObservationValues(programEnrolment, 'Record desilting data', 'Quantity of silt removed');
+        return this.calculateSumOfObservationValues(programEnrolment, 'Record issues', 'Quantity of silt removed');
     }
 
     static getTotalBeneficiaries(programEnrolment) {
