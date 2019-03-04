@@ -47,9 +47,9 @@
     "dataType": "Image"
   },
   {
-      "name": "Video",
-      "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512",
-      "dataType": "Video"
+    "name": "Video",
+    "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512",
+    "dataType": "Video"
   },
   {
     "name": "Registration number",
@@ -224,5 +224,11 @@
     "name": "Quantity of diesel consumed",
     "uuid": "8ebda9dd-8bc7-44d5-803c-1acac12ed76d",
     "dataType": "Numeric"
+  },
+  {
+    "name": "Total amount of work done",
+    "uuid": "73c1fbcc-1e0d-426a-9c68-665c54c6ac21",
+    "dataType": "Numeric",
+    "unit": "cubic metre"
   }
 ]

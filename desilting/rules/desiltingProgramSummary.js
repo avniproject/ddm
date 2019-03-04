@@ -1,4 +1,4 @@
-import { ProgramRule } from 'rules-config/rules';
+import {ProgramRule} from 'rules-config/rules';
 
 @ProgramRule({
     name: 'Desilting program summary',
@@ -9,7 +9,12 @@ import { ProgramRule } from 'rules-config/rules';
 })
 class DesiltingProgramSummary {
     static exec(programEnrolment, summaries, context, today) {
-        summaries.push({name: 'Total silt removed', value: this.getTotalSiltRemoved(programEnrolment)});
+        const typeofWaterbody = programEnrolment.individual.findObservation('Type of waterbody');
+        if (typeofWaterbody && typeofWaterbody.getReadableValue() === 'Dam') {
+            summaries.push({name: 'Total silt removed', value: this.getTotalSiltRemoved(programEnrolment)});
+        } else {
+            summaries.push({name: 'Total amount of work done', value: this.getTotalWorkDone(programEnrolment)});
+        }
         summaries.push({name: 'Number of beneficiaries', value: this.getTotalBeneficiaries(programEnrolment)});
         summaries.push({name: 'Hours of operation of JCB', value: this.getTotalJcbHours(programEnrolment)});
         summaries.push({name: 'Hours of operation of Poclain', value: this.getTotalPoclainHours(programEnrolment)});
@@ -24,12 +29,18 @@ class DesiltingProgramSummary {
     }
 
     static getTotalSiltRemoved(programEnrolment) {
-        return this.calculateSumOfObservationValues(programEnrolment, 'Record issues', 'Quantity of silt removed');
+        return this.calculateSumOfObservationValues(programEnrolment, 'Record JCB details', 'Quantity of silt removed')
+            + this.calculateSumOfObservationValues(programEnrolment, 'Record poclain details', 'Quantity of silt removed');
+    }
+
+    static getTotalWorkDone(programEnrolment) {
+        return this.calculateSumOfObservationValues(programEnrolment, 'Record JCB details', 'Amount of work done')
+            + this.calculateSumOfObservationValues(programEnrolment, 'Record poclain details', 'Amount of work done');
     }
 
     static getTotalBeneficiaries(programEnrolment) {
         const encounters = programEnrolment.getEncountersOfType('Record beneficiary data');
-        const distinctNames =  new Set(encounters.map(enc =>
+        const distinctNames = new Set(encounters.map(enc =>
             `${enc.getObservationReadableValue('Village')}-
             ${enc.getObservationReadableValue('Beneficiary name')}-
             ${enc.getObservationReadableValue('Mobile number')}`
