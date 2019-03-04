@@ -44,7 +44,7 @@ class VehicleDetailsFormHandlerDDM {
         const numberOfTractorTrips = programEncounter.getObservationValue("Number of tractor trips");
         const numberOfHywaTrips = programEncounter.getObservationValue("Number of hywa trips");
         if (!_.isNil(numberOfHywaTrips) && !_.isNil(numberOfTractorTrips)) {
-            formElementStatus.value = (numberOfTractorTrips * 2.97) + (numberOfHywaTrips * 16);
+            formElementStatus.value = _.round((numberOfTractorTrips * 2.97) + (numberOfHywaTrips * 16), 2);
         }
         return formElementStatus;
     }
