@@ -46,7 +46,12 @@
         {
           "name": "Video (10 sec)",
           "uuid": "66581e72-4cb9-406b-8901-61456154ba4e",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "durationLimitInSecs",
+              "value": 10
+            }
+          ],
           "concept": {
             "name": "Video",
             "uuid": "37dbe8cd-bf94-451d-8908-ea536f3be512"
