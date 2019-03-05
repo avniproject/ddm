@@ -68,10 +68,9 @@ define _curl_as_openchs
 	@echo
 endef
 
-# <create_org>
-create_org: ## Create Lokbiradari Prakalp org and user+privileges
-	psql -U$(su) openchs < create_organisation.sql
-# </create_org>
+
+create_org:; psql -U$(su) openchs < create_organisation.sql
+create_views:; psql -U$(su) openchs < create_views.sql
 
 
 deploy_checklists:
