@@ -3,3 +3,4 @@ output/*
 deploy
 node_modules
 admin-user.json
+wiki/
