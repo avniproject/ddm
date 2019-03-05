@@ -79,13 +79,21 @@ deploy_checklists:
 # <deploy>
 deploy_locations: auth
 	$(call _curl,POST,locations,@address_level/village.json)
-	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
-	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
+#	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
+#	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
 	$(call _curl,POST,locations,@address_level/locations_beed.json)
-	$(call _curl,POST,locations,@address_level/locations_nashik.json)
+	#$(call _curl,POST,locations,@address_level/locations_nashik.json)
 
 deploy_org_data: deploy_locations
 	$(call _curl,POST,catchments,@catchments.json)
+
+deploy_beta_catchments:
+	#$(call _curl,POST,catchments,@users/beta-catchments_nashik.json)
+	$(call _curl,POST,catchments,@users/beta-catchments_beed.json)
+
+deploy_beta_users:
+	#$(call _curl_as_openchs,POST,users,@users/beta-users_nashik.json)
+	$(call _curl_as_openchs,POST,users,@users/beta-users_beed.json)
 
 create_admin_user:
 	$(call _curl_as_openchs,POST,users,@staging-users.json)
@@ -161,6 +169,17 @@ _create_users_staging:
 
 create_users_staging:
 	make auth _create_users_staging poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+deploy_locations_staging:
+	make auth deploy_locations poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+deploy_beta_catchments_staging:
+	make auth deploy_beta_catchments poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+deploy_beta_users_staging:
+	make auth deploy_beta_users poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+
 
 
 program=

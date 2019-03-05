@@ -1,0 +1,241 @@
+{
+  "organisation": "Dam Desilting Mission",
+  "catchments": [
+    {
+      "name": "akashchine",
+      "uuid": "1a984408-ee12-43f7-8f84-36720f8db1b4",
+      "type": "Villages",
+      "locations": [
+        {"uuid":"59d43451-36d1-4a8e-8e15-0279b975aa0b","comment":"Kusur.Yeola"},
+        {"uuid":"d12a91c7-9c7a-420e-8343-5d262f0d6392","comment":"Khirdisathe.Yeola"},
+        {"uuid":"5c719c8d-2fe2-4049-9960-d6c4279dfd6b","comment":"Mahal Kheda.Yeola"},
+        {"uuid":"ba3c13d7-1bcc-417d-801a-299da510fc6a","comment":"Patoda.Yeola"},
+        {"uuid":"e805b585-3415-472f-b08c-3faec140559a","comment":"Pimpalgaon.Yeola"},
+        {"uuid":"a65e84d4-137b-4ecb-b515-22c4c56c5d2f","comment":"Satali.Yeola"},
+        {"uuid":"9e25d951-ea68-4292-9bb9-93d030234839","comment":"Nagarsul.Yeola"},
+        {"uuid":"6995b7f4-c3c5-484c-9305-f8211d0f9347","comment":"Naygavhan.Yeola"}
+      ]
+    },
+    {
+        "name": "vijaydabhade",
+        "uuid": "41d3dd45-24f6-41de-a2e2-a2c99d68e113",
+        "type": "Villages",
+        "locations": [
+          {"uuid":"98c77930-f987-436e-a63c-4525678eb4cb","comment":"Savargaon.Yeola"},
+          {"uuid":"3f68bead-3e04-4f01-a1c0-a2d48b586458","comment":"Ankai.Yeola"}
+        ]
+    },
+    {
+        "name": "pravinchine",
+        "uuid": "7244bc0a-7525-4b77-8ae5-6a220d527bc8",
+        "type": "Villages",
+        "locations": [
+          {"uuid":"639271e6-08fe-489e-9585-c646767c092c","comment":"Katarni.Yeola"},
+          {"uuid":"7ef563ae-1e9d-4038-a931-2942c57b8dc5","comment":"Neurgaon.Yeola"},
+          {"uuid":"1ebfd4d7-2576-4880-8cd7-4ecd49a8d6ab","comment":"Visapur.Yeola"}
+        ]
+    },
+    {
+        "name": "samadhankasar",
+        "uuid": "39cd00fc-075f-47d1-bcb0-20fb0fac0975",
+        "type": "Villages",
+        "locations": [
+            {
+              "uuid": "598773d5-f49e-4ba0-85ed-2a1c8ee644d3",
+              "path": "Datali.Sinnar"
+            },
+            {
+              "uuid": "d4331d1a-7b4e-43b3-9df9-3f637224c677",
+              "path": "Thangaon.Sinnar"
+            },
+            {
+              "uuid": "0d8dfebe-8b96-4225-807b-743f4f2a79bc",
+              "path": "Somthane.Sinnar"
+            },
+            {
+              "uuid": "98020e56-866e-4f81-a675-7b2b34062737",
+              "path": "Agaskhind.Sinnar"
+            },
+            {
+              "uuid": "df8f093f-5016-4186-9dec-58f4b1299e30",
+              "path": "Dhulwad.Sinnar"
+            },
+            {
+              "uuid": "f4a7c6da-1704-4913-b33b-745086a875e7",
+              "path": "Kirtangli.Sinnar"
+            },
+            {
+              "uuid": "71900f70-d22c-4bd2-bd3e-1cf446a93f6b",
+              "path": "Musalgaon.Sinnar"
+            },
+            {
+              "uuid": "0c1c8b6d-9f43-4211-ae2f-1b4f0ed422c0",
+              "path": "Dubere.Sinnar"
+            },
+            {
+              "uuid": "e1aa05bd-f596-40a9-a03c-86add6646227",
+              "path": "Kundevadi.Sinnar"
+            },
+            {
+              "uuid": "fa57a080-e149-4a1c-9a9b-1a2e369b09e2",
+              "path": "Aagaskhind.Sinnar"
+            },
+            {
+              "uuid": "3b5663b7-9daa-45d2-a1fb-44fdc80b17e8",
+              "path": "Sulewadi.Sinnar"
+            },
+            {
+              "uuid": "5686aad7-fca7-4571-83bb-9c55efb7dfdb",
+              "path": "Mohdari.Sinnar"
+            },
+            {
+              "uuid": "c81a2099-93e4-40a8-851b-c4a610fc15b9",
+              "path": "Khopadi.Sinnar"
+            },
+            {
+              "uuid": "b6d75896-5826-43c5-af3c-63ef655c0b3b",
+              "path": "Khambale.Sinnar"
+            },
+            {
+              "uuid": "6e465126-8f03-4170-af92-3f6c68f0c4cb",
+              "path": "Chapdgaon.Sinnar"
+            },
+            {
+              "uuid": "df0cf77c-75ce-44c5-abe1-63a8b0ac2bd1",
+              "path": "Chandrapur.Sinnar"
+            },
+            {
+              "uuid": "55bba4c1-42fe-42e2-9d33-e086aeff3cae",
+              "path": "Vadjhire.Sinnar"
+            },
+            {
+              "uuid": "a5a8cd40-402f-40a4-8a64-b19aa0ba29e4",
+              "path": "Vadgaon.Sinnar"
+            },
+            {
+              "uuid": "cfb1eb91-3755-4667-b286-a9210483abaf",
+              "path": "Nimgaon.Sinnar"
+            },
+            {
+              "uuid": "ba04c9b5-8624-40c5-844a-efa4979597fa",
+              "path": "Sundarpur.Sinnar"
+            },
+            {
+              "uuid": "44f7713c-ce07-441a-80b1-5ec8ebd121d9",
+              "path": "Rampur.Sinnar"
+            },
+            {
+              "uuid": "eea024bb-b4fa-4bdb-9f9c-6320e05bbcb1",
+              "path": "Ghodevadi.Sinnar"
+            },
+            {
+              "uuid": "3e328586-44c1-4b5b-afd9-687f14ee19ca",
+              "path": "Maldhon.Sinnar"
+            },
+            {
+              "uuid": "25483aa0-93a6-4646-a6fd-4e64fe46dd1d",
+              "path": "Jamgaon.Sinnar"
+            },
+            {
+              "uuid": "e4c5c226-1a5a-4494-bcd4-49df9f4182a7",
+              "path": "Hivargaon.Sinnar"
+            }
+        ]
+    },
+    {
+        "name": "somnathwagh",
+        "uuid": "50839ea0-b9a3-484d-b8bf-e11a280745e3",
+        "type": "507ff11c-eb57-458c-9587-b18bd3a53bd0",
+        "locations": [
+            {
+              "uuid": "ab92646a-f9ff-4e5c-af9c-10a3b69d1c2b",
+              "path": "Pathare.Sinnar"
+            },
+            {
+              "uuid": "32c3d994-411e-4aaa-9b8d-fcfb743a834c",
+              "path": "Varegaon.Sinnar"
+            },
+            {
+              "uuid": "b66ca8db-4553-47cf-93a6-65e2690291d9",
+              "path": "Pandhurli.Sinnar"
+            },
+            {
+              "uuid": "f97eb9f6-265d-4a91-bbe8-a4c073d3270c",
+              "path": "Ghorwad.Sinnar"
+            },
+            {
+              "uuid": "a4f48e77-e065-4fe6-9a66-e88fc46dcddc",
+              "path": "Ghotevadi.Sinnar"
+            },
+            {
+              "uuid": "ae603d14-40d1-42c6-81fa-2784f2f94f46",
+              "path": "Mithsagre.Sinnar"
+            },
+            {
+              "uuid": "2c72d99e-41a6-42ad-b7ee-97ba69c5f061",
+              "path": "Sonambe.Sinnar"
+            },
+            {
+              "uuid": "0d6722c6-1927-429c-9158-13cff689ca9d",
+              "path": "Pimpalgaon.Sinnar"
+            },
+            {
+              "uuid": "b91d754d-6772-4872-9020-df742859b849",
+              "path": "Nalwadi.Sinnar"
+            },
+            {
+              "uuid": "079ceb26-02f2-4989-b1b2-c6e63495a0ab",
+              "path": "Bhatwadi.Sinnar"
+            },
+            {
+              "uuid": "a4400593-5fa0-4b43-bcae-cf0c247ce5af",
+              "path": "Pangri.Sinnar"
+            },
+            {
+              "uuid": "5686aad7-fca7-4571-83bb-9c55efb7dfdb",
+              "path": "Mohdari.Sinnar"
+            },
+            {
+              "uuid": "a6e3d4aa-4e39-43de-9bf0-770933169ca2",
+              "path": "Pangri KH.Sinnar"
+            },
+            {
+              "uuid": "3c1f13e1-a205-48b7-bfb1-5d5e5dc03036",
+              "path": "Bhojapur.Sinnar"
+            },
+            {
+              "uuid": "c6a7bbcd-43a0-424c-8bbb-2832e55af9f2",
+              "path": "Dushingwadi.Sinnar"
+            },
+            {
+              "uuid": "8b4d4579-5363-4685-9d28-57f397bc0b7d",
+              "path": "Mharal.Sinnar"
+            },
+            {
+              "uuid": "b34221da-f182-44b5-88e0-b3fb155967a8",
+              "path": "Wadangli.Sinnar"
+            },
+            {
+              "uuid": "c302352c-a7c9-4427-9ecd-c221755384e5",
+              "path": "Mendhi.Sinnar"
+            },
+            {
+              "uuid": "0a24766c-cb1d-43f1-af3f-93882ad04800",
+              "path": "Waregaon.Sinnar"
+            },
+            {
+              "uuid": "cd88ff3f-a25d-4624-ab63-cd580be4a3d3",
+              "path": "Fulenagar.Sinnar"
+            },
+            {
+              "uuid": "aecdb2f0-4cbb-4925-8422-c94fd93c5755",
+              "path": "Harsule.Sinnar"
+            },
+            {
+              "uuid": "a7830ce2-3752-4626-9eed-a37a94edff71",
+              "path": "Gurewadi.Sinnar"
+            }
+        ]
+    }
+  ]
+}

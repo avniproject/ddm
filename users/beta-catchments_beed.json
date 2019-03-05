@@ -1,0 +1,65 @@
+{
+  "organisation": "Dam Desilting Mission",
+  "catchments": [
+    {
+      "name": "sandipanmaske",
+      "uuid": "ff20c527-6144-4646-aed1-5a7a95217c81",
+      "type": "Villages",
+      "locations": [
+        {
+          "uuid": "af41af03-9850-4d03-a7cb-37f17eca7b93",
+          "path": "Masevadi.Beed"
+        },
+        {
+          "uuid": "acfd22cd-30c9-484e-957b-e3b3cc444b66",
+          "path": "Tandalwadi Ghat.Beed"
+        },
+        {
+          "uuid": "8e210688-fa94-4720-b27f-f9a314628e95",
+          "path": "Bhandarwadi.Beed"
+        },
+        {
+          "uuid": "ef05def1-d6d5-4379-83c2-2ebb8bfca276",
+          "path": "Sonpethwadi.Beed"
+        },
+        {
+          "uuid": "9676661b-0fcd-46c2-b2cd-d3ca7e4802db",
+          "path": "Ratnagiri.Beed"
+        }
+      ]
+    },
+    {
+      "name": "khedkarsv",
+      "uuid": "72337e16-29c2-4d7b-be8d-c658b8b574de",
+      "type": "Villages",
+      "locations": [
+        {
+          "uuid": "dd91baad-a158-4341-a239-f7ced3b56478",
+          "path": "Ukandachakala.Shirur"
+        }
+      ]
+    },
+    {
+      "name": "dhakaneka",
+      "uuid": "28c24e03-f2fd-43e5-bdd3-f75f844193bc",
+      "type": "Villages",
+      "locations": [
+        {
+          "uuid": "a85c2e51-1dad-493d-b8ee-93dfe1a41d0b",
+          "path": "Bangarwadi.Patoda"
+        }
+      ]
+    },
+    {
+      "name": "popalerj",
+      "uuid": "b6a71ace-9172-49c9-be55-7a1ea891410f",
+      "type": "Vilages",
+      "locations": [
+        {
+          "uuid": "c2fec112-97c1-4eff-9e00-143aaee2ee3f",
+          "path": "Bhayala.Patoda"
+        }
+      ]
+    }
+  ]
+}
