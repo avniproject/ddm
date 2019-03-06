@@ -35,6 +35,8 @@ class VehicleDetailsFormHandlerDDM {
     }
 
     quantityOfSiltRemoved(programEncounter, formElement) {
+        const volumeOf1TractorTrolley = 2.8;
+        const volumeOf1Hywa = 14;
         const statusBuilder = new FormElementStatusBuilder({
             programEncounter: programEncounter,
             formElement: formElement
@@ -44,7 +46,7 @@ class VehicleDetailsFormHandlerDDM {
         const numberOfTractorTrips = programEncounter.getObservationValue("Number of tractor trips");
         const numberOfHywaTrips = programEncounter.getObservationValue("Number of hywa trips");
         if (!_.isNil(numberOfHywaTrips) && !_.isNil(numberOfTractorTrips)) {
-            formElementStatus.value = _.round((numberOfTractorTrips * 2.97) + (numberOfHywaTrips * 16), 2);
+            formElementStatus.value = _.round((numberOfTractorTrips * volumeOf1TractorTrolley) + (numberOfHywaTrips * volumeOf1Hywa), 2);
         }
         return formElementStatus;
     }
