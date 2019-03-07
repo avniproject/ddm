@@ -341,7 +341,9 @@ from address_level vill
  join location_location_mapping block_dist
    on blck.id = block_dist.location_id
  join address_level dist
-   on dist.id = block_dist.parent_location_id);
+   on dist.id = block_dist.parent_location_id
+ where vill.level = 1 and blck.level = 3 and dist.level = 4
+);
 -- ----------------------------------------------------
 set role none;
 
