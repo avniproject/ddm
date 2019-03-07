@@ -14,6 +14,7 @@ help:
 # </makefile>
 
 port:= $(if $(port),$(port),8021)
+db-port:= $(if $(db-port),$(db-port),5432)
 server:= $(if $(server),$(server),http://localhost)
 server_url:=$(server):$(port)
 su:=$(shell id -un)
@@ -70,7 +71,7 @@ endef
 
 
 create_org:; psql -U$(su) openchs < create_organisation.sql
-create_views:; psql -U$(su) openchs < create_views.sql
+create_views:; psql -U$(su) -h localhost -p $(db-port) -d openchs < create_views.sql
 
 
 deploy_checklists:
@@ -200,3 +201,17 @@ build_package: ## Builds a deployable package
 
 deps:
 	npm i
+
+impl=ddm
+
+#create_views_prod:
+#	ssh -i ~/.ssh/openchs-infra.pem -f -L 15432:serverdb.openchs.org:5432 prod-server-openchs sleep 15; \
+#		make create_views db-port=15432 su=openchs
+
+create_views_staging:
+	ssh -i ~/.ssh/openchs-infra.pem -f -L 15432:stagingdb.openchs.org:5432 staging-server-openchs sleep 15; \
+		make create_views db-port=15432 su=openchs
+
+create_views_uat:
+	ssh -i ~/.ssh/openchs-infra.pem -f -L 15432:uatdb.openchs.org:5432 uat-server-openchs sleep 15; \
+		make create_views db-port=15432 su=openchs
