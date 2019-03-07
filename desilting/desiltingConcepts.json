@@ -230,5 +230,10 @@
     "uuid": "73c1fbcc-1e0d-426a-9c68-665c54c6ac21",
     "dataType": "Numeric",
     "unit": "cubic metre"
+  },
+  {
+    "name": "NGO",
+    "uuid": "86a3a3e1-1b59-40a0-aa6c-f2f5bc9c0765",
+    "dataType": "Text"
   }
 ]

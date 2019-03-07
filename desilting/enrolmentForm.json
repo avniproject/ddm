@@ -24,8 +24,22 @@
           },
           "displayOrder": 1,
           "mandatory": false
+        },
+        {
+          "name": "NGO",
+          "uuid": "d17d618f-60a1-4eb8-888f-8b4dd7e5c0f6",
+          "keyValues": [
+            {
+              "key": "editable",
+              "value": false
+            }
+          ],
+          "concept": {
+            "uuid": "86a3a3e1-1b59-40a0-aa6c-f2f5bc9c0765"
+          },
+          "displayOrder": 2,
+          "mandatory": false
         }
-
       ]
     }
   ]
