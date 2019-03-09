@@ -344,6 +344,62 @@ from address_level vill
    on dist.id = block_dist.parent_location_id
  where vill.level = 1 and blck.level = 3 and dist.level = 4
 );
+
+drop view if exists ddm_record_issues_view;
+create or replace view ddm_record_issues_view as (
+  SELECT individual.uuid                                                                       "Ind.uuid",
+         individual.id                                                                         "Ind.id",
+         individual.first_name                                                                 "Ind.first_name",
+         individual.last_name                                                                  "Ind.last_name",
+         g.name                                                                                "Ind.Gender",
+         individual.date_of_birth                                                              "Ind.date_of_birth",
+         individual.date_of_birth_verified                                                     "Ind.date_of_birth_verified",
+         individual.registration_date                                                          "Ind.registration_date",
+         individual.facility_id                                                                "Ind.facility_id",
+         a.title                                                                               "Ind.Area",
+         c2.name                                                                               "Ind.Catchment",
+         individual.is_voided                                                                  "Ind.is_voided",
+         op.name                                                                               "Enl.Program Name",
+         programEnrolment.uuid                                                                 "Enl.uuid",
+         programEnrolment.is_voided                                                            "Enl.is_voided",
+         programEnrolment.id                                                                   "Enl.id",
+         oet.name                                                                              "Enc.Type",
+         programEncounter.earliest_visit_date_time                                             "Enc.earliest_visit_date_time",
+         programEncounter.encounter_date_time                                                  "Enc.encounter_date_time",
+         programEncounter.program_enrolment_id                                                 "Enc.program_enrolment_id",
+         programEncounter.uuid                                                                 "Enc.uuid",
+         programEncounter.name                                                                 "Enc.name",
+         programEncounter.max_visit_date_time                                                  "Enc.max_visit_date_time",
+         programEncounter.is_voided                                                            "Enc.is_voided",
+         single_select_coded(
+               individual.observations ->> 'c744731d-f60f-4858-9b5d-9fca0b166ce1')::TEXT      as "Ind.Type of waterbody",
+         programEnrolment.observations ->>
+         '17e2fbe7-2d36-4ddc-8a12-c5f405d6c398'::TEXT                                       as "Enl.Silt Estimation as per work plan",
+         multi_select_coded(
+               programEncounter.observations -> 'a086446f-fb15-478a-a7c4-12d4e40399eb')::TEXT as "Enc.Issues faced during desilting",
+         programEncounter.observations ->>
+         '51780dd0-524c-4d3d-924f-1ba3b5cf5a19'::TEXT                                       as "Enc.Other issue details",
+         programEncounter.observations ->>
+         '4a681a0e-831b-48e8-9334-6c7bdf8334cc'::TEXT                                       as "Enc.Issue photograph",
+         programEncounter.cancel_date_time                                                     "EncCancel.cancel_date_time"
+
+  FROM program_encounter programEncounter
+         LEFT OUTER JOIN operational_encounter_type oet
+                         on programEncounter.encounter_type_id = oet.encounter_type_id
+         LEFT OUTER JOIN program_enrolment programEnrolment
+                         ON programEncounter.program_enrolment_id = programEnrolment.id
+         LEFT OUTER JOIN operational_program op ON op.program_id = programEnrolment.program_id
+         LEFT OUTER JOIN individual individual ON programEnrolment.individual_id = individual.id
+         LEFT OUTER JOIN gender g ON g.id = individual.gender_id
+         LEFT OUTER JOIN address_level a ON individual.address_id = a.id
+         LEFT OUTER JOIN catchment_address_mapping m2 ON a.id = m2.addresslevel_id
+         LEFT OUTER JOIN catchment c2 ON m2.catchment_id = c2.id
+  WHERE c2.name not ilike '%master%'
+    AND op.uuid = '1f961272-faf4-4f99-ba0d-331d15622092'
+    AND oet.uuid = '7e908caf-6d34-4087-843e-d98cc498eca2'
+    AND programEncounter.encounter_date_time IS NOT NULL
+    AND programEnrolment.enrolment_date_time IS NOT NULL
+);
 -- ----------------------------------------------------
 set role none;
 
