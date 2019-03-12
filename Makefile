@@ -215,3 +215,27 @@ create_views_staging:
 create_views_uat:
 	ssh -i ~/.ssh/openchs-infra.pem -f -L 15432:uatdb.openchs.org:5432 uat-server-openchs sleep 15; \
 		make create_views db-port=15432 su=openchs
+
+define _mcurl
+	echo 'curl -X $(1) $(server_url)/$(2) -d @$(3)  \
+         		-H "Content-Type: application/json"  \
+         		-H "USER-NAME: $(username)"  \
+         		$(if $(token),-H "AUTH-TOKEN: $(token)",)'
+	curl -X $(1) $(server_url)/$(2) -d @$(3)  \
+		-H "Content-Type: application/json"  \
+		-H "USER-NAME: $(username)"  \
+		$(if $(token),-H "AUTH-TOKEN: $(token)",)
+	@echo
+	@echo
+endef
+
+migrate_locations:
+	@$(foreach file,$(shell find ../../data/ddm-data/ -iname 'locations_*.json'),$(call _mcurl,POST,locations,$(file));)
+
+migrate_catchments:
+	@$(foreach file,$(shell find ../../data/ddm-data/ -iname 'catchments_*.json'),$(call _mcurl,POST,catchments,$(file));)
+
+migrate_users:
+	@$(foreach file,$(shell find ../../data/ddm-data/ -iname 'users_*.json'),$(call _mcurl,POST,users,$(file));)
+
+migrate_refdata: auth migrate_locations migrate_catchments migrate_users
