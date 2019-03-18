@@ -119,6 +119,17 @@
           },
           "displayOrder": 4,
           "mandatory": true
+        },
+        {
+          "name": "Amount spent by farmer for carting the silt per day",
+          "uuid": "05c0d0d4-c2a6-4220-b53c-8771b0e5b640",
+          "keyValues": [],
+          "concept": {
+            "name": "Amount Spent by farmer for carting the silt per day",
+            "uuid": "5bc975ff-5bb0-4f7f-8648-3efc4e216d94"
+          },
+          "displayOrder": 5,
+          "mandatory": false
         }
       ]
     }

@@ -12,7 +12,16 @@
         {
           "name": "Image 1",
           "uuid": "3fba2c44-6864-4aa5-8e4b-9f499783ba1a",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "maxWidth",
+              "value": 600
+            },
+            {
+              "key": "maxHeight",
+              "value": 400
+            }
+          ],
           "concept": {
             "name": "Image 1",
             "uuid": "b38cd08c-de01-434d-9704-6a4c830e6d3e"
@@ -23,7 +32,16 @@
         {
           "name": "Image 2",
           "uuid": "07fd52d6-b05a-4775-bab5-add442561f9e",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "maxWidth",
+              "value": 600
+            },
+            {
+              "key": "maxHeight",
+              "value": 400
+            }
+          ],
           "concept": {
             "name": "Image 2",
             "uuid": "3bfb1fb4-710d-4cf1-93bb-3ec1aec66d53"

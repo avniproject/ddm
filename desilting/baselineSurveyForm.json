@@ -23,7 +23,16 @@
         {
           "name": "Image 1",
           "uuid": "92b2b6ee-598b-4f4f-bed8-71ce8e035e1e",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "maxWidth",
+              "value": 600
+            },
+            {
+              "key": "maxHeight",
+              "value": 400
+            }
+          ],
           "concept": {
             "name": "Image 1",
             "uuid": "b38cd08c-de01-434d-9704-6a4c830e6d3e"
@@ -34,7 +43,16 @@
         {
           "name": "Image 2",
           "uuid": "e3464e22-169a-429b-bee5-9b1c807d6204",
-          "keyValues": [],
+          "keyValues": [
+            {
+              "key": "maxWidth",
+              "value": 600
+            },
+            {
+              "key": "maxHeight",
+              "value": 400
+            }
+          ],
           "concept": {
             "name": "Image 2",
             "uuid": "3bfb1fb4-710d-4cf1-93bb-3ec1aec66d53"
@@ -44,12 +62,12 @@
           "mandatory": true
         },
         {
-          "name": "Video",
+          "name": "Video (10 sec)",
           "uuid": "66581e72-4cb9-406b-8901-61456154ba4e",
           "keyValues": [
             {
               "key": "durationLimitInSecs",
-              "value": 10
+              "value": 20
             }
           ],
           "concept": {

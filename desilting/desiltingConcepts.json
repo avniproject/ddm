@@ -235,5 +235,11 @@
     "name": "NGO",
     "uuid": "86a3a3e1-1b59-40a0-aa6c-f2f5bc9c0765",
     "dataType": "Text"
+  },
+  {
+    "name": "Amount spent by farmer for carting the silt per day",
+    "uuid": "5bc975ff-5bb0-4f7f-8648-3efc4e216d94",
+    "dataType": "Numeric",
+    "unit": "Rs"
   }
 ]
