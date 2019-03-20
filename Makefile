@@ -79,34 +79,37 @@ deploy_checklists:
 
 # <deploy>
 deploy_locations: auth
-	$(call _curl,POST,locations,@address_level/village.json)
+#	$(call _curl,POST,locations,@address_level/village.json)
 #	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
 #	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
 	#$(call _curl,POST,locations,@address_level/locations_beed.json)
 	#$(call _curl,POST,locations,@address_level/locations_nashik.json)
 
 deploy_org_data: deploy_locations
-	$(call _curl,POST,catchments,@catchments.json)
+#	$(call _curl,POST,catchments,@catchments.json)
 
 deploy_beta_catchments:
 	#$(call _curl,POST,catchments,@users/beta-catchments_nashik.json)
-	$(call _curl,POST,catchments,@users/beta-catchments_beed.json)
+#	$(call _curl,POST,catchments,@users/beta-catchments_beed.json)
 
 deploy_beta_users:
 	#$(call _curl_as_openchs,POST,users,@users/beta-users_nashik.json)
-	$(call _curl_as_openchs,POST,users,@users/beta-users_beed.json)
+#	$(call _curl_as_openchs,POST,users,@users/beta-users_beed.json)
 
 create_admin_user:
-	$(call _curl_as_openchs,POST,users,@staging-users.json)
+	$(call _curl_as_openchs,POST,users,@users/dev-admin-user.json)
+
+create_admin_user_uat:
+	make auth create_admin_user poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 password=$(password) username=admin
 
 create_admin_user_dev:
 	$(call _curl_as_openchs,POST,users,@users/dev-admin-user.json)
 
 create_users_dev:
-	$(call _curl,POST,users,@users/dev-users.json)
+#	$(call _curl,POST,users,@users/dev-users.json)
 
 deploy_org_data_live:
-	make auth deploy_org_data poolId=$(STAGING_USER_POOL_ID) clientId=$(STAGING_APP_CLIENT_ID) username=ddm-admin password=$(STAGING_ADMIN_USER_PASSWORD)
+#	make auth deploy_org_data poolId=$(STAGING_USER_POOL_ID) clientId=$(STAGING_APP_CLIENT_ID) username=ddm-admin password=$(STAGING_ADMIN_USER_PASSWORD)
 
 _deploy_refdata: deploy_subjects
 	$(call _curl,POST,concepts,@registration/registrationConcepts.json)
@@ -239,3 +242,39 @@ migrate_users:
 	@$(foreach file,$(shell find ../../data/ddm-data/ -iname 'users_*.json'),$(call _mcurl,POST,users,$(file));)
 
 migrate_refdata: auth migrate_locations migrate_catchments migrate_users
+
+migrate_locations_staging:
+	make auth migrate_locations poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_catchments_staging:
+	make auth migrate_catchments poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_users_staging:
+	make auth migrate_users poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_refdata_staging:
+	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_locations_uat:
+	make auth migrate_locations poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_catchments_uat:
+	make auth migrate_catchments poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_users_uat:
+	make auth migrate_users poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_refdata_uat:
+	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_locations_prod:
+	make auth migrate_locations poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_catchments_prod:
+	make auth migrate_catchments poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_users_prod:
+	make auth migrate_users poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=ddm-admin password=$(password)
+
+migrate_refdata_prod:
+	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=ddm-admin password=$(password)
