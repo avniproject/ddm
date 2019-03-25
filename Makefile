@@ -246,6 +246,8 @@ migrate_locations:
 	$(call _mcurl,POST,locations,locations_Solapur.json)
 	$(call _mcurl,POST,locations,locations_Wardha.json)
 	$(call _mcurl,POST,locations,locations_Yavatmal.json)
+	$(call _mcurl,POST,locations,locations_Beed.json)
+	$(call _mcurl,POST,locations,locations_Nandurabar.json)
 
 migrate_catchments:
 	$(call _mcurl,POST,catchments,catchments_AhmedNagar.json)
@@ -265,6 +267,8 @@ migrate_catchments:
 	$(call _mcurl,POST,catchments,catchments_Solapur.json)
 	$(call _mcurl,POST,catchments,catchments_Wardha.json)
 	$(call _mcurl,POST,catchments,catchments_Yavatmal.json)
+	$(call _mcurl,POST,catchments,catchments_Beed.json)
+	$(call _mcurl,POST,catchments,catchments_Nandurabar.json)
 
 migrate_users:
 	$(call _mcurl,POST,users,users_AhmedNagar.json)
@@ -284,6 +288,8 @@ migrate_users:
 	$(call _mcurl,POST,users,users_Solapur.json)
 	$(call _mcurl,POST,users,users_Wardha.json)
 	$(call _mcurl,POST,users,users_Yavatmal.json)
+	$(call _mcurl,POST,users,users_Beed.json)
+	$(call _mcurl,POST,users,users_Nandurabar.json)
 
 migrate_refdata: auth migrate_locations migrate_catchments migrate_users
 
