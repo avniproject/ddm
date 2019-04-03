@@ -282,6 +282,7 @@ create or replace view ddm_beneficiary_data as (
          programEnrolment.id                                                                "Enl.Id",
          programEnrolment.is_voided                                                         "Enl.is_voided",
          oet.name                                                                           "Enc.Type",
+         programEncounter.id                                                                "Enc.Id",
          programEncounter.earliest_visit_date_time                                          "Enc.earliest_visit_date_time",
          programEncounter.encounter_date_time                                               "Enc.encounter_date_time",
          programEncounter.program_enrolment_id                                              "Enc.program_enrolment_id",

@@ -79,18 +79,18 @@ deploy_checklists:
 
 # <deploy>
 deploy_locations: auth
-#	$(call _curl,POST,locations,@address_level/village.json)
-#	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
-#	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
-	#$(call _curl,POST,locations,@address_level/locations_beed.json)
-	#$(call _curl,POST,locations,@address_level/locations_nashik.json)
+	$(call _curl,POST,locations,@address_level/village.json)
+	$(call _curl,POST,locations,@address_level/locations_yavatmal.json)
+	$(call _curl,POST,locations,@address_level/locations_aurangabad.json)
+	$(call _curl,POST,locations,@address_level/locations_beed.json)
+	$(call _curl,POST,locations,@address_level/locations_nashik.json)
 
 deploy_org_data: deploy_locations
 #	$(call _curl,POST,catchments,@catchments.json)
 
 deploy_beta_catchments:
-	#$(call _curl,POST,catchments,@users/beta-catchments_nashik.json)
-#	$(call _curl,POST,catchments,@users/beta-catchments_beed.json)
+	$(call _curl,POST,catchments,@users/beta-catchments_nashik.json)
+	$(call _curl,POST,catchments,@users/beta-catchments_beed.json)
 
 deploy_beta_users:
 	#$(call _curl_as_openchs,POST,users,@users/beta-users_nashik.json)
@@ -106,7 +106,7 @@ create_admin_user_dev:
 	$(call _curl_as_openchs,POST,users,@users/dev-admin-user.json)
 
 create_users_dev:
-#	$(call _curl,POST,users,@users/dev-users.json)
+	$(call _curl,POST,users,@users/dev-users.json)
 
 deploy_org_data_live:
 #	make auth deploy_org_data poolId=$(STAGING_USER_POOL_ID) clientId=$(STAGING_APP_CLIENT_ID) username=admin@ddm password=$(STAGING_ADMIN_USER_PASSWORD)
@@ -139,7 +139,7 @@ deploy_rules_live:
 
 deploy_refdata: _deploy_refdata
 
-deploy: create_admin_user_dev deploy_org_data _deploy_refdata deploy_rules create_users_dev##
+deploy: create_admin_user_dev create_users_dev deploy_org_data _deploy_refdata deploy_beta_catchments deploy_rules
 
 _deploy_prod: deploy_org_data _deploy_refdata deploy_checklists deploy_rules
 
