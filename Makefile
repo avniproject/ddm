@@ -291,6 +291,10 @@ migrate_users:
 	$(call _mcurl,POST,users,users_Beed.json)
 	$(call _mcurl,POST,users,users_Nandurabar.json)
 
+migrate_taluka_wise:
+	$(call _mcurl,POST,catchments,taluka_wise.catchments.json)
+	$(call _mcurl,POST,users,taluka_wise.users.json)
+
 migrate_refdata: auth migrate_locations migrate_catchments migrate_users
 
 migrate_locations_staging:
@@ -328,3 +332,6 @@ migrate_users_prod:
 
 migrate_refdata_prod:
 	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
+
+migrate_taluka_wise_prod:
+	make auth migrate_taluka_wise poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
