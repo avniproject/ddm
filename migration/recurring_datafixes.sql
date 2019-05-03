@@ -9,7 +9,9 @@ set is_voided = true where uuid in (SELECT ind.uuid
                                     where ind.is_voided = false
                                       and creator.name <> 'dataimporter@ddm')
 returning audit_id)
-update audit set last_modified_date_time = current_timestamp where audit.id in (select audit_id from audits);
+update audit set last_modified_date_time = current_timestamp,
+                 last_modified_by_id = (select id from users where username = 'dataimporter@ddm')
+where audit.id in (select audit_id from audits);
 
 -- Void enrolment if water body is_voided or the enrolment isn't imported by dataimporter@ddm
 with audits as (update program_enrolment
@@ -21,7 +23,9 @@ set is_voided = true where uuid in (SELECT enl.uuid
                                     where i.is_voided OR (enl.is_voided = false
                                                   and creator.name <> 'dataimporter@ddm'))
 returning audit_id)
-update audit set last_modified_date_time = current_timestamp where audit.id in (select audit_id from audits);
+update audit set last_modified_date_time = current_timestamp,
+                 last_modified_by_id = (select id from users where username = 'dataimporter@ddm')
+where audit.id in (select audit_id from audits);
 
 -- Void encounter if enrolment is_voided
 with audits as (update program_encounter
@@ -30,4 +34,6 @@ set is_voided = true where id in (select enc.id
                                                 join program_enrolment enl on enc.program_enrolment_id = enl.id
                                     where enc.is_voided is false
                                       and enl.is_voided is true) returning audit_id)
-update audit set last_modified_date_time = current_timestamp where audit.id in (select audit_id from audits);
+update audit set last_modified_date_time = current_timestamp,
+                 last_modified_by_id = (select id from users where username = 'dataimporter@ddm')
+where audit.id in (select audit_id from audits);
