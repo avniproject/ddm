@@ -410,13 +410,3 @@ create or replace view ddm_record_issues_view as (
 );
 -- ----------------------------------------------------
 set role none;
-
-select grant_all_on_views(array [
-                            'ddm_record_poclain_details',
-                            'ddm_record_jcb_details',
-                            'ddm_baseline_survey',
-                            'ddm_endline_survey',
-                            'ddm_beneficiary_data',
-                            'ddm_locations_view',
-                            'ddm_record_issues_view'
-                            ], 'ddm');
