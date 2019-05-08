@@ -295,31 +295,38 @@ migrate_taluka_wise:
 	$(call _mcurl,POST,catchments,taluka_wise.catchments.json)
 	$(call _mcurl,POST,users,taluka_wise.users.json)
 
-migrate_refdata: auth migrate_locations migrate_catchments migrate_users
+define _migrate_refdata
+	$(call _mcurl,POST,locations,locations_$(1).json)
+	$(call _mcurl,POST,catchments,catchments_$(1).json)
+	$(call _mcurl,POST,users,users_$(1).json)
+endef
 
-migrate_locations_staging:
-	make auth migrate_locations poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin@ddm password=$(password)
-
-migrate_catchments_staging:
-	make auth migrate_catchments poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin@ddm password=$(password)
-
-migrate_users_staging:
-	make auth migrate_users poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin@ddm password=$(password)
+migrate_refdata: auth
+	$(call _migrate_refdata,AhmedNagar)
+	$(call _migrate_refdata,Amravati)
+	$(call _migrate_refdata,Aurangabad)
+	$(call _migrate_refdata,Beed)
+	$(call _migrate_refdata,Dhule)
+	$(call _migrate_refdata,Hingoli)
+	$(call _migrate_refdata,Jalgaon)
+	$(call _migrate_refdata,Jalna)
+	$(call _migrate_refdata,Nanded)
+	$(call _migrate_refdata,Nandurabar)
+	$(call _migrate_refdata,Nashik)
+	$(call _migrate_refdata,Palghar)
+	$(call _migrate_refdata,Parbhani)
+	$(call _migrate_refdata,Pune)
+	$(call _migrate_refdata,Sangli)
+	$(call _migrate_refdata,Satara)
+	$(call _migrate_refdata,Solapur)
+	$(call _migrate_refdata,Wardha)
+	$(call _migrate_refdata,Yavatmal)
 
 migrate_refdata_staging:
-	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin@ddm password=$(password)
-
-migrate_locations_uat:
-	make auth migrate_locations poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=admin@ddm password=$(password)
-
-migrate_catchments_uat:
-	make auth migrate_catchments poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=admin@ddm password=$(password)
-
-migrate_users_uat:
-	make auth migrate_users poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=admin@ddm password=$(password)
+	make auth migrate_refdata poolId=$(OPENCHS_STAGING_USER_POOL_ID) clientId=$(OPENCHS_STAGING_APP_CLIENT_ID) server=https://staging.openchs.org port=443 username=admin@ddm password=$(password)
 
 migrate_refdata_uat:
-	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=admin@ddm password=$(password)
+	make auth migrate_refdata poolId=$(OPENCHS_UAT_USER_POOL_ID) clientId=$(OPENCHS_UAT_APP_CLIENT_ID) server=https://uat.openchs.org port=443 username=admin@ddm password=$(password)
 
 migrate_locations_prod:
 	make auth migrate_locations poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
@@ -331,7 +338,7 @@ migrate_users_prod:
 	make auth migrate_users poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
 
 migrate_refdata_prod:
-	make auth migrate_locations migrate_catchments migrate_users poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
+	make auth migrate_refdata poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
 
 migrate_taluka_wise_prod:
 	make auth migrate_taluka_wise poolId=$(OPENCHS_PROD_USER_POOL_ID) clientId=$(OPENCHS_PROD_APP_CLIENT_ID) server=https://server.openchs.org port=443 username=admin@ddm password=$(password)
