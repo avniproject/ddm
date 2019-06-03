@@ -47,5 +47,11 @@
     "encounterTypeUUID": "647522f5-a872-44c0-aa51-e82c47a006ee",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
     "comment": "Desilting endline survey"
+  },
+  {
+    "uuid": "c2c56a70-23c7-4384-94e4-f5e9d47ce4db",
+    "formUUID": "8d1f4548-e327-4416-be33-46b027cc4b59",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
+    "comment": "Individual Registration"
   }
 ]
