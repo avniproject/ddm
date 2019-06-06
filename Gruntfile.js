@@ -56,6 +56,7 @@ module.exports = IDI.configure({
                 // "../../data/ddm-data/catchments_Solapur.json",
                 // "../../data/ddm-data/catchments_Wardha.json",
                 // "../../data/ddm-data/catchments_Yavatmal.json",
+                // "../../data/ddm-data/catchments_Nagpur.json",
 
                 // "../../data/ddm-data/taluka_wise.catchments.json",
             ],
@@ -99,6 +100,7 @@ module.exports = IDI.configure({
                 // "../../data/ddm-data/locations_Solapur.json",
                 // "../../data/ddm-data/locations_Wardha.json",
                 // "../../data/ddm-data/locations_Yavatmal.json",
+                // "../../data/ddm-data/locations_Nagpur.json",
             ],
         },
         "programs": [
@@ -141,6 +143,7 @@ module.exports = IDI.configure({
                 // "../../data/ddm-data/users_Solapur.json",
                 // "../../data/ddm-data/users_Wardha.json",
                 // "../../data/ddm-data/users_Yavatmal.json",
+                // "../../data/ddm-data/users_Nagpur.json",
 
                 // "../../data/ddm-data/taluka_wise.users.json",
             ],
