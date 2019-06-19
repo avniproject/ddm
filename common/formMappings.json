@@ -4,6 +4,7 @@
     "formUUID": "b768992d-2d6b-48e3-830a-e3029fb08f8e",
     "encounterTypeUUID": null,
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "GDGS 2019 enrolment"
   },
   {
@@ -11,6 +12,7 @@
     "formUUID": "ac7158bb-1ca9-4a75-b003-f10816830fb0",
     "encounterTypeUUID": "7082bfff-59a4-4c2b-ad28-ca4abe7480c8",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "GDGS 2019 Baseline survey"
   },
   {
@@ -18,6 +20,7 @@
     "formUUID": "8cd7f4c4-dc56-4e64-89d3-7327900f51f1",
     "encounterTypeUUID": "92f1696f-6a7e-4256-a2bf-9780888bbe80",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "Record issues form"
   },
   {
@@ -25,6 +28,7 @@
     "formUUID": "63a064fa-8efe-4ad4-978c-4b973f90afe5",
     "encounterTypeUUID": "a8ed0b01-4acc-41c6-8a51-c8c16f2cade7",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "Desilting JCB details form"
   },
   {
@@ -32,6 +36,7 @@
     "formUUID": "63a064fa-8efe-4ad4-978c-4b973f90afe5",
     "encounterTypeUUID": "b7c306d7-b252-4562-8f6e-321643955117",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "Desilting poclain details form"
   },
   {
@@ -39,6 +44,7 @@
     "formUUID": "45b4fd50-0b2d-4aba-8a88-a746d917c1fe",
     "encounterTypeUUID": "f6a89f2f-4aec-44c1-a33e-305f50855e96",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "Record Beneficiary data"
   },
   {
@@ -46,6 +52,7 @@
     "formUUID": "4f4539ab-3fe7-44cc-850f-92deac61b767",
     "encounterTypeUUID": "647522f5-a872-44c0-aa51-e82c47a006ee",
     "programUUID": "082180d6-c4ef-4695-a137-f14c3b651736",
+    "subjectTypeUUID": "8a9b0ef8-325b-4f75-8453-daeaf59df29d",
     "comment": "Desilting endline survey"
   },
   {

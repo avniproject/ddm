@@ -21,9 +21,6 @@ module.exports = IDI.configure({
             "./desilting/baselineSurveyForm.json",
             "./desilting/beneficiaryDataForm.json",
         ],
-        "formMappings": [
-            "./common/formMappings.json",
-        ],
         "formDeletions": [],
         "formAdditions": [],
         "catchments": {
@@ -115,6 +112,9 @@ module.exports = IDI.configure({
         "operationalEncounterTypes": ["./operationalModules/operationalEncounterTypes.json"],
         "operationalPrograms": ["./operationalModules/operationalPrograms.json"],
         "operationalSubjectTypes": ["./registration/operationalSubjectTypes.json"],
+        "formMappings": [
+            "./common/formMappings.json",
+        ],
         "users": {
             "dev": ["./users/dev-users.json"],
             "staging": [
