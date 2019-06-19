@@ -41,9 +41,7 @@ class DesiltingProgramSummary {
     static getTotalBeneficiaries(programEnrolment) {
         const encounters = programEnrolment.getEncountersOfType('Record beneficiary data');
         const distinctNames = new Set(encounters.map(enc =>
-            `${enc.getObservationReadableValue('Village')}-
-            ${enc.getObservationReadableValue('Beneficiary name')}-
-            ${enc.getObservationReadableValue('Mobile number')}`
+            `${enc.getObservationReadableValue('Mobile number')}`
         ));
         return distinctNames.size;
     }
