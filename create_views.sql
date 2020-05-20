@@ -341,16 +341,19 @@ create or replace view ddm_locations_view as (
          dist.id    district_id,
          dist.title district
   from address_level vill
+         join address_level_type vill_type on vill.type_id = vill_type.id
          join location_location_mapping vill_block
               on vill.id = vill_block.location_id
          join address_level blck on blck.id = vill_block.parent_location_id
+         join address_level_type blck_type on blck.type_id = blck_type.id
          join location_location_mapping block_dist
               on blck.id = block_dist.location_id
          join address_level dist
               on dist.id = block_dist.parent_location_id
-  where vill.level = 1
-    and blck.level = 3
-    and dist.level = 4
+         join address_level_type dist_type on dist.type_id = dist_type.id
+  where vill_type.level = 1
+    and blck_type.level = 3
+    and dist_type.level = 4
 );
 
 drop view if exists ddm_record_issues_view;
